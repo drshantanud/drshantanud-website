@@ -1,0 +1,455 @@
+=DS1|dessert|V|High protein
+title: Kesar-Elaichi Shrikhand, Reduced Sugar
+blurb: The Maharashtrian and Gujarati festive dessert of strained, sweetened curd with saffron and cardamom — made here with a third of the usual sugar and a spoon of milk powder for extra creaminess.
+region: Maharashtra (also Gujarat)
+status: Adaptation — sugar reduced by about two-thirds; milk powder added
+label: Strictly vegetarian, egg-free
+time: Strain 6–8 h · Prep 10 min · Chill 1 h
+serves: 2 (about 165 g each)
+diff: Easy
+good: Festivals (Gudi Padwa), with puri or on its own
+tags: High protein · Soy-free · Whey-free · Gluten-free · Meal-prep friendly
+allergens: Milk, tree nuts (pistachio)
+nut: *As written|245|13|23|11|6|<1|22|10|5.5
+tier: High protein. Traditional shrikhand often uses 30–40 g sugar per serving; this uses 10 g. Hung curd estimated from toned-milk curd at the straining yield given in the ingredients. Values checked against IFCT 2017 on 15 Oct 2026.
+ing: 260 g hung curd (chakka), from about 600 g toned-milk curd strained 6–8 hours in the refrigerator
+ing: 20 g powdered sugar · 20 g skimmed milk powder
+ing: A generous pinch of saffron soaked in 10 ml warm milk · ½ tsp cardamom powder · pinch of nutmeg
+ing: 10 g pistachios, slivered
+step: Tie the curd in a muslin cloth and hang it, or set it in a sieve over a bowl, in the refrigerator for 6–8 hours until thick and no longer dripping.
+step: Push the hung curd through a fine sieve (or whisk hard) with the sugar and milk powder until completely smooth and glossy — this is what gives shrikhand its texture.
+step: Stir in the saffron milk, cardamom and nutmeg.
+step: Chill at least 1 hour. Serve topped with pistachios.
+prot: Hung curd supplies 8.5 g per serving, milk powder 3.5 g, pistachios 1 g.
+prot: Boost: replace 60 g of the hung curd with Greek yogurt with a higher protein label (often 10 g per 100 g or more; about +1 g protein per serving).
+var: Regional: amrakhand — fold in 60 g Alphonso pulp and reduce sugar to 10 g (similar total sugars).
+var: Substitution: 15 g jaggery powder for the sugar (similar calories, a caramel note; colour turns beige).
+var: Storage: 3 days refrigerated.
+var: Food safety: always strain curd in the refrigerator, not at room temperature.
+var: Meal prep: excellent.
+
+=DS2|dessert|V|Good source
+title: Bhapa Doi
+blurb: Bengal's steamed sweet yogurt — silky, set like a custard — made with hung curd, milk and milk powder instead of condensed milk, and sweetened with nolen gur or jaggery.
+region: West Bengal
+status: Adaptation — milk powder and gur replace condensed milk
+label: Strictly vegetarian, egg-free
+time: Strain 4 h · Prep 10 min · Steam 25 min · Chill 2 h
+serves: 3 (1 ramekin, about 130 g, each)
+diff: Easy
+good: Festive meals, make-ahead dessert
+tags: Good source (High with boost) · Soy-free · Whey-free · Gluten-free · Meal-prep friendly
+allergens: Milk, tree nuts (pistachio garnish)
+nut: *As written|195|11.5|21|7|4|<1|21|8|6.0
+tier: Good source (just under 12 g). The boost below — 100 g more hung curd in place of the milk — brings it to about 12.5 g and makes it High protein. A condensed-milk bhapa doi typically has 20–25 g added sugar per ramekin. Values checked against IFCT 2017 on 15 Oct 2026.
+ing: 250 g hung curd (from about 550 g curd, strained 4 hours)
+ing: 100 ml toned milk · 40 g skimmed milk powder
+ing: 30 g nolen gur (date-palm jaggery) or regular jaggery, grated
+ing: ¼ tsp cardamom powder · 5 g pistachios, slivered
+step: Warm the milk and dissolve the gur in it. Cool to room temperature (hot milk would split the curd).
+step: Whisk hung curd until smooth. Add the milk powder and gur-milk; whisk until no lumps remain. Stir in cardamom.
+step: Pour into 3 small ramekins or steel katoris. Cover each tightly with foil.
+step: Steam over gently simmering water for 20–25 minutes until set at the edges with a slight wobble in the centre. (Or bake in a water bath at 160 °C for 25–30 minutes.)
+step: Cool, then chill at least 2 hours. Garnish with pistachios.
+prot: Hung curd supplies 5 g per serving, milk powder 4.5 g, milk 1 g.
+prot: Boost: replace the 100 ml milk with 100 g more hung curd (+1 g protein, +15 kcal per serving; denser texture; makes it High protein).
+var: Regional: mishti doi — set sweetened milk with a culture overnight; caramelised sugar gives its colour (higher in sugar).
+var: Substitution: Greek yogurt for hung curd.
+var: Storage: 3 days refrigerated, covered.
+var: Food safety: chill within 1 hour of steaming.
+var: Meal prep: excellent — make a day ahead.
+
+=DS3|dessert|V|Good source
+title: Nolen Gur Sandesh, Lighter
+blurb: Kolkata's winter sweet: fresh chhena kneaded with nolen gur until smooth, then cooked briefly and shaped. This version uses less gur and no added sugar.
+region: West Bengal (Kolkata)
+status: Adaptation — gur reduced by about half; no added sugar beyond gur
+label: Strictly vegetarian, egg-free
+time: Prep 30 min · Cook 10 min · Cool 30 min
+serves: 3 (3 small pieces, about 60 g, each)
+diff: Moderate (chhena texture)
+good: Winter festivals, gifting
+tags: Good source · Soy-free · Whey-free · Gluten-free
+allergens: Milk, tree nuts (pistachio garnish)
+nut: *As written|160|9|9|10|6|<1|8|7|5.5
+tier: Good source. Chhena values are estimated from the milk used (about 80% of the milk protein and 90% of the fat retained, most lactose lost to the whey) — confirm by weighing a test batch. Values checked against IFCT 2017 on 15 Oct 2026.
+ing: 1 litre toned milk · 2 tbsp lemon juice in 2 tbsp water
+ing: 25 g nolen gur (or 25 g jaggery with 2 drops of rose water)
+ing: ¼ tsp cardamom powder · 5 g pistachios, finely chopped
+step: Bring milk to a boil. Turn off the heat, wait 1 minute, then add the lemon water gradually, stirring, until the milk splits into curds and clear greenish whey.
+step: Pour into a muslin-lined colander; rinse under cold water to remove the lemon taste. Squeeze gently and hang 30 minutes — the chhena should be moist but not dripping (about 150 g).
+step: Knead the chhena on a plate with the heel of your palm for 5–6 minutes until completely smooth and slightly greasy.
+step: Mix in the gur. Cook in a non-stick pan on low, stirring, for 5–7 minutes until it leaves the sides and just holds together. Do not overcook or it turns grainy.
+step: Cool until warm, add cardamom, knead 1 minute, and shape into 9 small rounds. Press a little pistachio on top.
+prot: Chhena supplies 8.5 g per serving; pistachio 0.5 g.
+prot: Boost: knead in 15 g skimmed milk powder with the gur (+2 g protein, +20 kcal per serving).
+var: Regional: kacha golla — uncooked chhena with sugar, softer and rounder.
+var: Substitution: if nolen gur is unavailable, use regular jaggery; the taste is earthier.
+var: Storage: 2 days refrigerated.
+var: Food safety: chhena is perishable; refrigerate within 2 hours.
+var: Meal prep: make chhena a day ahead.
+
+=DS4|dessert|V|Good source
+title: Chhena Poda, Reduced Sugar
+blurb: Odisha's "burnt cheese": sweetened chhena baked until a caramelised crust forms over a soft, fragrant centre — India's own cheesecake. This version uses a third of the usual sugar.
+region: Odisha (Nayagarh)
+status: Adaptation — sugar reduced by about two-thirds; oven-baked
+label: Strictly vegetarian, egg-free
+time: Prep 40 min · Bake 50 min · Cool 1 h
+serves: 6 (1 wedge, about 60 g, each)
+diff: Moderate
+good: Festivals, gifting, make-ahead dessert
+tags: Good source · Soy-free · Whey-free · Meal-prep friendly
+allergens: Milk, tree nuts (cashew), gluten (semolina)
+nut: *As written|185|9|14|11|6|<1|11|8|5.0
+tier: Good source (just under 5 g per 100 kcal before rounding). Traditional chhena poda often uses around 150 g sugar for this amount of chhena; this uses 50 g. Chhena values estimated from the milk used, as in DS3. Values checked against IFCT 2017 on 15 Oct 2026.
+ing: Chhena from 2 litres toned milk (about 300 g; method in DS3)
+ing: 50 g sugar (or jaggery) · 20 g fine semolina (rava) · ½ tsp cardamom powder
+ing: 10 g cashews, chopped · 10 g raisins
+ing: 5 g ghee for greasing
+step: Make the chhena (DS3, steps 1–2), keeping it slightly moist.
+step: Knead chhena with sugar for 5 minutes until smooth. Mix in semolina, cardamom, cashews and raisins. Rest 15 minutes so the semolina hydrates.
+step: Grease a 15 cm cake tin or steel bowl with ghee; line the base with a banana leaf if available.
+step: Press in the mixture and level the top.
+step: Bake at 180 °C for 45–50 minutes, until deep brown on top and at the edges and a knife in the centre comes out clean.
+step: Cool in the tin for 1 hour; turn out and cut into 6 wedges. Serve warm or at room temperature.
+prot: Chhena supplies 8.5 g per serving; semolina and cashew 0.5 g.
+prot: Boost: replace the semolina with 20 g skimmed milk powder (+1 g protein per serving; gluten-free; slightly softer).
+var: Regional: Odia temple style — sweetened with jaggery and baked slowly in a wood-fired oven, wrapped in sal leaves.
+var: Substitution: 300 g crumbled paneer, kneaded until smooth, in place of fresh chhena (higher fat).
+var: Storage: 3 days refrigerated; tastes even better the next day.
+var: Food safety: refrigerate within 2 hours once cool.
+var: Meal prep: excellent.
+
+=DS5|dessert|V|Good source
+title: Cocoa-Yogurt Mousse
+blurb: A no-cook chocolate mousse made from thick hung curd, cocoa and a little dark chocolate, lightly sweetened with honey — rich and smooth, with about 9 g protein.
+region: Modern
+status: Modern recipe — no traditional claim
+label: Strictly vegetarian, egg-free
+time: Strain 6 h · Prep 10 min · Chill 1 h
+serves: 2 (about 145 g each)
+diff: Easy
+good: Quick dessert, make-ahead
+tags: Good source (High with milk powder or whey) · Soy-free · Whey optional · Gluten-free · Meal-prep friendly
+allergens: Milk; dark chocolate may contain traces of nuts or soy (check the label)
+nut: *Without whey|205|9|16|11|7|3|14|8|4.5
+nut: With 15 g whey|265|21|17|12|8|3|15|8|8.0
+tier: Good source without whey; High protein with optional whey (about 21 g) or with 10 g skimmed milk powder per serving (about 13 g; see Boost). Added sugar is from honey (6 g) and dark chocolate (2 g). Values checked against IFCT 2017 on 15 Oct 2026.
+ing: 250 g hung curd, chilled
+ing: 15 g unsweetened cocoa powder · 15 g dark chocolate (70%), melted
+ing: 15 g honey · ½ tsp vanilla · pinch of salt · optional: 30 g unflavoured or chocolate whey (15 g per serving)
+ing: Optional garnish: a few pomegranate seeds or a sprinkle of coffee powder
+step: Melt the chocolate in a bowl over hot water (or in 15-second microwave bursts). Cool 2 minutes.
+step: Sift the cocoa into the hung curd. Add honey, vanilla, salt and whey (if using).
+step: Whisk until smooth, then whisk in the melted chocolate quickly so it doesn't set in streaks.
+step: Spoon into two glasses. Chill at least 1 hour; it firms to a mousse-like texture.
+prot: Hung curd supplies 7 g per serving; cocoa and chocolate 2 g.
+prot: Boost: whey as above (+12 g protein, +60 kcal per serving), or whisk in 10 g skimmed milk powder per serving (+3.5 g protein, +35 kcal).
+var: Flavour: mocha — add ½ tsp instant coffee dissolved in 1 tsp hot water; or orange zest.
+var: Substitution: Greek yogurt for hung curd; 2 soft dates blended in for the honey (similar sugar).
+var: Storage: 2 days refrigerated.
+var: Food safety: keep chilled; don't leave out for more than 2 hours.
+var: Meal prep: excellent.
+
+=DS6|dessert|V|Good source
+title: Chocolate Protein Pudding
+blurb: A stovetop chocolate milk pudding, set with a little cornflour and enriched with milk powder. Whey can be whisked in once it cools for a higher-protein version.
+region: Modern
+status: Modern recipe — no traditional claim
+label: Strictly vegetarian, egg-free
+time: Prep 5 min · Cook 10 min · Chill 2 h
+serves: 2 (about 230 g each)
+diff: Easy
+good: Children's dessert, make-ahead
+tags: Good source (High with whey) · Soy-free · Gluten-free · Whey optional · Meal-prep friendly
+allergens: Milk
+nut: *Without whey|245|11|35|7|4|3|25|10|4.5
+nut: With 15 g whey|305|23|36|8|5|3|25|10|7.5
+tier: Good source without whey; High protein with whey. Total sugars include about 15 g lactose from milk and milk powder. Values checked against IFCT 2017 on 15 Oct 2026.
+ing: 400 ml toned milk · 20 g skimmed milk powder
+ing: 20 g cornflour · 15 g unsweetened cocoa powder · 20 g sugar or jaggery powder
+ing: ½ tsp vanilla · pinch of salt
+ing: Optional: 30 g unflavoured or chocolate whey (15 g per serving)
+step: Whisk cornflour, cocoa, milk powder, sugar and salt with 100 ml cold milk to a smooth paste.
+step: Heat the remaining milk in a heavy pan until steaming. Whisk in the paste.
+step: Cook on medium-low, whisking constantly, for 4–5 minutes until it bubbles and thickens enough to coat the back of a spoon thickly.
+step: Off the heat, stir in vanilla. If using whey, let the pudding cool for 10 minutes (to below about 60 °C), then whisk it in thoroughly — added to boiling pudding, whey turns grainy.
+step: Pour into 2 bowls, cover the surface with cling film to stop a skin forming, and chill 2 hours.
+prot: Milk supplies 6 g per serving, milk powder 3.5 g, cocoa 1.5 g.
+prot: Boost: whey as above, or top with 50 g hung curd per bowl (+3 g protein, +45 kcal).
+var: Flavour: elaichi-chocolate — add ¼ tsp cardamom; or a pinch of chilli for a Mexican-style twist.
+var: Substitution: jaggery powder for sugar (similar calories; earthier taste).
+var: Storage: 3 days refrigerated.
+var: Food safety: chill within 1 hour of cooking.
+var: Meal prep: excellent.
+
+=DS7|dessert|V|Good source
+title: Makhana Kheer with Milk Powder
+blurb: Bihar's fox-nut kheer: roasted makhana crushed and simmered in milk with saffron and cardamom. Milk powder replaces the long reduction, adding protein and saving time.
+region: Bihar (Mithila)
+status: Adaptation — milk powder replaces long reduction; sugar reduced
+label: Strictly vegetarian, egg-free
+time: Prep 5 min · Cook 20 min
+serves: 3 (about 230 ml each)
+diff: Easy
+good: Festivals and fasting days (vrat), warm or chilled
+tags: Good source · Soy-free · Whey-free · Gluten-free
+allergens: Milk, tree nuts (almonds)
+nut: *As written|250|11.5|31|9|5|<1|23|8|4.5
+tier: Good source (11.3 g before rounding). The protein comes almost entirely from milk; makhana contributes texture rather than protein. Makhana values from NIN's Nutritive Value of Indian Foods (no IFCT entry). Values checked against IFCT 2017 on 15 Oct 2026.
+ing: 600 ml toned milk · 30 g skimmed milk powder
+ing: 30 g makhana (fox nuts) · 3 g ghee
+ing: 25 g sugar · ¼ tsp cardamom powder · a pinch of saffron
+ing: 10 g almonds, slivered
+step: Roast makhana in ghee on low heat for 5–6 minutes until crisp (one should crunch when pressed). Crush half coarsely; keep half whole.
+step: Whisk milk powder into the milk. Bring to a boil in a heavy pan, stirring.
+step: Add all the makhana. Simmer on low for 12–15 minutes, stirring often, until the makhana is soft and the kheer coats a spoon.
+step: Stir in sugar, saffron and cardamom; simmer 2 minutes.
+step: Serve warm or chilled, topped with almonds.
+prot: Milk supplies 6 g per serving, milk powder 3.5 g, makhana 1 g, almonds 0.5 g.
+prot: Boost: increase milk powder to 45 g (+2 g protein, +20 kcal and +2.5 g lactose per serving).
+var: Regional: Mithila makhana-kheer with fresh coconut and a little jaggery (adds about 30 kcal per serving).
+var: Substitution: for vrat, use rock sugar or jaggery as your custom permits.
+var: Storage: 2 days refrigerated; it thickens — loosen with milk.
+var: Food safety: refrigerate within 2 hours.
+var: Meal prep: good.
+
+=DS8|dessert|V|Good source
+title: Mango Chia Pudding
+blurb: Chia seeds soaked overnight in milk and hung curd, layered with ripe mango: a no-cook dessert with no added sugar and 7 g fibre.
+region: Modern
+status: Modern recipe — no traditional claim
+label: Strictly vegetarian, egg-free
+time: Prep 10 min · Soak 4 h or overnight
+serves: 2 (about 280 g each)
+diff: Easy
+good: Make-ahead dessert, breakfast in summer
+tags: Good source · No added sugar · High fibre · Soy-free · Whey-free · Gluten-free · Meal-prep friendly
+allergens: Milk
+nut: *As written|240|10|19|12|5|7|16|0|4.0
+tier: Good source. All sugars are from mango and milk. Chia values from USDA FoodData Central (no IFCT entry). Values checked against IFCT 2017 on 15 Oct 2026.
+ing: 300 ml toned milk · 80 g hung curd · 30 g chia seeds
+ing: 150 g ripe mango, diced · ¼ tsp cardamom
+step: Whisk milk, hung curd and cardamom until smooth.
+step: Stir in chia seeds. Rest 10 minutes, then stir again to break up any clumps.
+step: Cover and refrigerate at least 4 hours or overnight, until thick and spoonable.
+step: Layer in glasses with the mango. Serve chilled.
+prot: Milk supplies 4.5 g per serving, hung curd 2.5 g, chia 2.5 g.
+prot: Boost: increase hung curd to 150 g (+2 g protein, +35 kcal per serving) for a thicker pudding.
+var: Seasonal: jamun, strawberries or chopped chikoo in place of mango.
+var: Substitution: sabja (basil) seeds soak faster but have less protein and fat.
+var: Storage: 2 days refrigerated (add mango on the day).
+var: Food safety: always soak chia before eating; dry chia swells and can be a choking hazard.
+var: Meal prep: excellent.
+
+=DS9|dessert|V|Good source
+title: Seasonal Fruit-Yogurt Parfait with Roasted Seeds
+blurb: Layers of thick hung curd, seasonal Indian fruit and crunchy roasted pumpkin and sunflower seeds, with a drizzle of honey and cinnamon.
+region: Modern
+status: Modern recipe — no traditional claim
+label: Strictly vegetarian, egg-free
+time: Prep 10 min (hung curd made ahead)
+serves: 1 (about 290 g)
+diff: Easy
+good: Dessert, breakfast or post-workout
+tags: Good source (High with swap or whey) · Quick · Soy-free · Whey-free · Gluten-free
+allergens: Milk; seeds
+nut: *As written|295|14|23|17|7|6|20|4|4.5
+tier: Good source. The seeds add fat as well as protein, keeping it under 5 g protein per 100 kcal. Crushed roasted chana in place of the seeds (see Substitution) gives about 13 g and makes it High protein, as does the whey boost. Values checked against IFCT 2017 on 15 Oct 2026.
+ing: 150 g hung curd · 5 g honey · pinch of cinnamon
+ing: 120 g seasonal fruit: pomegranate seeds, guava, apple, papaya, strawberries or mango, diced
+ing: 15 g pumpkin and sunflower seeds, dry-roasted 3 minutes
+step: Whisk the hung curd with honey and cinnamon until smooth.
+step: In a glass, layer a third of the curd, half the fruit and a third of the seeds; repeat; finish with curd and seeds.
+step: Serve at once, while the seeds are crunchy.
+prot: Hung curd supplies 8.5 g, seeds 4 g, fruit 1 g.
+prot: Boost: 10 g whey whisked into the curd (+8 g protein, +40 kcal).
+var: Regional flavour: Kesar-pista — saffron and pistachios with mango in summer; chikoo and nutmeg in winter.
+var: Substitution: roasted chana (crushed) for seeds (similar protein, less fat; makes it High protein).
+var: Storage: assemble just before eating; store seeds separately.
+var: Food safety: wash fruit well.
+var: Meal prep: prepare curd and fruit ahead; keep seeds dry.
+
+=DS10|dessert|V|Good source
+title: Peanut-Cocoa Protein Bites
+blurb: No-cook bites of roasted peanuts, roasted chana, cocoa and milk powder, bound with dates — a portable sweet that keeps for a week.
+region: Modern
+status: Modern recipe — no traditional claim
+label: Strictly vegetarian, egg-free
+time: Prep 20 min · Chill 30 min
+serves: 6 (2 bites, about 35 g, each; makes 12)
+diff: Easy
+good: Tiffin, travel, after-dinner sweet
+tags: Good source · High fibre · Soy-free · Whey-free · Gluten-free · Meal-prep friendly
+allergens: Peanuts, milk
+nut: *2 bites|195|9|23|8|2|6|15|11|4.5
+tier: Good source. "Added sugar" here is the sugar from dates, which act as the sweetener and binder. Values checked against IFCT 2017 on 15 Oct 2026.
+ing: 100 g roasted peanuts (skinned) · 60 g roasted chana (dalia)
+ing: 100 g soft dates, deseeded · 15 g unsweetened cocoa · 30 g skimmed milk powder · pinch of salt
+ing: 1–2 tbsp water if needed
+step: Pulse peanuts and roasted chana in a mixer to a coarse meal.
+step: Add dates, cocoa, milk powder and salt. Pulse until the mixture clumps when pressed, adding water a teaspoon at a time only if needed.
+step: Divide into 12 portions (about 17 g each) and roll into firm balls.
+step: Chill 30 minutes to set.
+prot: Peanuts supply 4 g per serving, roasted chana 2 g, milk powder 2 g, cocoa and dates 1 g.
+prot: Boost: replace the milk powder with 30 g whey (+2 g protein per serving).
+var: Regional flavour: til-gud style — roll in toasted sesame (adds about 15 kcal per serving).
+var: Substitution: almonds for half the peanuts (slightly less protein, more cost).
+var: Storage: 1 week refrigerated in an airtight box; 1 month frozen.
+var: Food safety: keep dry; check that peanuts are fresh, not rancid or mouldy.
+var: Meal prep: excellent.
+
+=DS11|dessert|V|Good source
+title: Quick Paneer Kalakand
+blurb: Alwar's grainy, milky kalakand made the quick way — crumbled paneer cooked with milk and milk powder until it sets — with far less sugar than the halwai version.
+region: Rajasthan (Alwar)
+status: Adaptation — paneer and milk powder replace slow-reduced milk; sugar reduced by about half
+label: Strictly vegetarian, egg-free
+time: Prep 5 min · Cook 15 min · Set 2 h
+serves: 6 (1 piece, about 60 g, each)
+diff: Easy
+good: Festivals (Diwali), gifting
+tags: Good source · Soy-free · Whey-free · Gluten-free · Meal-prep friendly
+allergens: Milk, tree nuts (pistachio)
+nut: *1 piece|165|10|16|7|4|<1|16|7|6.0
+tier: Good source. Shop kalakand often has 15–20 g added sugar per similar piece; this has about 7 g. Total sugars include the lactose in paneer as listed in IFCT 2017. Values checked against IFCT 2017 on 15 Oct 2026.
+ing: 200 g full-fat paneer, finely crumbled
+ing: 200 ml toned milk · 40 g skimmed milk powder · 40 g sugar
+ing: ½ tsp cardamom powder · a pinch of saffron (optional) · 10 g pistachios, slivered
+step: In a heavy non-stick pan, combine paneer, milk and milk powder. Stir until no milk-powder lumps remain.
+step: Cook on medium-low, stirring and scraping constantly, for 10–12 minutes, until most of the liquid evaporates and the mixture thickens.
+step: Add sugar; it will loosen the mixture. Keep cooking 3–5 minutes until it gathers into a soft mass that leaves the sides of the pan.
+step: Stir in cardamom and saffron. Spread in a greased 12 cm square tin, 2–2.5 cm thick. Press pistachios on top.
+step: Cool, then chill 2 hours. Cut into 6 pieces.
+prot: Paneer supplies 6 g per piece, milk powder 2.5 g, milk 1 g.
+prot: Low-fat paneer (check the label) saves about 25 kcal and 3 g fat per piece with similar protein.
+var: Regional: mango kalakand — fold in 60 g Alphonso pulp at step 3 and reduce sugar to 30 g.
+var: Substitution: fresh chhena (DS3) in place of paneer for a softer, more traditional grain.
+var: Storage: 4 days refrigerated.
+var: Food safety: refrigerate once cool.
+var: Meal prep: excellent.
+
+=DS12|dessert|V|Good source
+title: Ragi-Peanut-Date Ladoo
+blurb: Karnataka's nourishing ragi ladoo, made with roasted finger-millet flour, crushed peanuts and dates bound with a little ghee — a children's favourite and a sensible festival sweet.
+region: Karnataka
+status: Adaptation — dates replace most of the jaggery; milk powder added
+label: Strictly vegetarian, egg-free
+time: Prep 10 min · Cook 15 min · Shape 10 min
+serves: 6 (2 ladoos, about 40 g, each; makes 12)
+diff: Easy
+good: Tiffin, travel, festival sweet
+tags: Good source · High fibre · Soy-free · Whey-free · Gluten-free · Meal-prep friendly
+allergens: Peanuts, milk (ghee, milk powder)
+nut: *2 ladoos|200|6|25|8|3|4|12|9|3.0
+tier: Good source — the lowest-protein dessert in the chapter, valued for its millet, fibre and calcium rather than its protein. "Added sugar" is from dates. Values checked against IFCT 2017 on 15 Oct 2026.
+ing: 100 g ragi flour · 80 g roasted peanuts, coarsely crushed
+ing: 80 g soft dates, deseeded and finely chopped · 20 g skimmed milk powder
+ing: 15 g ghee · ½ tsp cardamom powder
+step: Dry-roast ragi flour in a heavy pan on low for 8–10 minutes, stirring constantly, until it smells nutty and darkens slightly. Add 5 g ghee halfway through.
+step: Warm the remaining ghee; add the dates and mash over low heat for 2 minutes until soft and paste-like.
+step: Off the heat, mix the ragi, peanuts, milk powder and cardamom into the dates.
+step: While still warm, press firmly into 12 ladoos of about 20 g each. If they won't hold, add 1 tsp warm milk.
+step: Cool fully before storing.
+prot: Peanuts supply 3.5 g per serving, ragi 1 g, milk powder 1 g.
+prot: Boost: replace 30 g of the ragi with 30 g roasted chana powder (+1 g protein per serving), or serve 2 ladoos with a glass of milk (+8 g protein, +145 kcal).
+var: Regional: traditional ragi unde with jaggery (40 g) and sesame instead of dates and peanuts.
+var: Substitution: jowar or bajra flour for ragi.
+var: Storage: 1 week in an airtight box; 2 weeks refrigerated.
+var: Food safety: roast ragi thoroughly — raw ragi flour should not be eaten uncooked.
+var: Meal prep: excellent.
+
+=DS13|dessert|V|Good source
+title: Chak-Hao Kheer (Manipuri Black Rice)
+blurb: Manipur's festive black-rice kheer: aromatic chak-hao simmered in milk until it turns a deep purple, scented with cardamom and bay leaf.
+region: Manipur
+status: Adaptation — milk powder added; sugar reduced
+label: Strictly vegetarian, egg-free
+time: Soak 3 h · Cook 40 min
+serves: 3 (about 230 ml each)
+diff: Easy
+good: Festive dessert, served warm or chilled
+tags: Good source · Soy-free · Whey-free · Gluten-free
+allergens: Milk, tree nuts (cashew)
+nut: *As written|250|11|35|8|4|<1|21|8|4.0
+tier: Good source. Black-rice values use IFCT brown rice as a proxy (chak-hao has no IFCT entry). Values checked against IFCT 2017 on 15 Oct 2026.
+ing: 50 g chak-hao (Manipuri black rice), soaked 3 hours
+ing: 600 ml toned milk · 20 g skimmed milk powder · 25 g sugar
+ing: 1 bay leaf · ¼ tsp cardamom powder · 10 g cashews, chopped
+step: Drain the rice and crush it lightly with your fingers or pulse once in a mixer, so it cooks creamy.
+step: Simmer the rice with 200 ml water and the bay leaf, covered, for 15 minutes until mostly soft.
+step: Add the milk (whisked with milk powder). Simmer uncovered on low for 20–25 minutes, stirring often, until the grains are tender and the kheer is thick and purple.
+step: Add sugar and cardamom; cook 2 minutes. Remove the bay leaf.
+step: Top with cashews. Serve warm or chilled.
+prot: Milk supplies 6 g per serving, milk powder 2.5 g, black rice 1.5 g, cashews 0.5 g.
+prot: Boost: increase milk powder to 40 g (+2.5 g protein, +25 kcal per serving).
+var: Regional: Assamese black-rice payas with jaggery in place of sugar.
+var: Substitution: if chak-hao is unavailable, use red matta or brown rice (different colour and flavour).
+var: Storage: 2 days refrigerated; loosen with milk.
+var: Food safety: refrigerate within 2 hours.
+var: Meal prep: good.
+
+=DS14|dessert|V|Good source
+title: Parippu Pradhaman (Moong Dal Payasam)
+blurb: Kerala's Onam payasam: roasted moong dal simmered in jaggery and coconut milk, finished with ghee-fried cashews, raisins and coconut. This version lightens the coconut milk with dairy milk.
+region: Kerala
+status: Traditional; part of the coconut milk replaced with toned milk
+label: Strictly vegetarian, egg-free
+time: Prep 10 min · Cook 40 min
+serves: 4 (about 200 ml each)
+diff: Moderate
+good: Onam, Vishu, festive meals
+tags: Good source · Soy-free · Whey-free · Gluten-free*
+allergens: Milk, tree nuts (cashew); coconut
+nut: *As written|290|9|34|13|9|3|23|17|3.0
+tier: Good source. This is the sweetest dessert in the chapter; traditional pradhaman uses about 50% more jaggery. Coconut milk and ghee supply most of the saturated fat. Values checked against IFCT 2017 on 15 Oct 2026.
+ing: 80 g yellow moong dal
+ing: 80 g jaggery, melted in 60 ml water and strained
+ing: 100 ml thick coconut milk · 300 ml toned milk
+ing: 10 g ghee · 10 g cashews · 10 g raisins · 10 g thin coconut slivers
+ing: ½ tsp cardamom powder · pinch of dry ginger powder
+step: Dry-roast moong dal on low for 4–5 minutes until golden and fragrant. Pressure-cook with 300 ml water for 2 whistles until soft but holding shape.
+step: Add the strained jaggery syrup and simmer 8–10 minutes, stirring, until the dal absorbs it and turns glossy.
+step: Stir in the toned milk; simmer 5 minutes.
+step: Lower the heat to the minimum; add the coconut milk and heat through without boiling (boiling can split it). Add cardamom and dry ginger.
+step: Fry cashews, raisins and coconut slivers in ghee until golden; pour over. Serve warm.
+prot: Moong dal supplies 5 g per serving, milk 2.5 g, cashews and coconut 1 g.
+prot: Boost: increase moong dal to 120 g and use 400 ml milk (+3 g protein, +45 kcal per serving), keeping jaggery the same.
+var: Regional: Tamil paasi paruppu payasam — made with milk and jaggery only, no coconut milk.
+var: Substitution: all milk and no coconut milk (lower in saturated fat, less traditional flavour).
+var: Storage: 2 days refrigerated; it thickens — loosen with milk.
+var: Food safety: refrigerate within 2 hours.
+var: Meal prep: good.
+
+=DS15|dessert|E|Good source
+title: Lagan nu Custard, Lighter
+blurb: The Parsi wedding custard: milk and eggs baked with nutmeg and cardamom until set and golden on top. This version uses milk powder instead of hours of reduction, and less sugar.
+region: Maharashtra (Parsi community, Mumbai)
+status: Adaptation — milk powder replaces long reduction; sugar reduced by over half
+label: Contains eggs
+time: Prep 15 min · Bake 45 min · Chill 2 h
+serves: 6 (about 140 g each)
+diff: Easy–moderate
+good: Weddings and navjote celebrations, make-ahead dessert
+tags: Good source · Soy-free · Whey-free · Gluten-free · Meal-prep friendly
+allergens: Eggs, milk, tree nuts (almonds or charoli)
+nut: *As written|195|11|19|9|4|<1|19|10|5.5
+tier: Good source. Traditional lagan nu custard uses condensed milk or about twice the sugar. Values checked against IFCT 2017 on 15 Oct 2026.
+ing: 750 ml toned milk · 30 g skimmed milk powder
+ing: 4 large eggs · 60 g sugar
+ing: ½ tsp nutmeg · ½ tsp cardamom powder · 1 tsp vanilla
+ing: 10 g almonds or charoli, sliced · 3 g ghee for greasing
+step: Whisk milk powder into the milk and warm it until just steaming. Do not boil.
+step: Whisk eggs and sugar until the sugar dissolves (about 1 minute; no need for froth).
+step: Pour the warm milk slowly into the eggs, whisking constantly. Add nutmeg, cardamom and vanilla.
+step: Strain into a greased 20 cm baking dish. Scatter nuts on top.
+step: Set the dish in a larger tray of hot water. Bake at 170 °C for 40–45 minutes, until the top is golden and the centre has a slight wobble.
+step: Cool, then chill at least 2 hours before cutting.
+prot: Eggs supply 5 g per serving, milk 4 g, milk powder 2 g.
+prot: Boost: use 5 eggs (+1 g protein, +12 kcal per serving), or increase milk powder to 50 g (+1 g protein, +12 kcal).
+var: Regional: Goan-Portuguese pudim style — with a thin caramel layer (adds about 30 kcal and 8 g sugar per serving).
+var: Substitution: jaggery powder for sugar (darker, caramel-like).
+var: Storage: 3 days refrigerated, covered.
+var: Food safety: bake until set; the centre must reach at least 71 °C. Chill within 1 hour.
+var: Meal prep: excellent.

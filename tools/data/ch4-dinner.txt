@@ -1,0 +1,659 @@
+=D01|dinner|V|High protein
+title: Palak Paneer, Lighter
+blurb: The Punjabi classic without cream: a bright, garlicky spinach purée with soft paneer, enriched with a little milk. The spinach carries the flavour, so nothing is lost.
+region: Punjab
+status: Adaptation — milk replaces cream; spinach quantity increased
+label: Strictly vegetarian, egg-free
+time: Prep 10 min · Cook 20 min · Total 30 min
+serves: 3
+diff: Easy
+good: Quick weeknight dinner
+tags: High protein · Quick · Lower-carbohydrate (curry only) · Soy-free · Whey-free · No added sugar · Gluten-free* (curry only)
+allergens: Milk; gluten (roti)
+nut: Palak paneer only (about 280 g)|285|18|18|15|7|6|12||6.5
+nut: *Dinner plate: curry, 1 whole-wheat roti, salad|425|23|45|16|7|12|14||5.5
+tier: High protein. A restaurant palak paneer of the same size often has 400–500 kcal from cream and butter. Values checked against IFCT 2017 on 14 Oct 2026.
+ing: 200 g full-fat paneer, in 2 cm cubes · 500 g spinach, washed
+ing: 100 g onion, finely chopped · 80 g tomato · 1 tbsp ginger-garlic paste · 2 green chillies · 4 garlic cloves, sliced
+ing: 10 g groundnut oil · 1 tsp cumin seeds · ½ tsp turmeric · 1 tsp coriander powder · ½ tsp garam masala · 1 tsp kasuri methi · 4 g salt · 60 ml milk
+ing: Plate: 105 g whole-wheat atta for 3 rotis · 300 g cucumber-onion salad
+step: Blanch spinach in boiling water for 1 minute; plunge into iced water. Squeeze lightly and blend with chillies to a smooth purée.
+step: Heat oil; add cumin and sliced garlic until golden. Add onion; cook 5 minutes until soft.
+step: Add ginger-garlic paste and tomato; cook 4 minutes until the tomato breaks down. Add turmeric and coriander powder.
+step: Add the spinach purée, salt and 80 ml water. Simmer 3–4 minutes only, to keep the colour bright.
+step: Stir in milk, then paneer, garam masala and crushed kasuri methi. Simmer 2 minutes. Serve with roti and salad.
+prot: Paneer supplies 12 g per serving; spinach 3.5 g; milk and other vegetables 1.5 g.
+prot: Boost: replace milk with 60 g hung curd whisked in off the heat (+1 g protein per serving), or add 50 g more paneer (+3 g protein, +45 kcal, +3.5 g fat per serving).
+prot: Low-fat paneer (check the label) saves about 70 kcal and 8 g fat per serving.
+var: Regional: Punjabi winter saag paneer — use 250 g mustard greens and 250 g spinach, and a little makki atta to thicken.
+var: Substitution: firm tofu for paneer (see L16).
+var: Storage: 2 days refrigerated; the colour dulls on reheating.
+var: Food safety: refrigerate within 2 hours.
+var: Meal prep: make the spinach purée ahead; it keeps 1 day.
+
+=D02|dinner|V|Good source
+title: Dhaba Dal Tadka (Mixed Dals)
+blurb: The highway dhaba favourite: toor, masoor and chana dals cooked soft and finished with a smoky double tadka of ghee, garlic and dried red chillies.
+region: Delhi and wider North India
+status: Traditional
+label: Strictly vegetarian, egg-free
+time: Soak 30 min · Prep 10 min · Cook 30 min
+serves: 3
+diff: Easy
+good: Everyday dinner, batch cooking
+tags: Good source · High fibre · Soy-free · Whey-free · No added sugar · Meal-prep friendly
+allergens: Milk (ghee, raita); gluten (roti)
+nut: Dal tadka only (about 280 ml)|235|13|33|5|3|8|4||5.5
+nut: *Dinner plate: dal, 1 roti, 150 g cucumber raita|450|22|64|10|6|13|11||5.0
+tier: Good source (plate); the dish alone is High protein. Plate density is just under 5 g per 100 kcal before rounding. Values checked against IFCT 2017 on 14 Oct 2026.
+ing: 75 g toor dal · 50 g masoor dal · 35 g chana dal
+ing: 80 g onion · 120 g tomato, chopped · 1 tbsp ginger-garlic paste · 2 green chillies · ½ tsp turmeric · 5 g salt
+ing: Tadka: 10 g ghee · 1 tsp cumin seeds · 4 garlic cloves, sliced · 2 dry red chillies · pinch of hing · ½ tsp Kashmiri chilli powder · ½ tsp garam masala · 1 tsp kasuri methi
+ing: Plate: 105 g whole-wheat atta for 3 rotis · raita of 450 g curd and 150 g cucumber
+step: Soak the dals together 30 minutes. Pressure-cook with turmeric, salt and 700 ml water for 4 whistles. Whisk lightly; it should be creamy but not smooth.
+step: Heat half the ghee; cook onion 5 minutes until golden. Add ginger-garlic paste, chillies and tomato; cook 5 minutes until soft. Add to the dal and simmer 8 minutes.
+step: For the final tadka, heat the remaining ghee until hot. Add cumin, garlic, red chillies and hing; when the garlic turns golden, take the pan off the heat and add chilli powder, garam masala and kasuri methi.
+step: Pour the tadka over the dal at the table. Serve with roti and raita.
+prot: The three dals supply 12 g per serving; roti 4 g and raita 5.5 g on the plate.
+prot: Boost: use hung curd for the raita (+7 g protein, +60 kcal per serving), which lifts the plate to High protein.
+var: Regional: Dal fry — omit the second tadka and cook the dal thicker, with more onion and tomato.
+var: Smoky dhungar method: place a hot piece of charcoal in a small steel bowl on the dal, pour ½ tsp ghee on it, and cover for 2 minutes.
+var: Storage: 3 days refrigerated; freezes 2 months.
+var: Food safety: reheat until boiling.
+var: Meal prep: excellent.
+
+=D03|dinner|V|High protein
+title: Soya Keema Matar
+blurb: A North Indian keema made with soy granules: the spiced onion-tomato masala and green peas give a texture close to the meat version, at a fraction of the fat.
+region: Delhi and wider North India
+status: Adaptation — soy granules in place of minced meat
+label: Strictly vegetarian, egg-free
+time: Prep 10 min · Cook 20 min · Total 30 min
+serves: 3
+diff: Easy
+good: Quick dinner, tiffin, roti rolls
+tags: High protein · Quick · Lower-fat · High fibre · Whey-free · No added sugar · Meal-prep friendly
+allergens: Soy, milk (curd); gluten (roti)
+nut: Keema only (about 220 g)|205|19|19|5|1|8|6||9.0
+nut: *Dinner plate: keema, 1 roti, salad|345|23|46|6|1|14|8||7.0
+tier: High protein. Soy granules use a typical label — verify against the brand used. Values checked against IFCT 2017 on 14 Oct 2026.
+ing: 80 g soy granules, dry · 120 g green peas
+ing: 120 g onion, finely chopped · 150 g tomato, puréed · 1 tbsp ginger-garlic paste · 2 green chillies · 50 g curd
+ing: 12 g groundnut oil · 1 bay leaf · 1 tsp cumin seeds · ½ tsp turmeric · 1 tsp Kashmiri chilli powder · 1½ tsp coriander powder · 1 tsp garam masala · 5 g salt · 2 tbsp coriander
+ing: Plate: 105 g whole-wheat atta for 3 rotis · 300 g salad
+step: Soak soy granules in 300 ml hot water for 10 minutes. Drain, rinse in cold water and squeeze out all the liquid.
+step: Heat oil; add bay leaf and cumin, then onion. Cook 7–8 minutes until golden brown — this gives the keema its depth.
+step: Add ginger-garlic paste and chillies for 1 minute; add tomato purée and spices. Cook 5 minutes until oil separates.
+step: Add the granules and stir 3 minutes so they absorb the masala.
+step: Add peas, whisked curd and 100 ml water. Cover and cook 5 minutes until the peas are tender and the keema is moist but not wet.
+step: Finish with garam masala and coriander. Serve with roti and salad.
+prot: Soy granules supply 14 g per serving; peas 3 g; curd and vegetables 1.5 g.
+prot: Boost: crumble 50 g paneer per serving in at step 5 for a "keema-paneer" (+9 g protein, +130 kcal, +10 g fat).
+var: Regional: Hyderabadi style — add 1 tsp each poppy-seed and cashew paste and a handful of mint.
+var: Serve as keema pav with a whole-wheat pav, or rolled in a roti with onion and chutney.
+var: Storage: 3 days refrigerated; freezes 1 month.
+var: Food safety: reheat until steaming throughout.
+var: Meal prep: excellent.
+
+=D04|dinner|V|High protein
+title: Chilli Tofu with Vegetables
+blurb: Kolkata's Indo-Chinese chilli dish, made with lightly coated, pan-seared tofu instead of deep-fried paneer: glossy, garlicky, hot and sour, ready in 25 minutes.
+region: West Bengal (Kolkata Indo-Chinese)
+status: Adaptation — tofu in place of paneer; pan-seared, not deep-fried
+label: Strictly vegetarian, egg-free
+time: Press 15 min · Prep 10 min · Cook 15 min
+serves: 2
+diff: Easy
+good: Quick weeknight dinner
+tags: High protein · Quick · Dairy-free · Whey-free
+allergens: Soy (tofu, soy sauce); gluten (most soy sauces contain wheat)
+nut: Chilli tofu only (about 280 g)|305|21|17|16|3|5|5||7.0
+nut: *Dinner plate: chilli tofu, 40 g raw rice (steamed)|445|25|49|16|3|6|6||5.5
+tier: High protein. Soy and chilli sauces are high in salt: about 0.5 g sodium per serving from the sauces, so no extra salt is added. Tofu, soy sauce and cornflour use label or USDA values. Values checked against IFCT 2017 on 14 Oct 2026.
+ing: 250 g firm tofu, pressed, in 2.5 cm cubes · 10 g cornflour
+ing: 100 g capsicum and 80 g onion, in 2.5 cm squares · 30 g spring onion · 10 g garlic and 10 g ginger, finely chopped · 2 green chillies, slit
+ing: Sauce: 15 ml light soy sauce · 10 g red chilli sauce · 5 ml vinegar · 1 tsp cornflour in 60 ml water · pinch of black pepper
+ing: 10 g groundnut oil
+ing: Plate: 80 g raw rice for 2, steamed
+step: Press tofu between kitchen towels under a heavy pan for 15 minutes; cube.
+step: Toss tofu with 10 g cornflour. Sear in 6 g oil in a wide non-stick pan on medium-high, turning, for 6–7 minutes until golden on all sides. Remove.
+step: Turn the heat to high. Add the remaining oil, garlic, ginger and chillies; stir 30 seconds.
+step: Add onion and capsicum; stir-fry 2 minutes so they stay crunchy.
+step: Add soy sauce, chilli sauce and vinegar, then the cornflour slurry. Stir until the sauce turns glossy and thick (about 1 minute).
+step: Return the tofu, toss to coat, and finish with spring onion and pepper. Serve at once with rice.
+prot: Tofu supplies 19 g per serving; vegetables and soy sauce 2 g; rice 3 g on the plate.
+prot: Boost: add 100 g edamame or green peas with the capsicum (+3–5 g protein, +50–60 kcal per serving).
+var: Regional: Kolkata gravy style — add 150 ml water with the slurry for a saucier dish to eat with hakka noodles.
+var: Substitution: paneer for tofu (chilli paneer; adds about 70 kcal and 8 g fat per serving); tamari for a gluten-free version.
+var: Lower-sodium: use half the soy sauce and add 1 tsp extra vinegar.
+var: Storage: best fresh; 1 day refrigerated.
+var: Food safety: keep opened tofu in fresh water, refrigerated, and use within 3 days.
+var: Meal prep: chop vegetables and press tofu ahead.
+
+=D05|dinner|V|High protein
+title: Lucknowi Dal Shorba with Spinach and Paneer
+blurb: A silky Awadhi-style lentil soup of moong and masoor dal, scented with cumin and ginger and finished with milk, spinach and tawa-seared paneer cubes.
+region: Uttar Pradesh (Lucknow)
+status: Adaptation — traditional dal shorba with spinach and paneer added to make it a full dinner
+label: Strictly vegetarian, egg-free
+time: Prep 10 min · Cook 25 min (pressure cooker)
+serves: 3 (about 380 ml each)
+diff: Easy
+good: Light dinner, cold evenings, recovery days
+tags: High protein · Quick · Soy-free · Whey-free · No added sugar · Gluten-free* (soup only)
+allergens: Milk; gluten (toast)
+nut: Shorba with paneer|335|22|34|12|7|7|10||6.5
+nut: *Dinner plate: shorba, 1 slice whole-wheat toast|395|25|44|13|7|8|11||6.0
+tier: High protein. Values checked against IFCT 2017 on 14 Oct 2026.
+ing: 60 g yellow moong dal · 60 g masoor dal
+ing: 150 g spinach, chopped · 60 g onion · 80 g tomato · 1 tbsp grated ginger · 3 garlic cloves
+ing: 8 g ghee · 1 tsp cumin seeds · ½ tsp black pepper, crushed · ¼ tsp turmeric · ½ tsp roasted cumin powder · 5 g salt · 100 ml milk · 1 tbsp lemon juice
+ing: 150 g full-fat paneer, in 1.5 cm cubes
+ing: Plate: 3 slices whole-wheat bread, toasted
+step: Pressure-cook both dals with onion, tomato, ginger, garlic, turmeric and 800 ml water for 3 whistles.
+step: Blend until completely smooth; strain for a restaurant-silky finish (optional).
+step: Return to the pan with salt and 100 ml water. Simmer 5 minutes; add the spinach and cook 2 minutes.
+step: Meanwhile sear paneer on a dry non-stick tawa, 1 minute per side, until golden.
+step: Heat ghee; add cumin and pepper for 20 seconds; pour into the soup.
+step: Off the heat, stir in milk, roasted cumin and lemon. Ladle into bowls and top with paneer. Serve with toast.
+prot: Paneer supplies 9 g per serving, the two dals 10 g, milk and spinach 2 g.
+prot: Boost: increase paneer to 200 g (+3 g protein, +45 kcal, +3.5 g fat per serving).
+var: Regional: classic Awadhi shorba — omit spinach and paneer; finish with a drizzle of cream (not counted here) and serve as a starter.
+var: Substitution: firm tofu cubes for paneer (dairy reduced; adds soy).
+var: Storage: soup keeps 3 days refrigerated without paneer; sear paneer fresh.
+var: Food safety: reheat soup until boiling; add milk after reheating.
+var: Meal prep: excellent.
+
+=D06|dinner|V|High protein
+title: Bharwan Shimla Mirch (Paneer-Soy Stuffing)
+blurb: Punjabi stuffed capsicums, filled with a spiced paneer and soy-granule mixture and roasted until the peppers soften and char.
+region: Punjab
+status: Adaptation — paneer and soy granules replace the usual potato stuffing
+label: Strictly vegetarian, egg-free
+time: Prep 20 min · Cook 25 min
+serves: 3 (2 capsicum halves each)
+diff: Easy–moderate
+good: Dinner, guests
+tags: High protein · Lower-carbohydrate (dish only) · Whey-free · No added sugar · Gluten-free* (dish only)
+allergens: Milk, soy; gluten (roti)
+nut: Stuffed capsicum only|230|18|16|10|4|7|8||7.5
+nut: *Dinner plate: capsicum, 1 roti, salad|370|22|43|11|4|13|11||6.0
+tier: High protein. Values checked against IFCT 2017 on 14 Oct 2026.
+ing: 3 medium capsicums (about 450 g), halved lengthwise and deseeded
+ing: Stuffing: 120 g full-fat paneer, crumbled · 40 g soy granules, dry · 60 g onion, finely chopped · 60 g tomato, finely chopped · 40 g green peas · 1 tsp ginger-garlic paste · 1 green chilli · ½ tsp turmeric · 1 tsp Kashmiri chilli powder · 1 tsp amchur · ½ tsp garam masala · 4 g salt · 2 tbsp coriander
+ing: 10 g groundnut or mustard oil
+ing: Plate: 105 g whole-wheat atta for 3 rotis · 300 g salad
+step: Soak soy granules in hot water 10 minutes; drain and squeeze dry.
+step: Heat 6 g oil; cook onion 4 minutes. Add ginger-garlic paste and chilli, then tomato and spices; cook 3 minutes.
+step: Add granules and peas; cook 3 minutes. Off the heat, fold in paneer and coriander.
+step: Fill the capsicum halves generously, pressing the stuffing in.
+step: Oven: brush the capsicums with the remaining oil and roast at 200 °C for 20–25 minutes until soft and lightly charred. Pan: cook covered on low in a wide pan, 12–15 minutes, until the capsicums are tender.
+step: Serve with roti and salad.
+prot: Paneer supplies 7 g per serving, soy granules 7 g, peas and capsicum 2 g.
+prot: Boost: increase soy granules to 60 g (+3.5 g protein, +25 kcal per serving).
+var: Regional: Rajasthani stuffing — add 1 tsp crushed fennel and a pinch of hing.
+var: Substitution: large tomatoes or round gourd (tinda) as cases.
+var: Storage: 2 days refrigerated; reheat in the oven.
+var: Food safety: refrigerate within 2 hours.
+var: Meal prep: make the stuffing a day ahead.
+
+=D07|dinner|V|Good source
+title: Masoor-Oat Patties with Mint Curd
+blurb: Spiced red-lentil patties bound with oats, pan-cooked until crisp and served with a thick mint hung-curd dip — good on a plate or rolled in a roti.
+region: Modern (North Indian flavours)
+status: Modern recipe — no traditional claim
+label: Strictly vegetarian, egg-free
+time: Soak 1 h · Prep 20 min · Cook 25 min
+serves: 3 (2 patties plus 50 g dip each)
+diff: Easy
+good: Dinner wraps, tiffin, meal prep
+tags: Good source · High fibre · Soy-free · Whey-free · No added sugar · Meal-prep friendly
+allergens: Milk; gluten (roti; oats unless certified gluten-free)
+nut: 2 patties with mint curd|285|16|34|8|3|7|5||5.5
+nut: *Dinner plate: patties and dip in 1 roti, with salad|435|21|64|9|3|14|8||5.0
+tier: Good source (plate); the dish alone is High protein. Plate density is just under 5 g per 100 kcal before rounding. Home-strained hung curd is estimated at about 6 g protein per 100 g; oats from USDA. Values checked against IFCT 2017 on 14 Oct 2026.
+ing: 120 g masoor dal (split red lentils) · 40 g rolled oats
+ing: 60 g onion and 60 g carrot, finely grated · 1 tsp ginger-garlic paste · 1 green chilli · 1 tsp cumin powder · 1 tsp coriander powder · ½ tsp garam masala · 1 tbsp lemon juice · 2 tbsp coriander · 4 g salt
+ing: 12 g groundnut oil for cooking
+ing: Mint curd: 150 g hung curd · 2 tbsp chopped mint · pinch of roasted cumin and salt
+ing: Plate: 105 g whole-wheat atta for 3 rotis · 450 g salad (onion, cucumber, tomato, lettuce)
+step: Soak masoor dal 1 hour. Drain and grind coarsely without water.
+step: Pulse oats to a coarse flour. Mix with the dal, vegetables, spices, lemon, coriander and salt. Rest 10 minutes so the oats absorb moisture; the mixture should hold its shape.
+step: Shape into 6 patties, 1.5 cm thick.
+step: Cook on a non-stick tawa with the oil on medium-low, 4–5 minutes per side, until deep golden and cooked through (no raw dal taste at the centre).
+step: Mix the mint curd. Serve patties with dip, rolled in a roti with salad, or alongside.
+prot: Masoor dal supplies 10 g per serving, hung curd 3 g, oats 2 g.
+prot: Boost: add 50 g grated paneer to the patty mixture (+3 g protein, +45 kcal per serving), or use 75 g dip per serving.
+var: Regional: Punjabi tikki style — add 1 tsp anardana and serve with chole.
+var: Substitution: moong dal in place of masoor.
+var: Storage: cooked patties keep 3 days refrigerated; raw shaped patties freeze 1 month.
+var: Food safety: cook patties through; reheat until hot at the centre.
+var: Meal prep: excellent.
+
+=D08|dinner|E|High protein
+title: Goan Egg Xacuti
+blurb: Goa's xacuti masala — roasted coconut, poppy seeds and a dozen whole spices — usually made with chicken, here used with boiled eggs and with the coconut reduced.
+region: Goa
+status: Adaptation — eggs in place of chicken; reduced coconut
+label: Contains eggs
+time: Prep 20 min · Cook 30 min
+serves: 2 (3 eggs each)
+diff: Moderate
+good: Weekend dinner
+tags: Good source · Dairy-free · Soy-free · Whey-free · Gluten-free*
+allergens: Eggs; poppy seeds and coconut
+nut: Egg xacuti only|370|23|12|26|9|7|7||6.0
+nut: *Dinner plate: xacuti, 40 g raw rice|515|26|43|26|9|8|7||5.0
+tier: High protein. Coconut and eggs make this the richest dinner in the chapter. Values checked against IFCT 2017 on 14 Oct 2026.
+ing: 6 large eggs, hard-boiled and peeled
+ing: Xacuti masala: 25 g grated coconut · 5 g poppy seeds (khus khus) · 4 Kashmiri chillies · 1 tbsp coriander seeds · 1 tsp cumin · ½ tsp black pepper · ½ tsp fennel · 4 cloves · 1 small cinnamon stick · 1 star anise · pinch of nutmeg
+ing: 120 g onion, sliced · 80 g tomato · 1 tbsp ginger-garlic paste · 5 g tamarind · ¼ tsp turmeric · 4 g salt
+ing: 10 g groundnut or coconut oil
+ing: Plate: 80 g raw rice for 2, steamed
+step: Dry-roast the coconut on medium-low until deep brown (5–6 minutes). Separately dry-roast the whole spices and poppy seeds for 2 minutes until fragrant.
+step: Grind coconut and spices with 150 ml water to a smooth, thick paste.
+step: Heat oil; cook onion 8 minutes until browned. Add ginger-garlic paste and tomato; cook 4 minutes.
+step: Add the xacuti paste and turmeric. Cook on low 6–8 minutes, stirring, until the oil separates.
+step: Add tamarind, salt and 200 ml water. Simmer 5 minutes.
+step: Halve the eggs lengthwise and add yolk-side up; simmer 3 minutes. Serve with rice.
+prot: Eggs supply 19 g per serving; spices and onion 2.5 g; rice 3 g on the plate.
+prot: Lighter and higher-protein: use 15 g coconut and add 2 boiled egg whites — about the same calories, 1.5 g less saturated fat and 3.5 g more protein per serving.
+var: Regional: mushroom xacuti — 300 g mushrooms with 4 eggs.
+var: Substitution: Goan poi (whole-wheat pav) instead of rice.
+var: Storage: masala keeps 3 days refrigerated; add eggs on the day.
+var: Food safety: refrigerate within 2 hours.
+var: Meal prep: grind the xacuti paste ahead; it freezes 1 month.
+
+=D09|dinner|V|Good source
+title: Goan White Vatana Tonak
+blurb: A Goan Hindu home favourite: dried white peas simmered in a dark, roasted-coconut tonak masala with a hint of tamarind, eaten with Goan pav.
+region: Goa
+status: Traditional
+label: Strictly vegetarian, egg-free
+time: Soak 8 h · Prep 20 min · Cook 40 min
+serves: 3
+diff: Moderate
+good: Weekend dinner, festive breakfast (Goan tradition)
+tags: Good source · High fibre · Soy-free · Whey-free · No added sugar · Meal-prep friendly
+allergens: Gluten (pav), milk (curd); poppy seeds and coconut
+nut: Tonak only (about 280 g)|295|14|37|10|4|14|5||5.0
+nut: *Dinner plate: tonak, 1 whole-wheat pav, 100 g curd|460|21|59|14|6|16|12||4.5
+tier: Good source. Pav uses a typical whole-wheat pav label — verify. Values checked against IFCT 2017 on 14 Oct 2026.
+ing: 180 g dried white peas (safed vatana)
+ing: 100 g onion, sliced · 80 g tomato · 1 tbsp ginger-garlic paste · 5 g tamarind · ¼ tsp turmeric · 5 g salt
+ing: Tonak masala: 30 g grated coconut · 1 tbsp coriander seeds · 1 tsp cumin · 1 tsp poppy seeds · 4 Kashmiri chillies · 4 cloves · 1 small cinnamon stick · ½ tsp black pepper
+ing: 10 g groundnut oil
+ing: Plate: 3 whole-wheat pav · 300 g curd
+step: Soak the peas 8 hours. Pressure-cook with turmeric and 600 ml water for 3–4 whistles until soft but whole.
+step: Dry-roast the coconut until deep brown; dry-roast the whole spices for 2 minutes. Grind with 100 ml water to a smooth paste.
+step: Heat oil; cook onion 8 minutes until browned. Add ginger-garlic paste and tomato; cook 4 minutes.
+step: Add the tonak paste; cook on low 5 minutes until fragrant and the oil separates.
+step: Add peas with their liquid, tamarind and salt. Simmer 10 minutes until thick.
+step: Serve with pav and curd.
+prot: Dried peas supply 12.5 g per serving; pav 4 g and curd 3.5 g on the plate.
+prot: Boost: add 100 g paneer cubes in the last 5 minutes (+6 g protein, +85 kcal per serving).
+var: Regional: Goan ross omelette-style plate — serve with a thin egg omelette for an egg-inclusive version (+6 g protein per egg).
+var: Substitution: black-eyed beans or kabuli chana.
+var: Storage: 3 days refrigerated; freezes 2 months; flavour improves on day 2.
+var: Food safety: reheat until boiling.
+var: Meal prep: excellent.
+
+=D10|dinner|V|Good source
+title: Cherupayar Curry (Kerala Green Moong)
+blurb: Whole green moong cooked soft in a coconut-shallot gravy with curry leaves — a Kerala staple, traditionally eaten with kanji (rice gruel) for a light evening meal.
+region: Kerala
+status: Traditional
+label: Strictly vegetarian, egg-free
+time: Soak 4 h · Prep 15 min · Cook 35 min
+serves: 3
+diff: Easy
+good: Light dinner, recovery days
+tags: Good source · High fibre · Soy-free · Whey-free · Gluten-free* · No added sugar · Meal-prep friendly
+allergens: Milk (moru); coconut
+nut: Cherupayar curry only (about 280 g)|255|14|31|8|5|12|2||5.5
+nut: *Dinner plate: curry, kanji from 40 g matta rice, moru from 100 g curd|455|21|66|11|7|13|7||4.5
+tier: Good source (plate); the dish alone is High protein. Values checked against IFCT 2017 on 14 Oct 2026.
+ing: 180 g whole green moong (cherupayar)
+ing: 30 g grated coconut, ground with ½ tsp cumin, 2 green chillies and 2 garlic cloves
+ing: 50 g shallots, sliced · ½ tsp turmeric · 5 g salt
+ing: Tempering: 8 g coconut oil · ½ tsp mustard seeds · 2 dry red chillies · 12 curry leaves
+ing: Plate: 120 g Kerala matta (red) rice · moru (300 g curd whisked with 300 ml water, ginger, green chilli and salt)
+step: Soak moong 4 hours. Pressure-cook with turmeric and 600 ml water for 3 whistles until soft.
+step: Add the coconut paste and salt; simmer 5 minutes, mashing a few beans to thicken.
+step: For kanji, cook matta rice with 1 litre water and salt until very soft (pressure-cook 6 whistles); serve with its cooking water.
+step: Heat coconut oil; add mustard seeds, red chillies, curry leaves and shallots. Fry until the shallots are golden; pour over the curry.
+step: Serve the curry with kanji and moru.
+prot: Green moong supplies 14 g per serving; rice 3 g and moru 3.5 g on the plate.
+prot: Boost: use 200 g curd per person for the moru (+3.5 g protein, +60 kcal).
+prot: Lighter: groundnut oil and 20 g coconut save about 3 g saturated fat per serving.
+var: Regional: Kerala cherupayar thoran — a dry stir-fry of cooked moong with grated coconut; serve as a side.
+var: Substitution: 2 whole-wheat chapatis instead of kanji.
+var: Storage: 3 days refrigerated.
+var: Food safety: reheat until boiling; keep moru chilled.
+var: Meal prep: excellent.
+
+=D11|dinner|V|High protein
+title: Tofu and Vegetable Thukpa
+blurb: The noodle soup of Sikkim and the Himalayan belt: whole-wheat noodles, vegetables and seared tofu in a ginger-garlic broth, warmed with timur (Sichuan pepper) and green chilli.
+region: Sikkim and the Himalayan region
+status: Adaptation — tofu as the protein; whole-wheat noodles
+label: Strictly vegetarian, egg-free
+time: Prep 15 min · Cook 15 min · Total 30 min
+serves: 2 (one large bowl each)
+diff: Easy
+good: Quick one-pot dinner, cold evenings
+tags: High protein · Quick · Dairy-free · Whey-free · No added sugar
+allergens: Soy, gluten (wheat noodles, soy sauce)
+nut: *Thukpa (complete one-bowl meal)|375|23|36|14|2|10|4||6.5
+tier: High protein. Noodle and tofu values from typical labels — verify against the brands used. Values checked against IFCT 2017 on 14 Oct 2026.
+ing: 80 g whole-wheat noodles, dry · 200 g firm tofu, in 2 cm cubes
+ing: 250 g vegetables: cabbage, carrot, beans, spinach, mushrooms, spring onion · 80 g tomato, chopped
+ing: 10 g garlic and 15 g ginger, finely chopped · 2 green chillies · ¼ tsp timur or Sichuan pepper, crushed (or black pepper)
+ing: 10 ml soy sauce · 8 g groundnut oil · 900 ml water or vegetable stock · coriander · lemon wedges
+step: Cook noodles to packet instructions, about 1 minute short. Drain and rinse in cold water.
+step: Sear tofu in 4 g oil in a non-stick pan until golden, 5–6 minutes. Remove.
+step: In a pot, heat the remaining oil; add garlic, ginger and chillies for 30 seconds. Add tomato and cook 3 minutes until soft.
+step: Add water, soy sauce and timur. Boil, then add the firmer vegetables (carrot, beans, cabbage) for 4 minutes and the mushrooms and spinach for 1 minute.
+step: Divide noodles and tofu between two bowls; ladle the hot broth and vegetables over. Finish with spring onion, coriander and lemon.
+prot: Tofu supplies 15 g per serving; whole-wheat noodles 5 g; vegetables 2 g.
+prot: Boost: add 1 soft-boiled egg per bowl for an egg-inclusive version (+6 g protein, +72 kcal), or increase tofu to 300 g (+7.5 g protein, +70 kcal per serving).
+var: Regional: Ladakhi thenthuk — replace noodles with hand-pulled flat pieces of whole-wheat dough cooked in the broth.
+var: Substitution: rice noodles and tamari for a gluten-free version.
+var: Storage: keep broth, noodles and tofu separately, 2 days refrigerated.
+var: Food safety: reheat broth until boiling before pouring over.
+var: Meal prep: good — broth base keeps 2 days.
+
+=D12|dinner|V|Good source
+title: Chhena Tarkari
+blurb: Odisha's homestyle cottage-cheese curry: lightly seared chhena cubes with potato and peas in a mustard-oil gravy scented with bay leaf and garam masala.
+region: Odisha
+status: Traditional; chhena seared rather than deep-fried
+label: Strictly vegetarian, egg-free
+time: Prep 15 min · Cook 30 min
+serves: 3
+diff: Easy–moderate
+good: Weekend dinner
+tags: Good source · Soy-free · Whey-free · Gluten-free* · No added sugar
+allergens: Milk
+nut: Chhena tarkari only (about 270 g)|325|19|23|17|8|4|12||6.0
+nut: *Dinner plate: tarkari, 40 g raw rice, salad|490|23|59|17|8|7|14||5.0
+tier: Good source (plate); the dish alone is High protein. Plate density is just under 5 g per 100 kcal before rounding. Values use IFCT paneer for the chhena; homemade chhena from toned milk is usually lower in fat. Values checked against IFCT 2017 on 14 Oct 2026.
+ing: 250 g chhena pressed into a block (about 1.75 litres toned milk, curdled with lemon and pressed 1 hour), or full-fat paneer, in 2 cm cubes
+ing: 100 g potato, in 2 cm cubes · 80 g green peas · 150 g tomato, puréed · 80 g onion, puréed · 1 tbsp ginger-garlic paste
+ing: 12 g mustard oil · 1 bay leaf · 1 tsp cumin seeds · ½ tsp turmeric · 1 tsp Kashmiri chilli powder · 1 tsp cumin powder · ½ tsp garam masala · 5 g salt
+ing: Plate: 120 g raw rice for 3 · 300 g salad
+step: Heat mustard oil until it just smokes; lower the heat. Sear chhena cubes 1 minute per side until lightly golden. Remove.
+step: In the same oil, fry potato cubes 5 minutes until golden at the edges. Remove.
+step: Add bay leaf and cumin, then onion purée. Cook 6 minutes until light brown.
+step: Add ginger-garlic paste, tomato purée, turmeric, chilli and cumin powders; cook 5 minutes until oil separates.
+step: Add potato, peas, salt and 300 ml water. Simmer 10 minutes until the potato is tender.
+step: Add chhena; simmer 3 minutes. Finish with garam masala. Serve with rice and salad.
+prot: Chhena supplies 15 g per serving; peas and potato 2.5 g.
+prot: Lighter: homemade chhena from toned milk, drained but not deep-fried, typically has less fat than full-fat paneer (check by weight).
+var: Regional: Bengali chhanar dalna — add a pinch of sugar and a little ghee at the end.
+var: Substitution: firm tofu for chhena (adds soy; lower in fat).
+var: Storage: 2 days refrigerated.
+var: Food safety: homemade chhena keeps 2 days refrigerated; use promptly.
+var: Meal prep: make chhena the day before.
+
+=D13|dinner|E|High protein
+title: Hyderabadi Khagina
+blurb: Hyderabad's spiced egg scramble: eggs cooked with browned onion, green chillies, mint and garam masala until just set and slightly dry — bolder and firmer than Parsi akuri.
+region: Telangana (Hyderabad)
+status: Traditional; two egg whites added
+label: Contains eggs
+time: Prep 10 min · Cook 12 min · Total 22 min
+serves: 2
+diff: Easy
+good: Quick dinner, roti rolls
+tags: High protein · Quick · Lower-carbohydrate (dish only) · Dairy-free · Soy-free · Whey-free · No added sugar
+allergens: Eggs; gluten (roti)
+nut: Khagina only|270|22|8|17|5|3|4||8.0
+nut: *Dinner plate: khagina, 1 whole-wheat roti|385|26|30|17|5|7|5||6.5
+tier: High protein. Values checked against IFCT 2017 on 14 Oct 2026.
+ing: 5 large eggs (250 g shelled) · 2 egg whites (66 g)
+ing: 120 g onion, finely sliced · 80 g tomato, chopped · 1 tsp ginger-garlic paste · 3 green chillies, chopped · 2 tbsp mint · 2 tbsp coriander
+ing: 10 g groundnut oil · ½ tsp cumin seeds · ¼ tsp turmeric · ½ tsp red chilli powder · ½ tsp garam masala · 3 g salt
+ing: Plate: 70 g whole-wheat atta for 2 rotis
+step: Beat eggs and whites with salt and turmeric.
+step: Heat oil; add cumin, then onion. Cook 6–7 minutes on medium until golden brown.
+step: Add ginger-garlic paste and chillies for 1 minute, then tomato and chilli powder; cook 3 minutes until soft.
+step: Pour in the eggs. Let them set for 20 seconds, then stir and fold on medium heat for 2–3 minutes, until set in soft curds with no liquid egg left. Khagina should be drier than akuri.
+step: Add garam masala, mint and coriander; toss 30 seconds. Serve with roti.
+prot: Eggs and whites supply 19.5 g per serving; vegetables 1.5 g; roti 4 g on the plate.
+prot: Boost: crumble in 50 g paneer with the eggs (+4.5 g protein, +65 kcal per serving).
+var: Regional: Hyderabadi "egg khagina with fried onion" — top with 1 tbsp crisp fried onion (adds about 40 kcal).
+var: Substitution: 2 whole-wheat pav instead of roti.
+var: Storage: best fresh.
+var: Food safety: cook until no liquid egg remains.
+var: Meal prep: slice onions ahead.
+
+=D14|dinner|V|Good source
+title: Bassaru with Ragi Mudde
+blurb: A rural Karnataka meal: toor dal, sprouted moong and greens cooked together, then split into bassaru (a peppery thin saaru made from the cooking water) and palya, eaten with soft ragi balls.
+region: Karnataka (Old Mysore)
+status: Traditional
+label: Strictly vegetarian, egg-free
+time: Sprouting 1–2 days · Prep 20 min · Cook 40 min
+serves: 3
+diff: Moderate (mudde takes practice)
+good: Everyday dinner
+tags: Good source · High fibre · Dairy-free · Soy-free · Whey-free · Gluten-free* · No added sugar
+allergens: None of the major allergens (coconut; check hing)
+nut: Bassaru and palya|295|17|39|7|2|14|4||6.0
+nut: *Dinner plate: bassaru, palya, 1 ragi mudde (60 g flour)|485|21|79|8|2|20|4||4.5
+tier: Good source (plate); the dish alone is High protein. Amaranth leaves used for the greens. Values checked against IFCT 2017 on 14 Oct 2026.
+ing: 120 g toor dal · 100 g sprouted green moong (from 60 g dry)
+ing: 200 g greens: dill (sabsige), amaranth or spinach, chopped · 60 g onion · 80 g tomato · 3 garlic cloves · ½ tsp turmeric · 5 g salt
+ing: Saaru paste: 15 g grated coconut · 1 tbsp coriander seeds · 1 tsp cumin · ½ tsp black pepper · 3 byadgi chillies · 5 g tamarind
+ing: Tempering: 8 g groundnut oil or ghee · ½ tsp mustard seeds · 8 curry leaves · pinch of hing
+ing: Mudde: 180 g ragi flour · 400 ml water · pinch of salt
+step: Pressure-cook toor dal, sprouts, greens, onion, tomato, garlic and turmeric with 900 ml water for 3 whistles.
+step: Strain, keeping the liquid (bas). The solids are the palya base.
+step: Grind the saaru paste ingredients with 100 ml of the bas. Simmer the remaining bas with the paste and salt for 8 minutes — this is the bassaru.
+step: Temper mustard, curry leaves and hing in the oil; pour half over the bassaru and toss the other half with the palya.
+step: For mudde, boil the water with salt. Sprinkle in 2 tbsp ragi flour and stir; then add the rest in a mound without stirring. Cover and cook on low 4 minutes.
+step: Stir vigorously with a wooden stick or the back of a ladle until there are no lumps (2–3 minutes). Wet your palms and shape into 3 balls.
+step: Serve mudde with bassaru poured over and palya on the side. Pinch off pieces of mudde, dip and swallow rather than chew — the traditional way.
+prot: Toor dal supplies 8.5 g per serving, sprouts 4.5 g, greens 2 g; ragi 4.5 g on the plate.
+prot: Boost: serve with 100 g curd (+3.5 g protein, +60 kcal), traditional in many homes.
+var: Regional: avarekalu (hyacinth bean) bassaru in winter, with fresh avarekalu instead of sprouts.
+var: Substitution: steamed rice (40 g raw) instead of mudde.
+var: Storage: bassaru and palya keep 2 days refrigerated; mudde is best fresh.
+var: Food safety: reheat bassaru until boiling.
+var: Meal prep: cook the dal-greens base ahead.
+
+=D15|dinner|V|Good source
+title: Pithla with Jowar Bhakri
+blurb: Maharashtra's fast, comforting besan curry, cooked with garlic, green chilli and onion to a soft, spoonable consistency, with bhakri and curd — a farmhouse supper.
+region: Maharashtra
+status: Traditional
+label: Strictly vegetarian, egg-free
+time: Prep 10 min · Cook 15 min (plus bhakri)
+serves: 3
+diff: Easy (pithla); moderate (bhakri)
+good: Quick dinner from pantry staples
+tags: Good source · Quick · Soy-free · Whey-free · Gluten-free* · No added sugar
+allergens: Milk (curd)
+nut: Pithla only (about 220 g)|190|10|23|6|1|7|3||5.0
+nut: *Dinner plate: pithla, 1 jowar bhakri, 150 g curd|485|21|71|12|4|14|10||4.5
+tier: Good source. Values checked against IFCT 2017 on 14 Oct 2026.
+ing: 120 g besan · about 550 ml water
+ing: 100 g onion, finely chopped · 6 garlic cloves, crushed · 2–3 green chillies · 10 curry leaves · 2 tbsp coriander
+ing: 12 g groundnut oil · ½ tsp mustard seeds · ½ tsp cumin · pinch of hing · ¼ tsp turmeric · 5 g salt
+ing: Plate: 180 g jowar flour for 3 bhakri (method in L04) · 450 g curd
+step: Whisk besan with 450 ml water, turmeric and salt until completely smooth.
+step: Heat oil; add mustard, cumin, hing, garlic, chillies and curry leaves until the garlic turns golden. Add onion; cook 3 minutes.
+step: Lower the heat. Pour in the besan mixture, stirring constantly to prevent lumps.
+step: Cook 6–8 minutes, stirring, adding up to 100 ml more water, until it thickens to a soft, spoonable consistency and no longer tastes raw. Cover and steam on low for 2 minutes.
+step: Garnish with coriander. Serve hot with bhakri and curd.
+prot: Besan supplies 8.5 g per serving; bhakri 6 g and curd 5 g on the plate.
+prot: Boost: crumble 50 g paneer into the pithla at the end (+9 g protein, +130 kcal per serving), or serve with 150 g hung curd instead of curd (+4 g protein, +50 kcal).
+var: Regional: zunka — a dry version with less water, cooked until crumbly; serve with thecha (green-chilli garlic chutney).
+var: Substitution: whole-wheat chapati or rice bhakri.
+var: Storage: best fresh; it sets as it cools. Loosen with hot water.
+var: Food safety: refrigerate within 2 hours.
+var: Meal prep: chop onion and garlic ahead.
+
+=D16|dinner|V|High protein
+title: Soyabean Bori Dalna
+blurb: A Bengali home curry of soy chunks and potato in a mustard-oil, cumin-ginger gravy finished with garam masala — a weeknight staple in Kolkata kitchens.
+region: West Bengal
+status: Traditional
+label: Strictly vegetarian, egg-free
+time: Prep 10 min · Cook 25 min · Total 35 min
+serves: 3
+diff: Easy
+good: Weeknight dinner, tiffin
+tags: High protein · Quick · Lower-fat · Whey-free · Meal-prep friendly
+allergens: Soy, milk (curd); gluten (rotis)
+nut: Dalna only (about 250 g)|195|15|19|5|1|6|5||8.0
+nut: *Dinner plate: dalna, 2 whole-wheat rotis|420|23|64|6|1|14|7||5.5
+tier: High protein. Soy chunks use a typical label — verify against the brand used. Values checked against IFCT 2017 on 14 Oct 2026.
+ing: 75 g soy chunks, dry · 150 g potato, in 3 cm cubes
+ing: 80 g onion, puréed · 100 g tomato, puréed · 1 tbsp ginger paste · 1 tsp cumin paste (or cumin powder) · 50 g curd
+ing: 12 g mustard oil · 1 bay leaf · 1 tsp cumin seeds · 2 dry red chillies · ½ tsp turmeric · 1 tsp Kashmiri chilli powder · ½ tsp garam masala · 2 g sugar · 5 g salt
+ing: Plate: 210 g whole-wheat atta for 6 rotis
+step: Boil soy chunks in 1 litre water for 5 minutes. Drain, rinse in cold water and squeeze dry.
+step: Rub chunks with a pinch of turmeric and salt. Heat mustard oil until it just smokes, lower the heat, and fry chunks 3 minutes until lightly browned. Remove; fry potatoes 5 minutes.
+step: Add bay leaf, cumin seeds and red chillies, then onion purée; cook 5 minutes.
+step: Add ginger and cumin pastes, tomato purée, turmeric and chilli powder; cook 4 minutes until oil separates.
+step: Lower the heat and stir in whisked curd. Add chunks, potato, sugar, salt and 300 ml water.
+step: Cover and simmer 10 minutes until the potato is tender. Finish with garam masala. Serve with rotis.
+prot: Soy chunks supply 13 g per serving; potato, curd and vegetables 2 g; rotis 8 g on the plate.
+prot: Boost: add 80 g green peas with the potatoes (+2 g protein, +25 kcal per serving).
+var: Regional: soyabean kosha — cooked down until dry and dark, with more onion.
+var: Substitution: 150 g paneer for the soy chunks (soy-free; about 4 g less protein and 10 g more fat per serving).
+var: Storage: 3 days refrigerated.
+var: Food safety: reheat until steaming throughout.
+var: Meal prep: excellent.
+
+=D17|dinner|V|Good source
+title: Moong Mangodi ki Sabzi
+blurb: A Rajasthani pantry curry: sun-dried moong dal dumplings (mangodi) roasted and simmered with tomato, peas and a little curd — the desert kitchen's way of eating dal as a vegetable.
+region: Rajasthan
+status: Traditional
+label: Strictly vegetarian, egg-free
+time: Prep 10 min · Cook 25 min
+serves: 3
+diff: Easy
+good: Pantry dinner when fresh vegetables are short
+tags: Good source · Soy-free · Whey-free · No added sugar · Gluten-free* (sabzi only)
+allergens: Milk; gluten (rotis)
+nut: Mangodi sabzi only (about 230 g)|180|10|22|5|1|6|3||5.5
+nut: *Dinner plate: sabzi, 2 whole-wheat rotis, 100 g curd|460|20|71|9|3|14|9||4.5
+tier: Good source. IFCT 2017 has no mangodi entry; moong dal values are used — shop-bought mangodi vary. Values checked against IFCT 2017 on 14 Oct 2026.
+ing: 80 g moong dal mangodi (sun-dried)
+ing: 150 g tomato, puréed · 60 g onion, finely chopped (optional; Marwari homes often omit) · 80 g green peas · 60 g curd · 1 tsp grated ginger · 1 green chilli
+ing: 12 g groundnut or mustard oil · ½ tsp cumin seeds · pinch of hing · ½ tsp turmeric · 1 tsp red chilli powder · 1½ tsp coriander powder · ½ tsp garam masala · 4 g salt · coriander
+ing: Plate: 210 g whole-wheat or bajra atta for 6 rotis · 300 g curd
+step: Heat 5 g oil; roast mangodi on low for 3–4 minutes, stirring, until golden and fragrant. Remove.
+step: Heat the remaining oil; add cumin and hing, then onion (if using) for 3 minutes, then ginger and chilli.
+step: Add tomato purée and powdered spices. Cook 5 minutes until oil separates.
+step: Lower the heat; stir in whisked curd and cook 1 minute.
+step: Add mangodi, peas, salt and 350 ml water. Cover and simmer 12–15 minutes until the mangodi are soft right through (press one with a spoon).
+step: Finish with garam masala and coriander. Serve with rotis and curd.
+prot: Mangodi supply 6.5 g per serving, peas 2 g, curd 1 g; rotis 8 g and curd 3.5 g on the plate.
+prot: Boost: increase mangodi to 120 g (+3 g protein, +45 kcal per serving).
+var: Regional: mangodi-aloo — add 1 diced potato for a heartier curry.
+var: Substitution: if mangodi are unavailable, use 80 g moong dal soaked 1 hour and cooked with the masala (softer texture, similar protein).
+var: Storage: 2 days refrigerated.
+var: Food safety: refrigerate within 2 hours.
+var: Meal prep: good.
+
+=D18|dinner|E|Good source
+title: Muttai Kuzhambu (Egg Tamarind Curry)
+blurb: A Tamil home curry: boiled eggs simmered in a tangy tamarind gravy with shallots, garlic and sesame oil, eaten with rice.
+region: Tamil Nadu
+status: Traditional
+label: Contains eggs
+time: Prep 15 min · Cook 25 min
+serves: 2
+diff: Easy
+good: Weeknight dinner
+tags: Good source · Dairy-free · Soy-free · Whey-free · Gluten-free*
+allergens: Eggs, sesame (oil)
+nut: Kuzhambu only (2–3 eggs)|305|19|15|18|5|4|9||6.5
+nut: *Dinner plate: kuzhambu, 50 g raw rice|485|23|54|19|5|6|9||5.0
+tier: Good source (plate); the dish alone is High protein. Plate density is just under 5 g per 100 kcal before rounding. Includes 3 g jaggery for the batch. Values checked against IFCT 2017 on 14 Oct 2026.
+ing: 5 large eggs, hard-boiled and peeled
+ing: 15 g tamarind, soaked in 300 ml warm water and squeezed · 80 g shallots, peeled · 80 g tomato · 6 garlic cloves
+ing: 12 g kuzhambu or sambar powder · ¼ tsp turmeric · 3 g jaggery · 4 g salt
+ing: 12 g gingelly (sesame) oil · ½ tsp mustard seeds · ¼ tsp methi seeds · 10 curry leaves
+ing: Plate: 100 g raw rice for 2
+step: Make 3 shallow slits on each egg.
+step: Heat oil; add mustard and methi seeds, then curry leaves. Add shallots and garlic; cook 5 minutes until golden.
+step: Add tomato; cook 3 minutes until soft. Add kuzhambu powder and turmeric; stir 30 seconds.
+step: Add tamarind water, jaggery and salt. Simmer 10–12 minutes until the raw tamarind smell is gone and the gravy thickens and glistens with oil.
+step: Add eggs; simmer 5 minutes so they absorb the gravy. Serve with rice.
+prot: Eggs supply 16 g per serving; shallots, garlic and spices 2 g; rice 3.5 g on the plate.
+prot: Boost: add 1 more egg (+3 g protein, +36 kcal per serving), or serve with 100 g curd (+3.5 g protein, +60 kcal).
+var: Regional: Chettinad style — add 1 tsp roasted fennel and pepper powder.
+var: Substitution: groundnut oil instead of gingelly oil.
+var: Storage: 2 days refrigerated; flavour deepens overnight.
+var: Food safety: refrigerate within 2 hours.
+var: Meal prep: good — make the gravy ahead; add eggs on the day.
+
+=D19|dinner|V|High protein
+title: Warm Kala Chana and Paneer Salad
+blurb: A modern warm salad: kala chana and tawa-seared paneer tossed with crunchy vegetables, roasted pumpkin seeds and a lemon-chaat masala dressing. A complete dinner in a bowl, no staple needed.
+region: Modern (North Indian chaat flavours)
+status: Modern recipe — no traditional claim
+label: Strictly vegetarian, egg-free
+time: Soak 8 h · Cook 25 min (or 15 min with cooked chana)
+serves: 2 (one large bowl each)
+diff: Easy
+good: Quick dinner, lower-carbohydrate evenings, lunch box
+tags: High protein · Quick (with cooked chana) · High fibre · Lower-carbohydrate · Soy-free · Whey-free · Gluten-free · No added sugar
+allergens: Milk
+nut: *Salad bowl (complete meal)|350|20|28|17|6|14|8||6.0
+tier: High protein. IFCT 2017 has no lettuce or pumpkin-seed entry; spinach and sunflower seeds are used as the nearest equivalents. Values checked against IFCT 2017 on 14 Oct 2026.
+ing: 80 g kala chana, dry (about 200 g cooked) · 100 g full-fat paneer, in 1.5 cm cubes
+ing: 100 g cucumber · 80 g tomato · 40 g onion · 60 g capsicum, all diced · 50 g lettuce or baby spinach
+ing: 10 g roasted pumpkin seeds · 2 tbsp mint and coriander
+ing: Dressing: 8 g groundnut or cold-pressed mustard oil · 2 tbsp lemon juice · 1 tsp chaat masala · ½ tsp roasted cumin · ¼ tsp black salt · pinch of chilli flakes
+step: Soak kala chana 8 hours; pressure-cook with 400 ml water and a pinch of salt for 5–6 whistles until tender. Drain.
+step: Sear paneer cubes on a dry non-stick tawa for 1 minute per side until golden.
+step: Warm the chana in the same pan for 2 minutes with a pinch of chaat masala.
+step: Whisk the dressing.
+step: Toss greens and vegetables with half the dressing. Top with warm chana and paneer, the remaining dressing, pumpkin seeds and herbs. Serve immediately.
+prot: Paneer supplies 9 g per serving, kala chana 7.5 g, pumpkin seeds 1.5 g, vegetables 1.5 g.
+prot: Boost: add 50 g sprouted moong (steamed) per bowl (+3.5 g protein, +40 kcal).
+prot: Lighter: low-fat paneer saves about 35 kcal and 5 g fat per serving.
+var: Regional: Delhi chana chaat — add a spoon of tamarind chutney and boiled potato (adds about 70 kcal).
+var: Substitution: kabuli chana, rajma or tofu.
+var: Storage: chana and paneer keep 3 days refrigerated; dress just before eating.
+var: Food safety: keep paneer chilled until searing; pack dressing separately for lunch boxes.
+var: Meal prep: excellent.
+
+=D20|dinner|V|Good source
+title: Vaghareli Khichdi with Kadhi
+blurb: Gujarat's Sunday-night supper: a tempered moong-rice khichdi with vegetables, poured over with thin, sweet-sour Gujarati kadhi.
+region: Gujarat
+status: Adaptation — more moong than rice in the khichdi
+label: Strictly vegetarian, egg-free
+time: Prep 10 min · Cook 30 min
+serves: 3 (about 300 g khichdi plus 150 ml kadhi each)
+diff: Easy
+good: Light dinner, comfort food, recovery days
+tags: Good source · Soy-free · Whey-free · Gluten-free* · Meal-prep friendly
+allergens: Milk
+nut: *Khichdi with kadhi (complete meal)|365|17|51|9|5|7|9||4.5
+tier: Good source. The only dinner below 20 g protein; see the boost. Includes 8 g jaggery for the batch (under 3 g added sugar per serving). Values checked against IFCT 2017 on 14 Oct 2026.
+ing: Khichdi: 100 g yellow moong dal (or split green moong) · 60 g rice · 150 g vegetables (50 g peas, potato, carrot, onion) · 8 g ghee · 1 tsp cumin · 2 cloves · 1 bay leaf · pinch of hing · ½ tsp turmeric · 5 g salt · 600 ml water
+ing: Kadhi: 350 g sour-ish curd · 30 g besan · 400 ml water · 1 tsp ginger-chilli paste · 8 g jaggery · 3 g salt
+ing: Kadhi tempering: 5 g ghee · ½ tsp mustard seeds · ½ tsp cumin · 2 cloves · 1 small cinnamon stick · 1 dry red chilli · 8 curry leaves · pinch of hing
+step: Rinse moong and rice; soak 15 minutes.
+step: Heat 8 g ghee in a pressure cooker; add cumin, cloves, bay leaf and hing. Add vegetables and turmeric; cook 2 minutes.
+step: Add the dal-rice, salt and water. Pressure-cook 3 whistles. Rest until the pressure drops; stir to a soft, spoonable consistency.
+step: For kadhi, whisk curd, besan and water until completely smooth. Add ginger-chilli paste, jaggery and salt.
+step: Heat on medium, stirring constantly, until it comes to a boil (this stops it splitting). Simmer 8–10 minutes until slightly thickened and no longer tastes of raw besan.
+step: Heat 5 g ghee; add the tempering ingredients and pour over the kadhi.
+step: Serve khichdi with kadhi poured over.
+prot: Moong dal supplies 8 g per serving, curd 4 g, besan 2 g, rice 1.5 g, vegetables 1.5 g.
+prot: Boost: stir 50 g crumbled paneer per serving into the khichdi (+9 g protein, +130 kcal), or serve with a side of 75 g hung-curd raita (+6 g protein, +75 kcal) — either lifts the plate above 20 g.
+var: Regional: Kathiawadi version — spicier kadhi with garlic, less jaggery.
+var: Substitution: little millet (kutki) or broken wheat for rice.
+var: Storage: khichdi and kadhi keep 2 days refrigerated, separately.
+var: Food safety: cool khichdi within 1 hour; reheat kadhi gently, stirring, until it simmers.
+var: Meal prep: good.

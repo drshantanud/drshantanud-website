@@ -1,0 +1,292 @@
+=DR1|drink|V|Good source
+title: Alphonso Mango-Dahi Smoothie
+blurb: Ratnagiri Alphonso blended with thick hung curd, a little milk and cardamom — a summer lassi-smoothie that gets its sweetness entirely from the mango.
+region: Maharashtra (Konkan)
+status: Adaptation — mango lassi made with hung curd and no added sugar
+label: Strictly vegetarian, egg-free
+time: Prep 5 min (hung curd made ahead)
+serves: 1 (about 330 ml)
+diff: Easy
+good: Summer breakfast side, post-workout
+tags: Good source (High with whey or milk powder) · Quick · No added sugar · Soy-free · Whey optional · Gluten-free
+allergens: Milk
+nut: *Without whey|240|11|24|11|6|2|21||4.5
+nut: With 15 g whey|300|23|25|12|7|2|22||7.5
+tier: Good source without whey; High protein with optional whey (about 23 g) or with 15 g skimmed milk powder (about 16 g; see Boost). All sugars are natural (about 11 g from mango, 10 g lactose). Kesar mango is the IFCT proxy for Alphonso. Values checked against IFCT 2017 on 14 Oct 2026.
+ing: 120 g ripe Alphonso mango flesh (about 1 small mango)
+ing: 120 g hung curd (from about 240 g toned-milk curd)
+ing: 100 ml chilled toned milk
+ing: ¼ tsp cardamom powder · 3–4 ice cubes · a few saffron strands (optional) · optional: 15 g unflavoured whey
+step: Chop the mango flesh; freeze for 30 minutes if you want a thicker, colder drink.
+step: Blend mango, hung curd, milk, cardamom and whey (if using) until completely smooth, about 45 seconds.
+step: Add ice and blend 10 seconds more. Taste: a ripe Alphonso needs no sugar.
+step: Pour and top with saffron.
+prot: Hung curd supplies 7 g; milk 3 g; mango 0.5 g.
+prot: Boost: add 15 g whey (+12 g protein, +60 kcal), or 15 g skimmed milk powder (+5 g protein, +55 kcal, +8 g lactose).
+var: Regional: Punjabi mango lassi — use 200 g plain curd and no milk; thinner and tangier (about 6 g less protein).
+var: Substitution: frozen Alphonso pulp (check for added sugar) out of season; Greek yogurt for hung curd.
+var: Storage: drink within 2 hours; refrigerate up to 12 hours (it thickens).
+var: Food safety: refrigerate hung curd while straining.
+var: Meal prep: freeze mango cubes in season for year-round use.
+
+=DR2|drink|V|Good source
+title: Banana-Peanut Butter Smoothie
+blurb: A filling glass of banana, milk, peanut butter and oats, warmed with cinnamon. Good before a workout or as a breakfast partner; whey is optional.
+region: Modern
+status: Modern recipe — no traditional claim
+label: Strictly vegetarian, egg-free
+time: Prep 5 min
+serves: 1 (about 380 ml)
+diff: Easy
+good: Pre- or post-workout, breakfast side
+tags: Good source (High with whey) · Quick · No added sugar · Soy-free · Whey optional
+allergens: Milk, peanuts; gluten (oats unless certified gluten-free)
+nut: *Without whey|405|16|47|17|7|4|27||4.0
+nut: With 15 g whey|465|28|48|18|7|4|28||6.0
+tier: Good source without whey; High protein with whey. Peanut butter values for unsweetened, 100% peanut butter. Values checked against IFCT 2017 on 14 Oct 2026.
+ing: 100 g ripe banana (1 medium), frozen in chunks for a thicker shake
+ing: 250 ml toned milk · 16 g unsweetened peanut butter (1 tbsp) · 15 g rolled oats · ¼ tsp cinnamon
+ing: Optional: 15 g unflavoured whey (half scoop)
+step: Blend oats with a little of the milk for 20 seconds to break them down.
+step: Add banana, remaining milk, peanut butter, cinnamon and whey (if using).
+step: Blend 45 seconds until smooth and creamy. Serve at once.
+prot: Milk supplies 8 g, peanut butter 4 g, oats 2.5 g, banana 1 g.
+prot: Without whey, a further 15 g skimmed milk powder adds 5 g protein and 55 kcal.
+var: Regional: Kerala-style — use a ripe nendran or small elaichi banana and a pinch of dry ginger.
+var: Substitution: roasted peanuts (20 g) instead of peanut butter, blended well; curd for half the milk for tang.
+var: Storage: drink fresh; banana browns and the oats thicken on standing.
+var: Food safety: use pasteurised milk.
+var: Meal prep: freeze peeled banana chunks in bags.
+
+=DR3|drink|V|Good source
+title: Chikoo Milkshake with Milk Powder
+blurb: The Mumbai juice-centre favourite, made without sugar or ice cream: ripe chikoo is naturally malty-sweet, and a spoon of milk powder adds body and protein.
+region: Gujarat (Gholvad-Dahanu chikoo belt, also Maharashtra)
+status: Adaptation — no sugar or ice cream; skimmed milk powder added
+label: Strictly vegetarian, egg-free
+time: Prep 5 min
+serves: 1 (about 350 ml)
+diff: Easy
+good: Evening snack, children's drink
+tags: Good source · Quick · No added sugar · Soy-free · Whey-free · Gluten-free · High fibre
+allergens: Milk
+nut: *As written|285|14|36|9|5|12|34||5.0
+tier: Good source (just under 5 g per 100 kcal before rounding). Sugars are natural but high: about 15 g from chikoo and 20 g lactose from milk and milk powder, about 34 g in all. A juice-centre version with 2 tbsp sugar and a scoop of ice cream typically adds about 200 kcal and 30–35 g more sugar. Values checked against IFCT 2017 on 14 Oct 2026.
+ing: 120 g ripe chikoo (sapota) flesh, peeled and seeded (2 medium)
+ing: 250 ml chilled toned milk · 15 g skimmed milk powder (2 tbsp)
+ing: Pinch of nutmeg or cardamom · 3–4 ice cubes
+step: Halve the chikoos, scoop out the flesh and remove every seed (they are hard and inedible).
+step: Blend chikoo with milk powder and half the milk until smooth.
+step: Add the remaining milk, nutmeg and ice; blend 15 seconds. Serve at once — chikoo darkens quickly.
+prot: Milk supplies 8 g, milk powder 5 g, chikoo 1 g.
+prot: Boost: 15 g whey (+12 g protein, +60 kcal), or 50 g hung curd (+3 g protein, +45 kcal).
+var: Regional: Chikoo-dates shake — a winter version with 1 date (adds about 25 kcal and 6 g sugar).
+var: Substitution: ripe banana or papaya when chikoo is out of season.
+var: Storage: drink within 30 minutes; the colour and flavour fade.
+var: Food safety: use pasteurised milk; wash chikoos before cutting.
+var: Meal prep: not suitable.
+
+=DR4|drink|V|Good source
+title: Mahabaleshwar Strawberry Yogurt Smoothie
+blurb: Winter strawberries from Mahabaleshwar blended with hung curd and milk: tart, bright pink, and the lowest-calorie fruit smoothie in the chapter.
+region: Maharashtra (Mahabaleshwar)
+status: Adaptation — strawberry milkshake made with hung curd and no added sugar
+label: Strictly vegetarian, egg-free
+time: Prep 5 min
+serves: 1 (about 330 ml)
+diff: Easy
+good: Breakfast side, lower-calorie snack
+tags: Good source (High with whey or milk powder) · Quick · Lower-calorie · No added sugar · Soy-free · Whey optional · Gluten-free
+allergens: Milk
+nut: *Without whey|210|11.5|16|11|6|4|16||5.5
+nut: With 15 g whey|270|24|17|12|7|4|17||9.0
+tier: Good source without whey (just under 12 g); High protein with whey, or with 15 g skimmed milk powder (about 17 g protein, 260 kcal). Optional 5 g honey adds 15 kcal and 4 g sugar. Values checked against IFCT 2017 on 14 Oct 2026.
+ing: 150 g fresh strawberries, hulled (about 10 medium)
+ing: 120 g hung curd · 100 ml chilled toned milk
+ing: 3–4 ice cubes · optional: 5 g honey, a few mint leaves, 15 g unflavoured whey
+step: Wash strawberries in running water and hull them.
+step: Blend strawberries, hung curd, milk and whey (if using) until smooth.
+step: Taste; add honey only if the berries are very tart. Add ice and blend briefly.
+step: Serve immediately, garnished with mint.
+prot: Hung curd supplies 7 g, milk 3 g, strawberries 1.5 g.
+prot: Boost: whey as above, 15 g skimmed milk powder (+5 g protein, +55 kcal, +8 g lactose), or 1 tbsp chia seeds soaked 10 minutes (+1.5 g protein, +50 kcal, +3.5 g fibre).
+var: Regional: Mahabaleshwar "strawberry with cream" style — use 50 g malai in place of the milk (adds about 120 kcal, mostly fat).
+var: Substitution: frozen strawberries; or jamun or mulberries in season.
+var: Storage: drink within 2 hours.
+var: Food safety: strawberries can carry soil; wash well under running water.
+var: Meal prep: freeze hulled berries in season.
+
+=DR5|drink|V|High protein
+title: Filter-Coffee Frappé (Whey or Milk Powder)
+blurb: Strong South Indian filter-coffee decoction blended cold with milk and either whey or milk powder — a high-protein iced coffee with no added sugar.
+region: Tamil Nadu (filter-coffee tradition)
+status: Adaptation — cold filter coffee with added protein
+label: Strictly vegetarian, egg-free
+time: Prep 5 min (decoction made ahead)
+serves: 1 (about 300 ml)
+diff: Easy
+good: Mid-morning, post-workout, afternoon slump
+tags: High protein · Quick · Lower-calorie · No added sugar · Soy-free · Gluten-free · Whey optional
+allergens: Milk
+nut: *With 20 g skimmed milk powder (whey-free)|185|13|20|6|4|0|20||7.0
+nut: With 15 g whey|175|18|10|7|4|0|10||10.5
+tier: High protein, either way. Contains caffeine (roughly 80–120 mg, depending on decoction strength) — not suitable for children, and best avoided late in the day. Values checked against IFCT 2017 on 14 Oct 2026.
+ing: 60 ml strong filter-coffee decoction (or 1½ tsp instant coffee in 30 ml hot water), cooled
+ing: 200 ml chilled toned milk
+ing: Choose one: 20 g skimmed milk powder, or 15 g unflavoured or vanilla whey
+ing: 4–5 ice cubes · pinch of cardamom (optional) · optional sweetener: 5 g jaggery or sugar (+20 kcal, +5 g sugar)
+step: Make the decoction in a filter (2½ tbsp coffee-chicory powder with 100 ml boiling water) and let it drip for 15 minutes. Cool.
+step: Blend milk with the milk powder or whey for 15 seconds until frothy.
+step: Add decoction, ice and cardamom; blend 10 seconds.
+step: Pour into a tall glass or the traditional davara-tumbler and serve.
+prot: Milk supplies 6 g; milk powder 7 g or whey 12 g.
+prot: Boost: use both (+7 g protein, +70 kcal over the whey version).
+var: Regional: Kumbakonam degree-coffee style — hot, with full-cream milk and no protein added.
+var: Substitution: cold brew or espresso in place of decoction.
+var: Storage: decoction keeps 3 days refrigerated; blend the frappé fresh.
+var: Food safety: refrigerate decoction promptly.
+var: Meal prep: make decoction for several days at once.
+
+=DR6|drink|V|Good source
+title: Cocoa-Peanut Shake
+blurb: A chocolate-peanut milkshake sweetened only with two dates, thick enough to feel like a treat. Whey is optional.
+region: Modern
+status: Modern recipe — no traditional claim
+label: Strictly vegetarian, egg-free
+time: Soak 10 min · Prep 5 min
+serves: 1 (about 330 ml)
+diff: Easy
+good: Post-workout, evening snack
+tags: Good source (High with whey) · Quick · Soy-free · Gluten-free · Whey optional
+allergens: Milk, peanuts
+nut: *Without whey|325|14|32|17|7|6|27||4.5
+nut: With 15 g whey|385|26|33|18|8|6|28||7.0
+tier: Good source without whey; High protein with whey. The 2 dates add about 14 g sugar — dates are whole fruit with some fibre, but their sugar counts like any other sweetener. Values checked against IFCT 2017 on 14 Oct 2026.
+ing: 250 ml chilled toned milk · 10 g unsweetened cocoa powder (1½ tbsp) · 16 g unsweetened peanut butter (1 tbsp)
+ing: 2 soft dates (about 20 g, deseeded), soaked 10 minutes in 2 tbsp hot milk
+ing: Pinch of salt · 3–4 ice cubes · optional: 15 g unflavoured whey
+step: Soak the dates in 2 tbsp hot milk from the measured milk until soft.
+step: Blend dates with their milk and the cocoa to a smooth paste — this prevents cocoa lumps.
+step: Add the rest of the milk, peanut butter, salt, whey (if using) and ice. Blend 45 seconds until frothy.
+prot: Milk supplies 8 g, peanut butter 4 g, cocoa 2 g.
+prot: Boost without whey: 50 g hung curd (+3 g protein, +45 kcal) gives a thicker, mousse-like shake.
+var: Regional flavour: "Mysore-pak" style — a pinch of cardamom and 1 tsp ghee-roasted besan blended in (+25 kcal).
+var: Substitution: roasted peanuts (20 g) for peanut butter; 5 g jaggery for the dates (similar sugar, less fibre).
+var: Storage: drink fresh; refrigerate up to 12 hours.
+var: Food safety: use pasteurised milk.
+var: Meal prep: pre-mix cocoa, dates and peanut butter into a paste; keeps 3 days refrigerated.
+
+=DR7|drink|V|Good source
+title: Namkeen Sattu Sharbat
+blurb: Bihar's summer cooler: roasted gram flour whisked into cold water with lemon, roasted cumin, black salt, mint and green chilli. Savoury, filling and dairy-free.
+region: Bihar
+status: Traditional
+label: Strictly vegetarian, egg-free
+time: Prep 5 min
+serves: 1 (about 350 ml)
+diff: Easy
+good: Hot afternoons, travel, a dairy-free drink
+tags: Good source · Quick · Lower-calorie · High fibre · Dairy-free · Soy-free · Whey-free · Gluten-free · No added sugar
+allergens: None of the major allergens
+nut: *As written|140|9|20|2|<1|6|1||6.0
+tier: Good source. Sattu values vary by mill — check your pack. Raising sattu to 55 g (see Boost) gives about 12 g protein and makes it High protein. Values checked against IFCT 2017 on 14 Oct 2026.
+ing: 40 g chana sattu (about 4 tbsp)
+ing: 300 ml cold water · 1 tbsp lemon juice
+ing: ½ tsp roasted cumin powder · ¼ tsp black salt · pinch of regular salt · 1 tsp chopped mint · ½ green chilli, finely chopped · 10 g onion, very finely chopped (optional, traditional)
+step: Whisk sattu with 100 ml of the water to a smooth, lump-free paste.
+step: Add the remaining water, lemon, cumin, both salts, mint, chilli and onion. Whisk well.
+step: Serve immediately, stirring before each sip — sattu settles.
+prot: Sattu supplies 8.5 g.
+prot: Boost: increase sattu to 55 g (+3 g protein, +60 kcal), or make it with chaas from 100 g curd instead of half the water (+3.5 g protein, +60 kcal; no longer dairy-free).
+var: Regional: meetha sattu — with 10 g jaggery and cardamom instead of salt and spices (adds 40 kcal and 10 g sugar).
+var: Substitution: sattu made from barley and chana mix (lower protein; check the label).
+var: Storage: drink fresh.
+var: Food safety: use clean drinking water; store sattu dry and airtight.
+var: Meal prep: pre-mix the dry spices with sattu in a jar.
+
+=DR8|drink|V|Good source
+title: Masala Chaas with Roasted Chana
+blurb: Gujarat's spiced buttermilk, made thicker than usual and blended with roasted chana powder, which adds body and a nutty depth along with plant protein.
+region: Gujarat
+status: Adaptation — thicker chaas with roasted chana powder
+label: Strictly vegetarian, egg-free
+time: Prep 5 min
+serves: 1 (about 400 ml)
+diff: Easy
+good: With lunch, hot afternoons, digestion after a heavy meal
+tags: Good source (High with boost) · Quick · Lower-calorie · No added sugar · Soy-free · Whey-free · Gluten-free*
+allergens: Milk
+nut: *As written|200|11.5|18|8|5|2|11||6.0
+tier: Good source (just under 12 g). Either boost below takes it past 12 g and makes it High protein. The optional curry-leaf tempering adds about 20 kcal and is not counted. Values checked against IFCT 2017 on 14 Oct 2026.
+ing: 250 g toned-milk curd · 150 ml cold water
+ing: 15 g roasted chana (dalia), ground to a fine powder
+ing: ½ tsp roasted cumin powder · ¼ tsp black salt · pinch of salt · ½ tsp grated ginger · ½ green chilli · 1 tbsp chopped coriander and mint
+ing: Optional tempering: 2 g oil, ¼ tsp mustard seeds, 4 curry leaves, pinch of hing
+step: Blend curd, water, chana powder, ginger, chilli and herbs for 20 seconds until frothy and smooth.
+step: Stir in cumin and both salts.
+step: For the tempering, heat oil, add mustard, curry leaves and hing, and pour over. Serve chilled.
+prot: Curd supplies 8 g; roasted chana 3 g.
+prot: Boost: 50 g hung curd in place of 50 g curd (+1 g protein, +15 kcal), or increase chana powder to 25 g (+2 g protein, +35 kcal; thicker).
+var: Regional: Kerala sambharam — thinner, with crushed shallot, ginger, green chilli and curry leaves, no chana.
+var: Substitution: sattu (15 g) in place of roasted chana powder.
+var: Storage: 1 day refrigerated; whisk again before serving.
+var: Food safety: keep chilled; discard if it smells unusually sour.
+var: Meal prep: grind roasted chana powder in bulk; keeps 1 month airtight.
+
+=DR9|drink|V|Good source
+title: Date-Almond Milk Smoothie
+blurb: A Rajasthani-inspired winter drink: milk blended with soaked almonds, two dates, cardamom and saffron, with a spoon of milk powder for extra protein.
+region: Rajasthan (inspired by badam-doodh)
+status: Adaptation — badam milk sweetened with dates instead of sugar
+label: Strictly vegetarian, egg-free
+time: Soak 8 h (almonds) · Prep 5 min
+serves: 1 (about 320 ml)
+diff: Easy
+good: Breakfast side, winter mornings, older adults wanting a nourishing drink
+tags: Good source · Quick · Soy-free · Whey-free · Gluten-free
+allergens: Milk, tree nuts (almonds)
+nut: *As written|335|14|32|16|5|4|31||4.5
+tier: Good source. Sweetness comes from 2 dates (about 14 g sugar); the rest is lactose. Controlled, but not low in sugar. Values checked against IFCT 2017 on 14 Oct 2026.
+ing: 250 ml toned milk, warm or chilled · 10 g skimmed milk powder
+ing: 15 g almonds (about 12), soaked overnight and peeled
+ing: 2 soft dates (about 20 g, deseeded)
+ing: ¼ tsp cardamom powder · a few saffron strands soaked in 1 tbsp warm milk
+step: Blend almonds and dates with 50 ml of the milk to a very smooth paste, about 1 minute.
+step: Add the rest of the milk, milk powder and cardamom; blend 20 seconds.
+step: Stir in the saffron milk. Serve warm in winter or chilled in summer.
+prot: Milk and milk powder supply 11.5 g; almonds 3 g.
+prot: Boost: 15 g whey (+12 g protein, +60 kcal), or 20 g skimmed milk powder instead of 10 g (+3.5 g protein, +35 kcal, +5 g lactose).
+var: Regional: Kesar-badam doodh — simmer the milk with saffron and almond paste for 5 minutes and serve hot.
+var: Substitution: cashews or pistachios for almonds (slightly lower protein); 1 fig for 1 date.
+var: Storage: 12 hours refrigerated.
+var: Food safety: soak almonds in the refrigerator in hot weather; use pasteurised milk.
+var: Meal prep: soak and peel almonds for 3 days at a time; refrigerate.
+
+=DR10|drink|V|Good source
+title: Sitaphal-Curd Smoothie with Paneer
+blurb: Custard apple from the Deccan and central Indian plateau, blended with hung curd, milk and a little fresh paneer — creamy, naturally sweet, and higher in protein than it tastes.
+region: Madhya Pradesh (also widely grown in Maharashtra)
+status: Adaptation — a seasonal fruit smoothie with paneer for body
+label: Strictly vegetarian, egg-free
+time: Prep 10 min (deseeding)
+serves: 1 (about 330 ml)
+diff: Easy
+good: Autumn breakfast side or snack (October–December season)
+tags: Good source (High with whey or milk powder) · No added sugar · Soy-free · Whey optional · Gluten-free
+allergens: Milk
+nut: *Without whey|305|14|32|12|7|5|25||4.5
+nut: With 15 g whey|365|26|33|13|8|5|26||7.0
+tier: Good source without whey; High protein with optional whey (about 26 g) or with 15 g skimmed milk powder (about 19.5 g; see Boost). Sitaphal values from IFCT (custard apple); sugar content varies with ripeness. Values checked against IFCT 2017 on 14 Oct 2026.
+ing: 100 g sitaphal (custard apple) pulp, deseeded (from 1 large fruit)
+ing: 100 g hung curd · 100 ml chilled toned milk · 20 g fresh paneer · optional: 15 g unflavoured whey
+ing: Pinch of cardamom · 2–3 ice cubes
+step: Scoop the pulp from the fruit. Remove every seed by pressing the segments through your fingers or a coarse sieve — the seeds must never be blended, as they are toxic when crushed.
+step: Blend the pulp with hung curd, milk, paneer, cardamom and whey (if using) until silky, about 45 seconds.
+step: Add ice and blend briefly. Serve at once; custard apple darkens on standing.
+prot: Hung curd supplies 6 g, paneer 4 g, milk 3 g, fruit 1.5 g.
+prot: Boost: add 15 g whey (+12 g protein, +60 kcal), or 15 g skimmed milk powder (+5 g protein, +55 kcal, +8 g lactose), or increase paneer to 40 g (+4 g protein, +50 kcal, +4 g fat).
+var: Regional: sitaphal basundi-style — blend with 150 ml reduced milk and serve as a dessert drink (higher in calories).
+var: Substitution: ripe guava (strained) or papaya when sitaphal is out of season.
+var: Storage: drink within 1 hour; freeze deseeded pulp for up to 2 months.
+var: Food safety: discard all seeds; never grind them.
+var: Meal prep: deseed and freeze pulp in 100 g portions during the season.

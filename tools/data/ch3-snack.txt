@@ -1,0 +1,471 @@
+=S01|snack|V|Good source
+title: Roasted Chana-Peanut Chakna
+blurb: The classic Indian dry mix, weighted towards roasted chana, the best protein-for-calories option among dry snacks, with peanuts for crunch and curry-leaf tempering for aroma.
+region: Pan-Indian
+status: Traditional
+label: Strictly vegetarian, egg-free
+time: Prep 5 min · Cook 10 min
+serves: 10 (about 37 g, a small katori, each)
+diff: Easy
+good: Office drawer, travel, evening tea
+tags: Good source · Quick · Meal-prep friendly · Dairy-free · Soy-free · Whey-free · Gluten-free* · No added sugar
+allergens: Peanuts
+nut: *Per serving|155|8|14|7|1|5|1||5.5
+tier: Good source. Calorie-dense: measure the portion rather than eating from the jar. IFCT 2017 has no roasted-chana entry; Bengal gram dal values are used. Values checked against IFCT 2017 on 14 Oct 2026.
+ing: 250 g roasted chana (dalia), with or without skin
+ing: 120 g raw peanuts
+ing: 10 g groundnut oil (2 tsp) · 15 curry leaves · 2 dry red chillies, broken · ½ tsp turmeric · ½ tsp red chilli powder · 1 tsp chaat masala · ½ tsp black salt · ½ tsp amchur
+step: Dry-roast peanuts in a heavy kadhai on medium-low for 8–10 minutes, stirring, until the skins crack and the nuts smell toasty. Cool slightly.
+step: Heat oil on medium. Add curry leaves and red chillies; fry 30 seconds until the leaves are crisp.
+step: Lower the heat. Add turmeric and chilli powder, then the roasted chana and peanuts. Toss 2 minutes until evenly coated.
+step: Off the heat, sprinkle chaat masala, black salt and amchur. Toss again.
+step: Cool completely before storing.
+prot: Roasted chana supplies 5.5 g per serving and peanuts 3 g (8 g in all).
+prot: Boost: add 50 g roasted soy nuts to the batch (about +2 g protein and +20 kcal per serving; adds soy).
+prot: Keep the ratio chana-heavy; switching to more peanuts or cashews raises calories faster than protein.
+var: Regional: Gujarati-style — add 1 tsp sugar and 1 tsp sesame seeds with the spices (adds about 5 kcal per serving).
+var: Substitution: roasted moong dal or roasted matki in place of some chana.
+var: Storage: 3 weeks in an airtight jar.
+var: Food safety: store dry; discard if it smells rancid.
+var: Meal prep: excellent; pre-portion into 37 g bags.
+
+=S02|snack|V|High protein
+title: Mumbai Sprout Chaat
+blurb: Mumbai street chaat made at home: steamed moong and matki sprouts, crunchy vegetables, whisked curd and both chutneys, topped with roasted chana instead of sev.
+region: Maharashtra (Mumbai)
+status: Adaptation — curd and roasted chana added; no fried sev
+label: Strictly vegetarian, egg-free
+time: Sprouting 1–2 days · Prep 15 min · Cook 5 min
+serves: 2 (about 260 g each)
+diff: Easy
+good: Evening snack, light lunch
+tags: High protein · High fibre · Quick · Soy-free · Whey-free · Gluten-free*
+allergens: Milk
+nut: *Per serving|250|14|41|3|1|11|11||5.5
+tier: High protein. The 15 g sweet tamarind chutney contributes about 3.5 g added sugar per serving. Values checked against IFCT 2017 on 14 Oct 2026.
+ing: 80 g sprouted moong (from 40 g dry) · 80 g sprouted matki (from 40 g dry)
+ing: 40 g onion · 60 g tomato · 50 g cucumber, all finely chopped · 50 g boiled potato, diced · 20 g pomegranate seeds
+ing: 100 g curd, whisked with a pinch of salt and roasted cumin
+ing: 15 g tamarind-date chutney · 15 g green chutney · 1 tsp chaat masala · ½ tsp black salt · 1 tbsp lemon juice · coriander
+ing: 20 g roasted chana (dalia), lightly crushed
+step: Steam both sprouts together for 5 minutes until just tender but still crunchy. Cool.
+step: Toss sprouts with onion, tomato, cucumber, potato, chaat masala, black salt and lemon.
+step: Divide between two bowls. Spoon over the curd, then both chutneys.
+step: Top with roasted chana, pomegranate and coriander. Serve immediately.
+prot: Sprouts supply 9 g per serving, curd 2 g, roasted chana 2 g.
+prot: Boost: add 40 g crumbled paneer per bowl (+7 g protein, +105 kcal, +8 g fat).
+var: Regional: Delhi-style — use boiled kala chana and a pinch of kala namak with ginger juliennes.
+var: Substitution: all moong sprouts if matki is unavailable.
+var: Storage: assemble just before eating; sprouts keep 3 days refrigerated.
+var: Food safety: steam sprouts rather than serving them raw, especially for older adults, pregnant women and young children.
+var: Meal prep: prepare sprouts and chopped vegetables ahead; add curd and chutneys at serving.
+
+=S03|snack|V|Good source
+title: Khaman Dhokla
+blurb: Gujarat's spongy steamed besan cake, tempered with mustard seeds and chillies; a soft, light snack that delivers useful protein from besan alone.
+region: Gujarat
+status: Traditional; sugar reduced
+label: Strictly vegetarian, egg-free
+time: Prep 10 min · Cook 20 min · Rest 10 min
+serves: 4 (4 pieces, about 110 g, each)
+diff: Easy–moderate
+good: Tea-time, tiffin, guests
+tags: Good source · Quick · Soy-free · Whey-free · Gluten-free* · Meal-prep friendly
+allergens: Milk (curd), sesame
+nut: *Per serving|185|9|22|7|2|6|5||5.0
+tier: Good source. Contains 15 g sugar for the batch (about 4 g added sugar per serving), against 25–30 g in many recipes. With 75 g hung-curd mint dip: 260 kcal, 13 g protein. Values checked against IFCT 2017 on 14 Oct 2026.
+ing: 150 g besan (fine) · 60 g curd · 150 ml water · 1 tsp ginger-green chilli paste · ¼ tsp turmeric · 10 g sugar · 1 tbsp lemon juice · 4 g salt · 1 tsp (5–6 g) fruit salt (Eno) or ¾ tsp baking soda
+ing: Tempering: 10 g groundnut oil · 1 tsp mustard seeds · 5 g sesame seeds · 10 curry leaves · 2 green chillies, slit · 80 ml water · 5 g sugar
+ing: Garnish: 10 g fresh grated coconut · 2 tbsp coriander
+step: Set up a steamer with 5 cm of water and bring to a boil. Grease a 20 cm round tin.
+step: Whisk besan, curd, water, ginger-chilli paste, turmeric, sugar, lemon and salt into a smooth, thick batter (like idli batter). Rest 10 minutes.
+step: Just before steaming, add fruit salt and 1 tsp water on top of it; whisk briskly in one direction for 10 seconds. The batter will foam and nearly double.
+step: Pour immediately into the tin. Steam on high 15–18 minutes, until a skewer comes out clean. Rest 5 minutes and cut into 16 squares.
+step: Heat oil; add mustard seeds, sesame, curry leaves and chillies. Add 80 ml water and 5 g sugar; boil 30 seconds.
+step: Spoon the tempering evenly over the dhokla so it soaks in. Garnish and serve.
+prot: Besan supplies 8 g per serving; curd 0.5 g.
+prot: Boost: serve with 75 g hung-curd mint dip (+4 g protein, +70 kcal), or replace 30 g of the besan with 30 g moong dal flour (similar protein, softer crumb).
+var: Regional: Surti-style — sprinkle crushed black pepper and a little red chilli powder before steaming.
+var: Substitution: sour buttermilk (100 ml) in place of curd and water for tang.
+var: Storage: 2 days refrigerated; steam 2 minutes to refresh.
+var: Food safety: refrigerate within 2 hours in hot weather.
+var: Meal prep: good.
+
+=S04|snack|V|Good source
+title: Baked Handvo
+blurb: Gujarat's savoury lentil-rice cake with grated lauki, baked until the crust is crisp and the inside moist. Four dals in the batter make it the most protein-varied snack in the chapter.
+region: Gujarat
+status: Traditional; oven-baked (the handvo cooker or a kadhai are equally traditional)
+label: Strictly vegetarian, egg-free
+time: Soak 4 h · Ferment 6–8 h · Prep 15 min · Bake 45 min
+serves: 6 (1 square, about 150 g, each)
+diff: Moderate
+good: Tea-time, tiffin, travel
+tags: Good source · Meal-prep friendly · Soy-free · Whey-free · Gluten-free*
+allergens: Milk (curd), sesame
+nut: *Per serving|210|9|30|6|1|5|3||4.0
+tier: Good source. Contains 5 g sugar for the whole batch. Values checked against IFCT 2017 on 14 Oct 2026.
+ing: 100 g rice · 50 g toor dal · 50 g chana dal · 25 g urad dal · 25 g yellow moong dal
+ing: 150 g curd · 200 g lauki, grated and squeezed · 60 g carrot, grated · 50 g green peas
+ing: 1 tbsp ginger-green chilli paste · ½ tsp turmeric · 5 g sugar · 6 g salt · ½ tsp baking soda
+ing: Tempering: 20 g groundnut oil · 1 tsp mustard seeds · 10 g sesame seeds · 10 curry leaves · pinch of hing
+step: Soak rice and dals together 4 hours. Drain and grind coarsely with the curd (like fine rava). Ferment 6–8 hours.
+step: Mix in lauki, carrot, peas, ginger-chilli paste, turmeric, sugar and salt.
+step: Preheat the oven to 180 °C. Grease a 20 × 20 cm tin with 5 g of the oil.
+step: Heat the remaining oil; add mustard seeds, sesame, curry leaves and hing. Pour half into the batter with the baking soda and stir well.
+step: Pour the batter into the tin; drizzle the remaining tempering over the top.
+step: Bake 40–45 minutes until deep golden and a skewer comes out clean. Rest 10 minutes; cut into 6 squares.
+prot: Four dals supply 5.5 g per serving; rice 1 g; curd 1 g; peas and sesame 1 g.
+prot: Boost: reduce rice to 70 g and add 30 g more toor dal (+1 g protein per serving, slightly denser texture), or serve with 100 g curd (+3.5 g protein, +60 kcal).
+var: Regional: Parsi-style tavethi — similar batter cooked as thick pancakes on a tawa.
+var: Substitution: ready handvo flour (label-dependent nutrition).
+var: Storage: 3 days refrigerated; freezes 1 month.
+var: Food safety: refrigerate cut squares once cool.
+var: Meal prep: excellent.
+
+=S05|snack|V|High protein
+title: Paneer Tikka (Oven, Tawa or Air-Fryer)
+blurb: Punjab's tandoori favourite made without a tandoor: paneer and vegetables in a hung-curd marinade, charred in a hot oven, on a tawa or in an air-fryer.
+region: Punjab
+status: Traditional
+label: Strictly vegetarian, egg-free
+time: Marinate 30 min · Prep 15 min · Cook 15 min
+serves: 3 (about 6 pieces each)
+diff: Easy
+good: Evening snack, guests, post-workout
+tags: High protein · Lower-carbohydrate · Soy-free · Whey-free · Gluten-free* · No added sugar
+allergens: Milk
+nut: *Per serving|245|15|14|14|7|2|10||6.0
+tier: High protein. Full-fat paneer makes this rich; the low-fat swap is below. Values checked against IFCT 2017 on 14 Oct 2026.
+ing: 200 g full-fat paneer, in 3 cm cubes
+ing: 60 g onion, 80 g capsicum, 60 g firm tomato (deseeded), in 3 cm pieces
+ing: Marinade: 60 g hung curd · 10 g besan, dry-roasted 2 minutes · 8 g mustard oil · 1 tsp ginger-garlic paste · 1 tsp Kashmiri chilli powder · ½ tsp turmeric · ½ tsp garam masala · ½ tsp ajwain · 1 tsp kasuri methi · 1 tbsp lemon juice · 3 g salt
+ing: To finish: chaat masala, lemon wedges, mint chutney
+step: Whisk the marinade ingredients until smooth and thick.
+step: Fold in paneer and vegetables gently. Rest 30 minutes (up to 4 hours, refrigerated).
+step: Thread onto skewers, alternating paneer and vegetables.
+step: Oven: bake on a rack over a tray at 230 °C for 12–15 minutes, turning once, until charred at the edges. Air-fryer: 200 °C for 8–10 minutes. Tawa: cook on a hot greased tawa on medium-high, 2 minutes per side.
+step: Sprinkle chaat masala; serve with mint chutney and lemon.
+prot: Paneer supplies 12 g per serving, hung curd 1.5 g, besan and vegetables 1.5 g.
+prot: Low-fat swap: low-fat paneer (check the label) saves about 70 kcal and 8 g fat per serving, with similar protein.
+prot: Pairing: mint chutney made with 50 g hung curd adds about 3 g protein per serving.
+var: Regional: Malai-style — replace the chilli with white pepper and green cardamom (adding cream is optional and not counted).
+var: Substitution: Greek yogurt for hung curd.
+var: Storage: best fresh; 1 day refrigerated.
+var: Food safety: discard leftover marinade that touched raw paneer; don't reuse it as a dip.
+var: Meal prep: marinate the night before.
+
+=S06|snack|V|High protein
+title: Achari Tofu Tikka
+blurb: Pressed tofu in a hung-curd marinade flavoured with pickling spices — fennel, nigella, mustard and fenugreek seeds. The bold achari flavour suits tofu, which absorbs it well.
+region: Modern (North Indian achari flavours)
+status: Modern recipe — no traditional claim
+label: Strictly vegetarian, egg-free
+time: Press 15 min · Marinate 30 min · Cook 15 min
+serves: 3 (about 6 pieces each)
+diff: Easy
+good: Evening snack, post-workout, lower-calorie option
+tags: High protein · Lower-calorie · Lower-carbohydrate · Whey-free · Gluten-free* · No added sugar
+allergens: Soy, milk
+nut: *Per serving|220|18|8|13|2|3|3||8.0
+tier: High protein. Tofu uses a typical firm-tofu label — verify against the brand used. Values checked against IFCT 2017 on 14 Oct 2026.
+ing: 300 g firm tofu, pressed and cut into 3 cm cubes
+ing: 60 g onion, 80 g capsicum, 60 g tomato (deseeded), in 3 cm pieces
+ing: Achari masala: ½ tsp each fennel, mustard and nigella seeds and ¼ tsp methi seeds, dry-roasted and coarsely ground
+ing: Marinade: 75 g hung curd · 10 g besan, dry-roasted · 8 g mustard oil · 1 tsp ginger-garlic paste · 1 tsp Kashmiri chilli powder · ½ tsp turmeric · ½ tsp amchur · 1 tbsp lemon juice · 4 g salt
+step: Press tofu between kitchen towels under a heavy pan for 15 minutes. Cut into cubes.
+step: Mix the marinade with the achari masala. Fold in tofu and vegetables. Rest 30 minutes.
+step: Thread onto skewers.
+step: Oven: 230 °C for 15 minutes, turning once. Air-fryer: 200 °C for 10–12 minutes. Tawa: medium-high, 2–3 minutes per side, until golden and lightly charred.
+step: Serve with onion rings and lemon.
+prot: Tofu supplies 15 g per serving; hung curd 2 g; besan and vegetables 1 g.
+prot: Boost: increase tofu to 400 g (+5 g protein, +50 kcal per serving).
+var: Regional: tandoori-style — skip the achari spices and use the paneer tikka marinade (S05).
+var: Substitution: extra-firm tofu holds shape best; silken tofu will not work.
+var: Storage: 2 days refrigerated; reheat on a hot tawa.
+var: Food safety: keep opened tofu in fresh water, refrigerated, for no more than 3 days.
+var: Meal prep: good — marinate up to 12 hours ahead.
+
+=S07|snack|V|High protein
+title: Baked Soya-Vegetable Cutlets
+blurb: Soy granules, potato and vegetables shaped into crisp cutlets with an oat crust and baked or shallow-fried with just 12 g oil for the batch.
+region: Modern (pan-Indian)
+status: Modern recipe — no traditional claim
+label: Strictly vegetarian, egg-free
+time: Prep 25 min · Cook 25 min
+serves: 4 (2 cutlets each)
+diff: Easy–moderate
+good: Tiffin, travel, evening snack
+tags: High protein · Lower-fat · Dairy-free · Whey-free · No added sugar · Meal-prep friendly
+allergens: Soy, gluten (oats may contain gluten unless certified gluten-free)
+nut: *Per serving|200|15|22|4|1|7|3||7.5
+tier: High protein. Soy granules use a typical label (about 52 g protein per 100 g dry); oats from USDA (not in IFCT 2017). Values checked against IFCT 2017 on 14 Oct 2026.
+ing: 80 g soy granules, dry
+ing: 150 g potato, boiled and mashed · 60 g carrot, finely grated · 50 g green peas, lightly mashed · 50 g onion, finely chopped · 40 g beans, finely chopped
+ing: 30 g besan, dry-roasted 2 minutes · 1 tsp ginger-garlic paste · 1 green chilli · ½ tsp garam masala · 1 tsp chaat masala · ½ tsp amchur · 2 tbsp coriander · 4 g salt
+ing: Coating: 30 g rolled oats, pulsed coarsely
+ing: 12 g groundnut oil for brushing
+step: Soak soy granules in 300 ml hot water for 10 minutes. Drain and squeeze out all the water in a cloth — wet granules make soft, crumbly cutlets.
+step: Sauté onion, carrot, beans and peas in 2 g oil for 4 minutes until dry.
+step: Mix granules, vegetables, potato, besan, spices, coriander and salt into a firm mixture.
+step: Shape into 8 patties, 7 cm across and 1.5 cm thick. Press both sides into the oats.
+step: Bake: place on a greased tray, brush with the remaining oil, and bake at 200 °C for 20–25 minutes, turning once, until golden and crisp. Tawa: shallow-fry on medium, 3 minutes per side, using the same 10 g oil.
+step: Serve with green chutney or hung-curd dip.
+prot: Soy granules supply 10.5 g per serving; besan 1.5 g; oats 1 g; vegetables 2 g.
+prot: Boost: serve with 75 g hung-curd mint dip (+4 g protein, +70 kcal).
+var: Regional: Kolkata "veg chop" style — add 50 g grated beetroot and a pinch of roasted cumin; coat in breadcrumbs.
+var: Substitution: gluten-free version with certified gluten-free oats, or roll in 20 g rice flakes (poha) pulsed coarsely.
+var: Storage: cooked cutlets keep 3 days refrigerated; shaped raw cutlets freeze 1 month.
+var: Food safety: reheat until hot throughout (75 °C at the centre).
+var: Meal prep: excellent.
+
+=S08|snack|V|Good source
+title: Bafauri (Steamed Chana Dal Dumplings)
+blurb: Chhattisgarh's oil-free answer to pakoras: coarsely ground chana dal with onion and herbs, steamed into small dumplings, then tossed in a light tempering.
+region: Chhattisgarh
+status: Traditional
+label: Strictly vegetarian, egg-free
+time: Soak 4 h · Prep 15 min · Cook 20 min
+serves: 3 (about 8 pieces each)
+diff: Easy
+good: Tea-time, tiffin, lower-fat snacking
+tags: Good source · High fibre · Lower-fat · Dairy-free · Soy-free · Whey-free · Gluten-free* · No added sugar · Meal-prep friendly
+allergens: Sesame
+nut: *Per serving|205|12|26|5|1|9|2||5.5
+tier: Good source — protein is 11.7 g before rounding, just under the 12 g mark. With 75 g hung-curd mint dip: 275 kcal, 16 g protein (High protein). Values checked against IFCT 2017 on 14 Oct 2026.
+ing: 150 g chana dal
+ing: 60 g onion, finely chopped · 2 green chillies · 10 g ginger · 3 tbsp coriander · ½ tsp cumin · ¼ tsp ajwain · 4 g salt
+ing: Tempering (optional): 6 g groundnut oil · ½ tsp mustard seeds · 5 g sesame seeds · 8 curry leaves
+step: Soak chana dal 4 hours. Drain well.
+step: Grind coarsely with chillies and ginger, without water, to a thick, grainy paste.
+step: Mix in onion, coriander, cumin, ajwain and salt.
+step: Shape into small balls or flattened ovals, about 20 g each, with wet hands.
+step: Steam on a greased plate or idli stand for 12–15 minutes, until firm and a skewer comes out clean.
+step: For the tempering, heat oil; add mustard, sesame and curry leaves, then toss the bafauri for 1 minute. Serve with tomato or coriander chutney.
+prot: Chana dal supplies 10.5 g per serving.
+prot: Boost: serve with 75 g hung-curd mint dip (+4 g protein, +70 kcal), or replace 30 g chana dal with 30 g moong dal (similar protein, softer texture).
+var: Shape variation: roll into finger-length logs before steaming, then slice and temper with sesame and dry red chillies.
+var: Substitution: mixed chana and moong dal.
+var: Storage: 2 days refrigerated; re-steam or toss in a hot pan.
+var: Food safety: refrigerate within 2 hours.
+var: Meal prep: excellent; freezes well for 1 month.
+
+=S09|snack|E|High protein
+title: Masala Egg Bites
+blurb: Spiced egg mini-muffins with paneer, spinach and peppers: baked in a muffin tray, steamed in katoris or cooked in an appe pan. Three bites make a portable 16 g protein snack.
+region: Modern (pan-Indian flavours)
+status: Modern recipe — no traditional claim
+label: Contains eggs
+time: Prep 15 min · Cook 20 min
+serves: 4 (3 bites each; makes 12)
+diff: Easy
+good: Office snack, breakfast on the go, post-workout
+tags: High protein · Lower-calorie · Lower-carbohydrate · Soy-free · Whey-free · Gluten-free · No added sugar · Meal-prep friendly
+allergens: Eggs, milk
+nut: *Per serving|175|17|4|10|4|1|3||9.5
+tier: High protein. Values checked against IFCT 2017 on 14 Oct 2026.
+ing: 6 large eggs (300 g shelled) · 4 egg whites (132 g)
+ing: 60 g full-fat paneer, crumbled
+ing: 50 g onion · 60 g capsicum · 50 g tomato (deseeded) · 40 g spinach, all finely chopped · 1 green chilli · 2 tbsp coriander
+ing: ¼ tsp turmeric · ½ tsp garam masala · ¼ tsp black pepper · 3 g salt
+ing: 4 g groundnut oil for greasing
+step: Preheat the oven to 180 °C. Grease a 12-cup muffin tray (silicone works best).
+step: Whisk eggs, whites, spices and salt until well blended.
+step: Divide the vegetables and paneer among the cups, then pour in the egg mixture to three-quarters full.
+step: Bake 18–20 minutes until puffed and set; a knife in the centre should come out clean.
+step: No oven: steam in greased steel katoris for 12–14 minutes, or cook in a covered, greased appe pan on low for 8–10 minutes, turning once.
+step: Cool 5 minutes before unmoulding; they deflate slightly.
+prot: Eggs and whites supply 13 g per serving; paneer 2.5 g.
+prot: Lighter swap: replace 2 whole eggs with 4 egg whites (similar protein; about 20 kcal and 2.5 g fat less per serving). Boost: add 40 g more paneer (+2 g protein, +25 kcal per serving).
+var: Regional: Parsi-inspired — add a little chopped green garlic and ¼ tsp cumin, as in akuri.
+var: Substitution: grated cheese in place of paneer (check salt).
+var: Storage: 3 days refrigerated; reheat 30 seconds in a microwave or 3 minutes in a steamer.
+var: Food safety: refrigerate within 2 hours of cooking; carry chilled if eaten more than 4 hours later.
+var: Meal prep: excellent.
+
+=S10|snack|V|Good source
+title: Bhutte ka Kees with Paneer
+blurb: Indore's famous street snack: grated corn cooked in milk with ghee, mustard seeds and green chillies until creamy. Crumbled paneer is added here for protein.
+region: Madhya Pradesh (Indore)
+status: Adaptation — traditional bhutte ka kees with paneer added
+label: Strictly vegetarian, egg-free
+time: Prep 15 min · Cook 20 min
+serves: 2 (about 220 g each)
+diff: Easy
+good: Monsoon evening snack
+tags: Good source · Quick · Soy-free · Whey-free · Gluten-free*
+allergens: Milk
+nut: *Per serving|290|14|29|13|8|5|13||4.5
+tier: Good source. Sugars are mostly natural, from corn and milk; 2 g added sugar for the batch is optional and not counted. Values checked against IFCT 2017 on 14 Oct 2026.
+ing: 2 tender corn cobs (desi bhutta or sweet corn), grated — about 250 g grated corn
+ing: 150 ml toned milk · 60 g full-fat paneer, crumbled
+ing: 6 g ghee (1 tsp) · ½ tsp mustard seeds · ½ tsp cumin · pinch of hing · 2 green chillies · 1 tsp grated ginger · ¼ tsp turmeric · 3 g salt · 2 g sugar (optional)
+ing: To finish: 10 g fresh grated coconut · 1 tbsp lemon juice · coriander · ½ tsp jeeravan or chaat masala
+step: Grate the corn off the cob on the coarse side of a grater, collecting the milky juice.
+step: Heat ghee; add mustard, cumin, hing, chillies and ginger for 30 seconds.
+step: Add grated corn and turmeric. Cook 5 minutes on medium, stirring, until it no longer smells raw.
+step: Add milk, salt and sugar (if using). Simmer on low 8–10 minutes, stirring, until thick and creamy.
+step: Fold in paneer and cook 1 minute.
+step: Finish with coconut, lemon, coriander and jeeravan. Serve warm.
+prot: Paneer supplies 5.5 g per serving, corn 4 g, milk 2.5 g.
+prot: Boost: increase paneer to 100 g (+3.5 g protein, +50 kcal, +4 g fat per serving).
+prot: Lighter: omit the coconut and use 3 g ghee to save about 35 kcal and 3 g saturated fat per serving.
+var: Regional: classic Indori version — no paneer, finished with sev (not counted here).
+var: Substitution: frozen sweet corn, pulsed coarsely, when fresh cobs are out of season (sweeter, so omit sugar).
+var: Storage: best fresh; 1 day refrigerated.
+var: Food safety: milk-based; refrigerate within 2 hours.
+var: Meal prep: not ideal.
+
+=S11|snack|V|Good source
+title: Dal Pitha
+blurb: Steamed rice-flour dumplings from Jharkhand and Bihar, filled with coarsely ground chana and moong dal seasoned with garlic, ginger and mustard oil.
+region: Jharkhand (also Bihar)
+status: Traditional
+label: Strictly vegetarian, egg-free
+time: Soak 3 h · Prep 30 min · Cook 25 min
+serves: 3 (4 pitha each)
+diff: Moderate (shaping)
+good: Evening snack, festival food, tiffin
+tags: Good source · Dairy-free · Soy-free · Whey-free · Gluten-free* · No added sugar · Lower-fat
+allergens: None of the major allergens (mustard oil; check hing)
+nut: *Per serving|285|11|49|4|0|6|1||4.0
+tier: Good source. With 100 g curd: 345 kcal, 14 g protein. Values checked against IFCT 2017 on 14 Oct 2026.
+ing: Shell: 120 g rice flour · about 200 ml water · 2 g salt
+ing: Filling: 75 g chana dal · 25 g yellow moong dal · 5 garlic cloves · 10 g ginger · 2 green chillies · ½ tsp cumin · ¼ tsp ajwain · ¼ tsp turmeric · 3 g salt · 8 g mustard oil · 2 tbsp coriander
+step: Soak both dals 3 hours. Drain and grind coarsely with garlic, ginger and chillies, without water.
+step: Heat mustard oil until it just smokes; lower the heat. Add cumin and ajwain, then the dal paste, turmeric and salt. Cook 5–6 minutes, stirring, until dry and crumbly. Stir in coriander; cool.
+step: Bring 200 ml water and salt to a boil. Off the heat, add rice flour and stir to a rough dough. Cover 5 minutes, then knead while warm until smooth (wet your hands if it sticks).
+step: Divide into 12 balls. Flatten each into a 7–8 cm disc, place 1 tbsp filling in the centre, fold into a half-moon and pinch the edges to seal.
+step: Steam on a greased plate for 12–15 minutes until the shells turn slightly translucent and no longer sticky.
+step: Serve warm with tomato-coriander chutney.
+prot: The dal filling supplies 7.5 g per serving; rice flour 2.5 g.
+prot: Boost: increase the filling to 140 g dal in total and use slightly larger pitha (+2.5 g protein, +45 kcal per serving), or serve with 100 g curd.
+var: Regional: Bihari style — boil the pitha in salted water for 10 minutes instead of steaming, then toss in a little tempered mustard oil and chillies.
+var: Substitution: urad dal in place of moong in the filling.
+var: Storage: 2 days refrigerated; re-steam to soften.
+var: Food safety: refrigerate within 2 hours.
+var: Meal prep: good — make the filling a day ahead.
+
+=S12|snack|V|High protein
+title: Moong Dal Paddu
+blurb: Crisp-outside, soft-inside dumplings cooked in Karnataka's paddu (paniyaram) pan, made from a moong-dominant batter so they are higher in protein than the usual rice-urad version.
+region: Karnataka
+status: Adaptation — moong dal as the main batter base
+label: Strictly vegetarian, egg-free
+time: Soak 3 h · Rest 30 min · Prep 10 min · Cook 20 min
+serves: 3 (6 paddu each)
+diff: Easy (needs a paddu or appe pan)
+good: Tea-time, tiffin, children's snack box
+tags: High protein · Soy-free · Whey-free · Gluten-free* · No added sugar · Meal-prep friendly
+allergens: Milk (curd)
+nut: *Per serving|230|12|33|5|1|6|3||5.5
+tier: High protein. Values checked against IFCT 2017 on 14 Oct 2026.
+ing: 110 g yellow moong dal · 25 g urad dal · 25 g raw rice
+ing: 50 g curd · ¼ tsp baking soda · 3 g salt
+ing: 50 g onion and 40 g carrot, finely chopped · 8 curry leaves · 1 green chilli · 1 tsp grated ginger · 2 tbsp coriander
+ing: 10 g groundnut oil (2 tsp) for the pan
+step: Soak dals and rice together for 3 hours. Drain.
+step: Grind with curd and 50–60 ml water to a thick batter that drops from a spoon in a ribbon. Rest 30 minutes.
+step: Stir in salt, vegetables, curry leaves, chilli, ginger, coriander and, just before cooking, the baking soda.
+step: Heat the paddu pan on medium. Put a few drops of oil in each cavity.
+step: Fill each cavity three-quarters full. Cover and cook 3 minutes until the base is golden.
+step: Turn each paddu with a skewer; cook 2 minutes more, uncovered, until golden all over.
+step: Serve hot with coconut or tomato chutney.
+prot: Moong dal supplies 9 g per serving, urad 2 g, rice and curd 1 g.
+prot: Boost: serve with peanut chutney (20 g peanuts per serving: +5 g protein, +115 kcal).
+var: Regional: Chettinad kuzhi paniyaram — add 1 tsp chana dal to the tempering and a pinch of crushed pepper.
+var: Substitution: use leftover B13 ragi-moong dosa batter.
+var: Storage: batter keeps 24 hours refrigerated; cooked paddu are best warm, 1 day refrigerated.
+var: Food safety: refrigerate batter if not used within 4 hours.
+var: Meal prep: good.
+
+=S13|snack|E|High protein
+title: Kolkata-Style Boiled Egg Chaat
+blurb: A jhal-muri-inspired chaat from Kolkata's street stalls: chopped boiled eggs tossed with roasted chana, raw onion, green chilli, mustard oil and lemon.
+region: West Bengal (Kolkata)
+status: Adaptation — egg chaat built on jhal-muri flavours, with roasted chana instead of puffed rice
+label: Contains eggs
+time: Prep 10 min · Cook 10 min (boiling eggs)
+serves: 2
+diff: Easy
+good: Evening snack, post-workout, office (pack eggs whole)
+tags: High protein · Quick · Lower-carbohydrate · Dairy-free · Soy-free · Whey-free · Gluten-free*
+allergens: Eggs
+nut: *Per serving|225|16|12|12|3|3|5||7.5
+tier: High protein. The 10 g tamarind chutney adds about 2.5 g sugar per serving; omit it for no added sugar. Values checked against IFCT 2017 on 14 Oct 2026.
+ing: 4 large eggs, hard-boiled
+ing: 20 g roasted chana (dalia)
+ing: 40 g onion · 50 g tomato · 50 g cucumber, all finely chopped · 1 green chilli · 2 tbsp coriander
+ing: 4 g mustard oil (1 tsp) · 1 tbsp lemon juice · ½ tsp chaat masala · ¼ tsp black salt · ¼ tsp roasted cumin powder · 10 g tamarind chutney (optional)
+step: Boil eggs 10 minutes; cool in cold water and peel. Chop into 1 cm pieces.
+step: In a bowl, mix onion, tomato, cucumber, chilli and coriander with mustard oil, lemon and the spices.
+step: Fold in eggs and roasted chana gently, so the yolks stay in pieces.
+step: Drizzle tamarind chutney, if using. Serve at once, while the chana is crunchy.
+prot: Eggs supply 12.5 g per serving; roasted chana 2 g.
+prot: Boost: add 2 extra boiled egg whites to the batch (+3.5 g protein, +17 kcal per serving), or increase roasted chana to 40 g (+2 g protein, +37 kcal).
+var: Regional: Kolkata egg jhal-muri — toss with 20 g puffed rice per serving just before eating (+80 kcal, +1.5 g protein).
+var: Substitution: sprouted moong (steamed) in place of roasted chana.
+var: Storage: eat fresh. For the office, carry boiled eggs and the chopped mix separately; combine before eating.
+var: Food safety: boiled eggs keep 3 days refrigerated in their shells; once peeled, eat the same day. Do not leave egg chaat at room temperature for more than 2 hours.
+var: Meal prep: boil eggs ahead.
+
+=S14|snack|V|Good source
+title: Chickpea Sundal
+blurb: The Tamil festival and beach snack: boiled chickpeas tempered with mustard seeds, curry leaves and chillies, finished with fresh coconut and a little raw mango.
+region: Tamil Nadu
+status: Traditional
+label: Strictly vegetarian, egg-free
+time: Soak 8 h · Prep 10 min · Cook 30 min
+serves: 3 (about 130 g each)
+diff: Easy
+good: Evening snack, festival offering (Navaratri), tiffin
+tags: Good source · High fibre · Dairy-free · Soy-free · Whey-free · Gluten-free* · No added sugar · Meal-prep friendly
+allergens: None of the major allergens (contains coconut; check hing)
+nut: *Per serving|200|8|21|8|5|6|5||4.0
+tier: Good source. IFCT 2017 has no kabuli chana entry; USDA values are used. Coconut and coconut oil supply most of the saturated fat; groundnut oil reduces it by about 2 g per serving. Values checked against IFCT 2017 on 14 Oct 2026.
+ing: 120 g kabuli chana, dry
+ing: 20 g fresh grated coconut · 30 g raw mango, finely chopped (optional) · 2 tbsp coriander
+ing: Tempering: 8 g coconut oil · ½ tsp mustard seeds · 5 g urad dal · 2 dry red chillies · 10 curry leaves · pinch of hing
+ing: 4 g salt
+step: Soak chana 8 hours. Pressure-cook with 500 ml water and a pinch of salt for 1 whistle on high and 15 minutes on low, until soft but whole. Drain well.
+step: Heat coconut oil; add mustard seeds. When they pop, add urad dal and fry until golden; add red chillies, curry leaves and hing.
+step: Add the chana and salt. Toss 2 minutes on medium.
+step: Off the heat, add coconut, raw mango and coriander. Serve warm or at room temperature.
+prot: Chickpeas supply 7.5 g per serving; urad dal and coconut 0.5 g.
+prot: Boost: mix in 50 g cooked moong sprouts per serving (+3.5 g protein, +40 kcal), or serve with a glass of chaas made from 150 g curd (+5 g protein, +90 kcal).
+var: Regional: Kerala-style — use kala chana and coconut oil, with a pinch of black pepper.
+var: Substitution: any pulse works — green moong, black-eyed beans (karamani), or peanuts (higher fat).
+var: Storage: 2 days refrigerated; add coconut just before serving.
+var: Food safety: fresh coconut spoils quickly; refrigerate sundal within 2 hours.
+var: Meal prep: cook chana ahead; temper on the day.
+
+=S15|snack|V|High protein
+title: Bombay Hung-Curd Vegetable Sandwich
+blurb: Mumbai's vegetable sandwich, with a thick spread of herbed hung curd and grated paneer in place of butter — a portable snack with 16 g protein.
+region: Maharashtra (Mumbai)
+status: Adaptation — hung curd and paneer replace butter and cheese
+label: Strictly vegetarian, egg-free
+time: Prep 10 min · Cook 0–5 min (optional toasting)
+serves: 1 (1 sandwich, 2 slices)
+diff: Easy
+good: Office snack, travel, tiffin
+tags: High protein · Quick · Soy-free · Whey-free
+allergens: Gluten (wheat), milk
+nut: *Per serving|290|16|33|10|5|6|11||5.5
+tier: High protein. Bread uses a typical whole-wheat bread label; hung curd is estimated at about 6 g protein per 100 g. Values checked against IFCT 2017 on 14 Oct 2026.
+ing: 2 slices whole-wheat bread (50 g)
+ing: Spread: 60 g hung curd · 30 g full-fat paneer, finely grated · 1 tbsp chopped coriander and mint · pinch of salt, pepper and chaat masala
+ing: 10 g green chutney
+ing: Filling: 30 g cucumber · 30 g tomato · 15 g onion · 15 g capsicum · 20 g boiled beetroot, all thinly sliced
+step: Mix hung curd, paneer, herbs and seasoning into a thick spread.
+step: Spread green chutney on one slice and the curd mixture on the other.
+step: Layer the vegetables on the curd side; sprinkle a pinch of chaat masala.
+step: Close the sandwich and press gently. Cut diagonally.
+step: Optional: toast in a sandwich maker or on a dry tawa for 2–3 minutes until golden.
+prot: Hung curd supplies 5 g, paneer 5.5 g and bread 5 g.
+prot: Boost: increase paneer to 50 g (+3.5 g protein, +50 kcal, +4 g fat), or use a high-protein bread (check the label).
+var: Regional: Bombay masala toast — add a thin layer of spiced mashed potato (adds about 60 kcal and 1 g protein).
+var: Substitution: Greek yogurt for hung curd; multigrain bread for whole-wheat.
+var: Storage: pack the spread and vegetables separately if eating more than 3 hours later, to stop the bread going soggy.
+var: Food safety: keep chilled; eat within 4 hours if unrefrigerated.
+var: Meal prep: make the spread up to 2 days ahead.

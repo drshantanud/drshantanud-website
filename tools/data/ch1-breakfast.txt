@@ -1,0 +1,664 @@
+=B01|breakfast|V|High protein
+title: Moong Dal Chilla with Paneer-Vegetable Filling
+blurb: Moong dal batter crisps on the tawa without besan or rice, and a raw paneer-vegetable filling turns a light chilla into a complete breakfast.
+region: Rajasthan and wider North India
+status: Adaptation — moong chilla is a traditional Marwari breakfast; the generous paneer filling is a protein-focused addition
+label: Strictly vegetarian, egg-free
+time: Soak 3 h (or 30 min in hot water) · Prep 15 min · Cook 20 min
+serves: 2 (3 chillas each, about 310 g cooked)
+diff: Easy
+good: Weekday breakfast, tiffin, light dinner
+tags: High protein · Quick · No added sugar · Whey-free · Soy-free · Gluten-free*
+allergens: Milk
+nut: *Per serving|405|25|43|14|6|8|9||6.5
+tier: High protein · 6.5 g per 100 kcal. 8 g protein per 100 g. Values checked against IFCT 2017 on 14 Oct 2026.
+ing: Batter: 120 g yellow moong dal, dry (⅔ cup) · 15 g ginger and green chilli · 3 g salt (½ tsp) · ¼ tsp turmeric · ½ tsp cumin seeds · pinch of hing · 60–80 ml water
+ing: Filling: 100 g full-fat paneer, crumbled · 60 g onion, finely chopped · 60 g tomato, deseeded · 40 g capsicum · 40 g spinach or methi leaves · 10 g coriander · ½ tsp chaat masala
+ing: Cooking: 10 g groundnut oil (2 tsp) for 6 chillas; mustard oil suits the Rajasthani style
+ing: Optional: 75 g hung-curd mint dip per serving
+step: Rinse the dal until the water runs clearer. Soak 3 hours in 500 ml water, or 30 minutes in just-boiled water. Drain.
+step: Grind dal, ginger and chilli with 60 ml water to a thick, smooth batter that drops slowly off a spoon. Stir in salt, turmeric, cumin and hing. No fermentation is needed.
+step: Mix all filling ingredients with a pinch of salt. Keep it raw.
+step: Heat a tawa on medium until a water drop sizzles away in 2–3 seconds. Smear ¼ tsp oil and wipe with paper towel.
+step: Pour 60 g batter (1 ladle) in the centre and spread to a 15–18 cm circle. Drizzle ¼ tsp oil around the edge.
+step: Cook 1½–2 minutes until the top looks dry and the edges lift and turn golden.
+step: Spread 50 g filling over one half, fold, press, and cook 1 minute more. Repeat; serve hot.
+prot: Moong dal gives about 14 g per serving and paneer about 9 g.
+prot: Boost: 75 g hung-curd mint dip per serving adds about 4 g protein, 70 kcal and 4 g fat.
+prot: Avoid stirring whey into the batter; it scorches and turns rubbery.
+var: Regional: Gujarati-style — 1 tbsp grated lauki and ½ tsp ajwain in the batter.
+var: Lower-calorie swap: 50 g firm tofu plus 50 g paneer saves about 30 kcal and 3 g fat per serving (adds soy).
+var: Serve with green chutney or a bowl of curd.
+var: Storage: batter and filling keep 24 hours refrigerated; cooked chillas 1 day, reheated on a dry tawa.
+var: Food safety: keep paneer filling at or below 5 °C; discard batter that smells sour or fizzes.
+var: Meal prep: grind batter and chop filling the night before.
+
+=B02|breakfast|V|High protein
+title: Besan Pudla with Vegetables and Hung-Curd Dip
+blurb: Gujarat's savoury besan pancake is ready in 20 minutes from pantry staples; a thick mint hung-curd dip lifts it into the high-protein tier.
+region: Gujarat
+status: Adaptation — traditional pudla, served with a hung-curd dip and a higher vegetable load
+label: Strictly vegetarian, egg-free
+time: Prep 10 min · Cook 15 min · Total 25 min (dip needs hung curd made ahead)
+serves: 2 (2 pudlas plus 75 g dip each, about 255 g)
+diff: Easy
+good: Quick breakfast, no-soak mornings
+tags: High protein · Quick · No added sugar · Whey-free · Soy-free · Gluten-free*
+allergens: Milk
+nut: *Per serving|305|16|31|12|4|10|6||5.5
+tier: High protein · 5.5 g per 100 kcal. 6.5 g protein per 100 g. Home-strained hung curd is estimated at about 6 g protein per 100 g (IFCT has no curd entry) and varies with straining time. Values checked against IFCT 2017 on 14 Oct 2026.
+ing: Batter: 100 g besan (¾ cup + 1 tbsp) · 150 ml water · 50 g onion and 50 g tomato, finely chopped · 60 g grated lauki or carrot · 10 g coriander · ½ tsp ajwain · ¼ tsp turmeric · ½ tsp red chilli powder · 2 g salt
+ing: Cooking: 10 g groundnut oil (2 tsp)
+ing: Dip: 150 g hung curd (from about 300 g toned-milk curd, strained 4–6 hours) · 2 tbsp chopped mint · pinch of roasted cumin and salt
+step: Whisk besan and water to a lump-free batter the thickness of pouring cream. Rest 5 minutes.
+step: Stir in vegetables, coriander, ajwain, turmeric, chilli and salt. Squeeze excess water from the lauki first, or the pudla turns soggy.
+step: Heat a tawa on medium. Smear ½ tsp oil.
+step: Pour 1 ladle (about 100 g) and spread gently to 15 cm — thicker than a dosa.
+step: Drizzle ½ tsp oil around the edge. Cook 3 minutes until the underside is golden and the top is set.
+step: Flip and cook 2 minutes more, pressing lightly, until no wet batter shows at the centre.
+step: Mix the dip ingredients. Serve two pudlas with 75 g dip each.
+prot: Besan supplies about 11 g per serving, hung curd about 4 g, vegetables about 1 g.
+prot: Boost: crumble 25 g paneer per pudla onto the top before flipping — adds about 4.5 g protein, 65 kcal and 5 g fat per serving.
+var: Regional: Rajasthani-style — add 1 tbsp chopped methi and a pinch of kasuri methi.
+var: Substitution: Greek yogurt for hung curd (check the label; most give 8–10 g protein per 100 g).
+var: Storage: batter without vegetables keeps 24 hours refrigerated. Cooked pudlas are best fresh.
+var: Food safety: refrigerate hung curd while straining; use within 2 days.
+var: Meal prep: moderate — strain the curd and chop vegetables the night before.
+
+=B03|breakfast|V|Good source
+title: Adai (Mixed-Lentil Dosa)
+blurb: Adai is Tamil Nadu's thick, crisp dosa made from four dals and a little rice, with no fermentation — the most protein-rich of the South Indian dosas.
+region: Tamil Nadu
+status: Traditional
+label: Strictly vegetarian, egg-free
+time: Soak 3 h · Prep 15 min · Cook 25 min
+serves: 3 (2 adai each, about 140 g)
+diff: Easy–moderate
+good: Weekend breakfast, tiffin
+tags: Good source · No added sugar · Dairy-free · Soy-free · Whey-free · Gluten-free*
+allergens: None of the major allergens (check hing)
+nut: *Per serving|315|14|49|7|1|7|2||4.5
+tier: Good source · 4.5 g per 100 kcal. 10 g protein per 100 g. With 150 g curd on the side: 405 kcal, 19 g protein. Values checked against IFCT 2017 on 14 Oct 2026.
+ing: 80 g raw rice (idli or sona masoori) · 50 g chana dal · 50 g toor dal · 25 g urad dal · 25 g yellow moong dal
+ing: 3 dry red chillies · 10 g ginger · 10 curry leaves · ¼ tsp hing · 4 g salt (¾ tsp)
+ing: 60 g onion, finely chopped · 2 tbsp coriander
+ing: Cooking: 15 g groundnut oil (3 tsp) — gingelly (sesame) oil is traditional
+ing: Serving: 150 g curd per person, optional
+step: Soak rice and all four dals together in 600 ml water for 3 hours. Drain.
+step: Grind coarsely with red chillies, ginger and 120–150 ml water. The batter should feel slightly grainy, like fine semolina, and be thicker than dosa batter.
+step: Stir in salt, hing, curry leaves, onion and coriander. Use immediately.
+step: Heat a tawa on medium. Spread 1 ladle (about 75 g) into an 18 cm circle, thicker than a dosa.
+step: Make a small hole in the centre with the ladle tip. Drizzle ¼ tsp oil in the hole and ¼ tsp around the edge.
+step: Cook 3 minutes until the underside is deep golden. Flip and cook 2 minutes more.
+step: Serve hot with curd, avial or coconut chutney.
+prot: Dals supply about 11 g per serving; rice about 2 g. Combining four dals with rice provides complementary amino acids.
+prot: Boost: serve with 150 g curd — adds 5 g protein and 90 kcal. Alternatively, swap 30 g rice for 30 g more toor dal (+1.5 g protein per serving, slightly softer adai).
+var: Regional: Kerala-style — add 2 tbsp grated coconut to the batter (adds about 25 kcal and 2 g saturated fat per serving).
+var: Substitution: any mix of dals works if chana dal stays at least a third of the total, for crispness.
+var: Storage: batter keeps 24 hours refrigerated; it may begin to sour.
+var: Food safety: do not leave unfermented batter at room temperature for more than 4 hours in hot weather.
+var: Meal prep: grind the night before; add onions in the morning.
+
+=B04|breakfast|V|High protein
+title: Pesarattu with Ginger Chutney
+blurb: Andhra Pradesh's green crepe uses whole green moong with its skin, so it is unusually high in fibre as well as protein.
+region: Andhra Pradesh
+status: Traditional
+label: Strictly vegetarian, egg-free
+time: Soak 6 h or overnight · Prep 15 min · Cook 20 min
+serves: 2 (2 pesarattu plus chutney each, about 230 g)
+diff: Easy–moderate
+good: Weekday breakfast, post-workout
+tags: High protein · Dairy-free · Soy-free · Whey-free · Gluten-free* · Meal-prep friendly
+allergens: None of the major allergens (check hing)
+nut: *Per serving|365|20|51|8|2|16|6||5.5
+tier: High protein · 5.5 g per 100 kcal. 8.5 g protein per 100 g. The chutney contains 5 g jaggery for the batch. Values checked against IFCT 2017 on 14 Oct 2026.
+ing: Batter: 150 g whole green moong, dry (¾ cup) · 15 g raw rice (optional, for crispness) · 10 g ginger · 2 green chillies · ½ tsp cumin · 3 g salt
+ing: Topping: 60 g onion, finely chopped · 2 tbsp coriander
+ing: Cooking: 10 g groundnut oil (2 tsp)
+ing: Ginger chutney: 20 g ginger · 5 g tamarind · 5 g jaggery · 5 g chana dal and 5 g urad dal · 2 dry red chillies · 3 g oil · ½ tsp mustard seeds · salt
+step: Soak moong and rice in 600 ml water for 6 hours or overnight. Drain.
+step: Grind with ginger, chillies, cumin and 100 ml water to a smooth batter, slightly thicker than dosa batter. Add salt.
+step: For the chutney, fry chana dal, urad dal and chillies in 2 g oil until golden. Grind with ginger, tamarind, jaggery, salt and 30 ml water. Temper with mustard seeds in 1 g oil.
+step: Heat a tawa on medium-high. Spread 1 ladle (about 100 g) thinly into a 20 cm circle.
+step: Sprinkle a quarter of the onion and coriander, pressing lightly. Drizzle ½ tsp oil around the edge.
+step: Cook 2–3 minutes until the base is crisp and golden. Pesarattu is usually not flipped; fold and serve.
+step: Serve 2 per person with 2 tbsp chutney.
+prot: Whole moong supplies about 17 g per serving.
+prot: Boost: the Andhra "MLA pesarattu" style folds in a spoon of upma; for protein instead, crumble 30 g paneer per serving over the onion (+5.5 g protein, +80 kcal, +6 g fat).
+var: Regional: Telangana-style — add 1 tsp cumin and a handful of chopped dill (soa) leaves to the batter.
+var: Substitution: split green moong (chilka) soaks in 2 hours and gives a smoother batter.
+var: Storage: batter keeps 2 days refrigerated; chutney keeps 5 days refrigerated.
+var: Food safety: discard batter with any off smell. Soaked moong left at room temperature longer than 12 hours in hot weather may start to ferment; refrigerate it.
+var: Meal prep: excellent — grind batter for two days at once.
+
+=B05|breakfast|V|Good source
+title: Soya-Urad Idli with Sambar
+blurb: A modest amount of defatted soy flour in the batter raises idli protein while keeping its soft, spongy texture; drumstick sambar completes the plate.
+region: Tamil Nadu
+status: Adaptation — traditional idli-sambar with soy flour added to the batter
+label: Strictly vegetarian, egg-free
+time: Soak 5 h · Ferment 8–12 h · Prep 20 min · Cook 30 min
+serves: 4 (3 idlis plus 150 ml sambar each, about 315 g)
+diff: Moderate
+good: Weekend breakfast, family meals, tiffin
+tags: Good source · Dairy-free · Whey-free · Meal-prep friendly · Gluten-free* · Lower-fat
+allergens: Soy
+nut: *Per serving|380|18|65|4|1|11|5||5.0
+tier: Good source · 5.0 g per 100 kcal. 6 g protein per 100 g. Soy flour uses a typical defatted-soy-flour label value (about 50 g protein per 100 g) — check against the brand used. Values checked against IFCT 2017 on 14 Oct 2026.
+ing: Idli: 200 g idli rice (parboiled) · 80 g whole white urad dal · 3 g methi seeds (½ tsp) · 40 g defatted soy flour · 6 g salt (1 tsp)
+ing: Sambar: 60 g toor dal · 250 g vegetables (drumstick, pumpkin, onion, tomato) · 10 g tamarind · 10 g sambar powder · 10 g groundnut oil · mustard seeds, curry leaves, hing · salt
+ing: Optional: roasted-chana (pottukadalai) chutney
+step: Soak rice in 600 ml water, and urad with methi in 300 ml water, separately for 5 hours.
+step: Grind urad until light and fluffy (10–12 minutes in a wet grinder, or in short bursts in a mixer), adding about 150 ml cold water. Grind rice to a fine rava-like texture.
+step: Combine both batters with salt. Whisk in the soy flour, 1 tbsp at a time, until no lumps remain.
+step: Cover loosely and ferment 8–12 hours in a warm place. Ready when risen by about half and pleasantly sour. Soy flour may reduce the rise slightly; this is expected.
+step: Pressure-cook toor dal with 300 ml water for 4 whistles; mash. Cook vegetables in tamarind water (100 ml) with sambar powder and salt for 10 minutes. Add the dal and 200 ml water; simmer 5 minutes. Temper mustard seeds, curry leaves and hing in the oil and pour over.
+step: Grease idli moulds lightly. Fill three-quarters full. Steam on medium-high for 10–12 minutes, until a skewer comes out clean.
+step: Rest 2 minutes, unmould, and serve with sambar.
+prot: Urad and soy flour each give about 4.5–5 g per serving, toor dal in sambar about 3 g, rice about 3.5 g.
+prot: Boost: 20 g roasted chana (pottukadalai) chutney per serving adds about 4.5 g protein and 75 kcal — a traditional pairing.
+prot: Avoid going above 15% soy flour in the batter: idlis turn dense and slightly bitter.
+var: Regional: Kanchipuram idli — temper pepper, cumin, ginger and cashew in 5 g ghee and fold into the batter.
+var: Substitution: if soy flour is unavailable, replace with 40 g more urad dal (about 2.5 g less protein per serving than the soy version).
+var: Storage: batter keeps 3 days refrigerated; steamed idlis keep 2 days refrigerated; sambar keeps 2 days refrigerated.
+var: Food safety: reheat sambar until boiling; reheat idlis by steaming for 3 minutes.
+var: Meal prep: excellent.
+
+=B06|breakfast|V|High protein
+title: Paneer Bhurji with Capsicum
+blurb: The Punjabi favourite: crumbled paneer cooked quickly with onion, tomato and capsicum, delivering over 20 g protein in a single bowl.
+region: Punjab
+status: Traditional
+label: Strictly vegetarian, egg-free
+time: Prep 10 min · Cook 12 min · Total 22 min
+serves: 2 (about 230 g bhurji each)
+diff: Easy
+good: Quick breakfast, post-workout, roti roll
+tags: High protein · Quick · Lower-carbohydrate · No added sugar · Soy-free · Whey-free · Gluten-free*
+allergens: Milk
+nut: *Bhurji only|370|23|22|21|10|5|16||6.0
+nut: With 1 whole-wheat roti (35 g atta)|480|27|45|21|10|9|17||
+tier: High protein · 6.0 g per 100 kcal. 10 g protein per 100 g. IFCT 2017 lists paneer at 18.9 g protein, 14.8 g fat and 12.4 g carbohydrate per 100 g; branded paneer often has more fat and less carbohydrate. See the low-fat swap. Values checked against IFCT 2017 on 14 Oct 2026.
+ing: 200 g full-fat paneer, crumbled
+ing: 80 g onion, finely chopped · 100 g tomato, chopped · 80 g capsicum, diced · 50 g green peas
+ing: 10 g groundnut oil (2 tsp) · ½ tsp cumin seeds · 1 tsp ginger-garlic paste · 1 green chilli
+ing: ¼ tsp turmeric · ½ tsp Kashmiri chilli powder · ½ tsp garam masala · ½ tsp kasuri methi · 3 g salt
+ing: 30 ml milk · 2 tbsp coriander
+step: Heat oil in a kadhai on medium. Add cumin; when it crackles (10 seconds), add onion and cook 4 minutes until translucent.
+step: Add ginger-garlic paste and chilli; cook 30 seconds until the raw smell goes.
+step: Add tomato, turmeric, chilli powder and salt. Cook 3–4 minutes until soft and the oil starts to separate at the edges.
+step: Add capsicum and peas; cook 2 minutes so the capsicum stays crisp.
+step: Add paneer and milk. Stir gently for 2 minutes only — longer cooking makes paneer rubbery.
+step: Finish with garam masala, crushed kasuri methi and coriander. Serve hot.
+prot: Paneer supplies 18 g per serving; peas 2 g.
+prot: Boost: add 50 g firm tofu, crumbled, at step 5 — about +4 g protein, +40 kcal per serving (adds soy).
+prot: Low-fat swap: low-fat paneer (typically 20–25 g protein and 8–10 g fat per 100 g; check the label) saves about 80 kcal and 10–12 g fat per serving, with similar or slightly higher protein.
+var: Regional: Mumbai street-style — add ½ tsp pav bhaji masala and a squeeze of lemon.
+var: Serve in a whole-wheat roti roll, with toast, or alone for a lower-carbohydrate meal.
+var: Storage: 2 days refrigerated; reheat in a pan with 1 tbsp water.
+var: Food safety: use paneer before its date; buy refrigerated paneer and keep it at or below 5 °C.
+var: Meal prep: good for a day ahead; texture firms slightly.
+
+=B07|breakfast|E|High protein
+title: Parsi Akuri on Whole-Wheat Toast
+blurb: Akuri is the Parsi community's soft-set spiced scrambled egg, cooked slowly so it stays creamy rather than dry — Mumbai's most elegant egg breakfast.
+region: Maharashtra (Parsi community, Mumbai)
+status: Traditional; two egg whites added to the classic
+label: Contains eggs
+time: Prep 10 min · Cook 10 min · Total 20 min
+serves: 2 (akuri plus 2 slices toast each)
+diff: Easy
+good: Weekend breakfast, brunch
+tags: High protein · Quick · Soy-free · Whey-free
+allergens: Eggs, milk, gluten (bread)
+nut: *Per serving|340|23|26|15|6|5|5||7.0
+tier: High protein · 7.0 g per 100 kcal. Bread uses a typical whole-wheat bread label (25 g slice: about 60 kcal, 2.5 g protein). Values checked against IFCT 2017 on 14 Oct 2026.
+ing: 4 large eggs (about 200 g shelled) plus 2 egg whites (66 g)
+ing: 30 ml milk · 3 g salt
+ing: 60 g onion, finely chopped · 60 g tomato, deseeded and chopped
+ing: 1 green chilli · ½ tsp grated ginger · 1 small garlic clove, minced · ¼ tsp turmeric · ¼ tsp red chilli powder · ¼ tsp cumin powder
+ing: 8 g ghee (1½ tsp) — traditional; or groundnut oil
+ing: 2 tbsp coriander · 4 slices whole-wheat bread (100 g)
+step: Beat eggs, egg whites, milk and salt lightly — just until blended.
+step: Warm ghee in a non-stick pan on medium-low. Cook onion 4 minutes until soft but not brown.
+step: Add ginger, garlic and chilli for 30 seconds, then tomato and spices for 2 minutes until the tomato softens.
+step: Turn the heat to low. Pour in the eggs and stir slowly and constantly with a spatula, scraping the base.
+step: After 2–3 minutes, when the eggs are thick and creamy but still glossy, take the pan off the heat. They will finish cooking in residual heat.
+step: Stir in coriander. Serve immediately over toast.
+prot: Eggs give 16 g per serving; bread 5 g.
+prot: Boost: replace the 2 egg whites with 4 (+3.5 g protein, +17 kcal per serving).
+prot: Akuri is best slightly soft, but eggs must reach a thick, set consistency with no clear liquid egg remaining.
+var: Regional: Bharuchi akuri — fold in 1 tbsp chopped cashews and raisins (adds about 50 kcal and 4 g sugar per serving).
+var: Lower-carbohydrate: serve with sautéed spinach instead of toast (saves about 110 kcal and 20 g carbs).
+var: Storage: best eaten fresh; do not store and reheat.
+var: Food safety: use eggs with clean, uncracked shells; refrigerate eggs in hot weather.
+var: Meal prep: not suitable; prep onion-tomato base a day ahead.
+
+=B08|breakfast|E|High protein
+title: Masala Vegetable Omelette
+blurb: India's everyday omelette, made with two whole eggs and two whites for a high-protein, low-carbohydrate breakfast in 10 minutes.
+region: Pan-Indian
+status: Traditional home dish; extra whites added
+label: Contains eggs
+time: Prep 5 min · Cook 5 min · Total 10 min
+serves: 1
+diff: Easy
+good: Weekday breakfast, post-workout
+tags: High protein · Quick · Lower-calorie · Lower-carbohydrate · Dairy-free · Soy-free · Whey-free · Gluten-free · No added sugar
+allergens: Eggs
+nut: *Per serving|240|22|5|15|4|2|2||9.0
+tier: High protein · 9.0 g per 100 kcal. Values checked against IFCT 2017 on 14 Oct 2026.
+ing: 2 large eggs (100 g shelled) · 2 egg whites (66 g)
+ing: 30 g onion · 30 g tomato · 20 g capsicum · 20 g spinach, all finely chopped
+ing: 1 green chilli · 1 tbsp coriander · pinch of turmeric · ¼ tsp red chilli powder · 2 g salt · pinch of black pepper
+ing: 5 g groundnut oil (1 tsp)
+step: Whisk eggs, whites, spices and salt for 30 seconds until slightly frothy.
+step: Stir in the vegetables and chilli.
+step: Heat oil in a 20–22 cm non-stick pan on medium.
+step: Pour in the mixture and tilt to spread evenly. Cook 2 minutes until the edges set and the base is golden.
+step: Flip with a wide spatula (or slide onto a plate and invert). Cook 1 minute more until the centre feels firm when pressed.
+step: Fold and serve.
+prot: Eggs and whites supply 20 g; vegetables about 1 g.
+prot: Boost: scatter 20 g grated paneer over the top before folding (+3.5 g protein, +50 kcal, +4 g fat).
+var: Regional: Mumbai bread-omelette — sandwich between 2 slices of whole-wheat bread with green chutney (+125 kcal, +5 g protein).
+var: Serve with 1 whole-wheat roti or toast for a fuller breakfast.
+var: Storage: eat fresh.
+var: Food safety: cook until no liquid egg remains in the centre, especially for older adults, pregnant women and young children.
+var: Meal prep: chop vegetables the night before.
+
+=B09|breakfast|E|High protein
+title: Mutta Dosa (Egg Dosa)
+blurb: A Kerala and Tamil Nadu tea-shop classic: an egg beaten with onion and pepper is spread over a half-cooked dosa, turning a carbohydrate breakfast into a balanced one.
+region: Kerala (also common in Tamil Nadu)
+status: Traditional
+label: Contains eggs
+time: Prep 5 min (with ready batter) · Cook 15 min
+serves: 2 (2 egg dosas each)
+diff: Easy–moderate
+good: Weekday breakfast using leftover dosa batter
+tags: Good source · Quick · Dairy-free · Soy-free · Whey-free · Gluten-free* · No added sugar
+allergens: Eggs
+nut: *Per serving|420|22|50|14|4|4|2||5.0
+tier: High protein · 5.0 g per 100 kcal. Batter values are calculated from its raw grains; shop-bought batter varies, so check the label. Values checked against IFCT 2017 on 14 Oct 2026.
+ing: Dosa batter made from 100 g raw rice and 35 g urad dal (about 300 g fermented batter), or 300 g ready batter
+ing: 4 large eggs (200 g shelled)
+ing: 40 g onion, finely chopped · 1 green chilli · 2 tbsp coriander · ¼ tsp crushed black pepper · 2 g salt
+ing: 8 g coconut or groundnut oil (1½ tsp)
+step: Beat each egg separately in a small bowl with a quarter of the onion, chilli, coriander, pepper and salt.
+step: Heat a tawa on medium-high. Pour 75 g batter (1 ladle) and spread into a 20 cm circle, slightly thicker than a plain dosa.
+step: When the surface starts to set (about 45 seconds), pour one beaten egg over it and spread with the back of a spoon.
+step: Drizzle ½ tsp oil around the edge. Lower the heat to medium and cook 2 minutes until the egg sets and the base is golden.
+step: Flip and cook 1 minute more, until the egg is fully cooked and lightly browned.
+step: Fold and serve with coconut or tomato chutney.
+prot: Eggs supply 12.5 g per serving; urad and rice about 7.5 g.
+prot: Boost: add 1 extra egg white to each egg mixture (+7 g protein, +34 kcal per serving).
+var: Regional: Tamil Nadu tea-shop style — add ½ tsp crushed fennel and a pinch of garam masala to the egg, and serve with salna-style tomato kurma.
+var: Substitution: use pesarattu batter (B04) for a much higher-fibre egg dosa.
+var: Storage: eat fresh; batter keeps 3 days refrigerated.
+var: Food safety: cook the egg layer until no runny egg remains.
+var: Meal prep: uses batter made earlier in the week.
+
+=B10|breakfast|V|Good source
+title: Sattu Paratha with Curd
+blurb: Bihar's sattu paratha is stuffed with roasted gram flour sharpened by mustard oil, lemon and pickle spices — sustaining food for farmers and office workers alike.
+region: Bihar
+status: Traditional
+label: Strictly vegetarian, egg-free
+time: Prep 20 min · Cook 20 min · Total 40 min
+serves: 2 (2 parathas plus 100 g curd each)
+diff: Moderate (stuffing and rolling)
+good: Hearty breakfast, travel, long workdays
+tags: Good source · High fibre · No added sugar · Soy-free · Whey-free · Meal-prep friendly
+allergens: Gluten (wheat), milk (curd)
+nut: *Per serving|470|19|65|14|3|14|7||4.0
+tier: Good source · 4.0 g per 100 kcal. IFCT 2017 has no entry for sattu; Bengal gram dal values are used — check your pack. Values checked against IFCT 2017 on 14 Oct 2026.
+ing: Dough: 120 g whole-wheat atta · about 80 ml water · pinch of salt
+ing: Filling: 80 g chana sattu · 40 g onion, finely chopped · 1 tsp grated garlic and ginger · 1 green chilli · 2 tbsp coriander · ½ tsp ajwain · ½ tsp kalonji · 1 tbsp lemon juice · 5 g mustard oil (1 tsp) · 2 g salt · 1–2 tbsp water
+ing: Cooking: 10 g groundnut oil or ghee (2 tsp)
+ing: Serving: 200 g curd (100 g per person)
+step: Knead atta, salt and water into a soft dough. Rest 15 minutes, covered.
+step: Mix all filling ingredients. Add water a teaspoon at a time until the mixture holds together when pressed but is not wet.
+step: Divide dough into 4 balls and filling into 4 portions.
+step: Roll a ball to 10 cm, place filling in the centre, gather the edges and seal. Flatten and roll gently to 15–16 cm.
+step: Cook on a hot tawa (medium-high) 1 minute per side until brown spots appear.
+step: Brush ½ tsp oil on each side and cook until golden and crisp, about 1 minute more per side.
+step: Serve with curd and a spoon of pickle or green chutney.
+prot: Sattu gives about 9 g per serving, wheat 6.5 g, curd 3.5 g.
+prot: Boost: increase sattu to 110 g in total (+3.5 g protein and +60 kcal per serving) and serve 150 g curd each (+2 g protein, +30 kcal).
+var: Regional: Jharkhand style — add 1 tsp chopped pickled green chilli and mango achar masala to the filling.
+var: Substitution: if sattu is unavailable, use 80 g besan roasted dry in a pan for 6–8 minutes until fragrant and nutty.
+var: Storage: cooked parathas keep 1 day at room temperature in cool weather, 3 days refrigerated.
+var: Food safety: carry curd chilled when travelling.
+var: Meal prep: good — make filling 2 days ahead.
+
+=B11|breakfast|V|Good source
+title: Kanda Poha with Sprouted Moong and Peanuts
+blurb: Maharashtra's most familiar breakfast, given more protein with a generous handful of sprouted moong folded in at the end.
+region: Maharashtra
+status: Adaptation — traditional kanda poha with sprouted moong added
+label: Strictly vegetarian, egg-free
+time: Sprouting 1–2 days (or ready sprouts) · Prep 10 min · Cook 15 min
+serves: 2 (about 250 g each)
+diff: Easy
+good: Quick weekday breakfast
+tags: Good source · Quick · Dairy-free · Soy-free · Whey-free · Gluten-free* · No added sugar
+allergens: Peanuts
+nut: *Per serving|375|13|55|11|2|8|3||3.5
+tier: Good source · 3.5 g per 100 kcal. With 200 ml toned milk: about 490 kcal and 19 g protein. Values checked against IFCT 2017 on 14 Oct 2026.
+ing: 100 g thick poha (1⅓ cups)
+ing: 100 g sprouted moong (from about 45 g dry whole moong)
+ing: 25 g raw peanuts · 80 g onion, finely chopped
+ing: 10 g groundnut oil (2 tsp) · ½ tsp mustard seeds · 10 curry leaves · 2 green chillies · ¼ tsp turmeric · 3 g salt · ½ tsp sugar (optional, traditional)
+ing: 1 tbsp lemon juice · 2 tbsp coriander · 10 g fresh coconut (optional garnish)
+step: To sprout: soak moong 8 hours, drain, and keep in a covered colander for 24–36 hours, rinsing twice a day, until tails are 3–5 mm.
+step: Rinse poha in a colander under running water for 20 seconds. Drain and leave 10 minutes to soften. It should be soft but not mushy.
+step: Steam the sprouts for 5 minutes, or microwave with 2 tbsp water for 2 minutes, until just tender.
+step: Heat oil on medium. Fry peanuts 2 minutes until golden; remove.
+step: In the same oil, add mustard seeds; when they pop, add curry leaves and chillies, then onion. Cook 3 minutes until translucent.
+step: Add turmeric, salt and sugar (if using), then poha and sprouts. Toss gently on low heat for 2–3 minutes until heated through.
+step: Turn off the heat. Add peanuts, lemon juice and coriander. Serve with coconut on top.
+prot: Sprouted moong gives about 5 g per serving, peanuts 3 g, poha 3.5 g.
+prot: Boost: double the sprouts to 200 g (+5 g protein, +75 kcal per serving), or serve with a glass of milk or chaas as above.
+var: Regional: Indori poha — finish with ½ tsp jeeravan masala and a few pomegranate seeds.
+var: Substitution: sprouted matki (moth bean) in place of moong for a nuttier taste.
+var: Storage: best fresh; keeps 1 day refrigerated, reheated with a sprinkle of water.
+var: Food safety: sprouts can carry bacteria; steam or microwave them as described rather than eating raw, especially for older adults, pregnant women and young children. Discard sprouts that smell sour or look slimy.
+var: Meal prep: sprout a batch for the week; refrigerated sprouts keep 3 days.
+
+=B12|breakfast|V|Good source
+title: Methi Thepla with Besan and Curd
+blurb: The Gujarati travel flatbread, made with besan and curd in the dough and plenty of fresh methi; it stays soft for a day without refrigeration in cool weather.
+region: Gujarat
+status: Adaptation — traditional thepla with a higher besan proportion
+label: Strictly vegetarian, egg-free
+time: Prep 20 min · Cook 25 min · Total 45 min
+serves: 3 (3 theplas plus 100 g curd each)
+diff: Moderate
+good: Tiffin, travel, batch breakfasts
+tags: Good source · Meal-prep friendly · No added sugar · Soy-free · Whey-free
+allergens: Gluten (wheat), milk, sesame
+nut: *Per serving|360|15|48|12|4|10|7||4.0
+tier: Good source · 4.0 g per 100 kcal. Values checked against IFCT 2017 on 14 Oct 2026.
+ing: 150 g whole-wheat atta · 60 g besan · 60 g fresh methi leaves, finely chopped · 80 g curd (for the dough)
+ing: 5 g sesame seeds · 1 tsp ginger-green chilli paste · ¼ tsp turmeric · ½ tsp red chilli powder · ½ tsp ajwain · 4 g salt
+ing: 15 g groundnut oil in total: 5 g in the dough and 10 g for cooking
+ing: Serving: 300 g curd (100 g per person)
+step: Mix atta, besan, methi, sesame, spices and salt. Add curd and 5 g oil; knead to a firm, smooth dough, adding water only if needed (usually 1–3 tbsp). Methi releases moisture, so add water slowly.
+step: Rest 15 minutes, covered.
+step: Divide into 9 balls. Roll each to a thin 15 cm circle, dusting with atta.
+step: Cook on a hot tawa (medium-high) for 30 seconds until small bubbles appear. Flip.
+step: Brush ¼ tsp oil on top; flip and press with a cloth until brown spots appear. Repeat on the other side, about 1 minute in total.
+step: Stack in a cloth-lined container to keep soft. Serve 3 per person with curd and a little chhundo or pickle.
+prot: Wheat gives about 5.5 g per serving, besan 4 g, curd (dough and serving) 4.5 g.
+prot: Boost: increase besan to 90 g and reduce atta to 120 g (+1 g protein per serving, slightly more fragile dough), or serve with 150 g hung curd instead of 100 g plain curd (+5 g protein, +80 kcal).
+var: Regional: Kathiawadi style — add 1 tbsp bajra flour per batch and a pinch of garlic.
+var: Substitution: dudhi (lauki) thepla — replace methi with 80 g grated, squeezed lauki.
+var: Storage: 1 day at room temperature in cool weather; up to 4 days refrigerated; freezes 1 month.
+var: Food safety: in hot or humid weather, refrigerate theplas after 12 hours; curd in the dough shortens shelf life.
+var: Meal prep: excellent.
+
+=B13|breakfast|V|High protein
+title: Ragi-Moong Dosa
+blurb: A no-ferment Karnataka-style dosa that pairs moong dal with ragi: moong carries the protein, ragi adds earthy flavour, colour and calcium.
+region: Karnataka
+status: Adaptation — ragi dosa made with moong dal as the main base
+label: Strictly vegetarian, egg-free
+time: Soak 3 h · Prep 10 min · Cook 20 min
+serves: 2 (3 dosas each)
+diff: Easy
+good: Weekday breakfast, millet-based meals
+tags: High protein · Quick · Dairy-free · Soy-free · Whey-free · Gluten-free* · No added sugar
+allergens: None of the major allergens (check hing)
+nut: *Per serving|320|16|48|6|1|9|2||5.0
+tier: High protein · 5.0 g per 100 kcal. Values checked against IFCT 2017 on 14 Oct 2026.
+ing: 120 g yellow moong dal, dry · 40 g ragi flour
+ing: 10 g ginger · 2 green chillies · ½ tsp cumin · pinch of hing · 3 g salt
+ing: 40 g onion, finely chopped · 10 curry leaves, chopped · 2 tbsp coriander
+ing: 10 g groundnut oil (2 tsp)
+step: Soak moong dal 3 hours; drain.
+step: Grind with ginger, chillies, cumin and 100 ml water until smooth.
+step: Whisk in ragi flour, hing and salt. Add 40–60 ml water to reach a pourable dosa batter. Rest 10 minutes so the ragi hydrates.
+step: Stir in onion, curry leaves and coriander.
+step: Heat a tawa on medium-high. Pour 1 ladle (about 70 g) and spread to an 18 cm circle.
+step: Drizzle ½ tsp oil around the edge. Cook 2 minutes until the edges darken and lift; flip and cook 1 minute.
+step: Serve with coconut or peanut chutney.
+prot: Moong dal supplies about 14.5 g per serving; ragi 1.5 g.
+prot: Boost: serve with 25 g peanut chutney per serving (+6 g protein, +145 kcal, +12 g fat) or 150 g curd (+5 g protein, +90 kcal).
+var: Regional: Mangalorean touch — add 2 tbsp grated coconut and 1 tbsp chopped onion to the batter (adds about 25 kcal and 2 g saturated fat per serving).
+var: Substitution: jowar flour in place of ragi gives a lighter-coloured dosa.
+var: Storage: batter keeps 24 hours refrigerated.
+var: Food safety: as for any unfermented batter, refrigerate if not used within 4 hours.
+var: Meal prep: grind the night before.
+
+=B14|breakfast|V|Good source
+title: Rava Uppittu with Peas, Peanuts and Paneer
+blurb: Karnataka's uppittu, with green peas and cubes of paneer folded in, becomes a filling breakfast with three times the protein of a plain upma.
+region: Karnataka
+status: Adaptation — traditional uppittu with paneer and extra peas
+label: Strictly vegetarian, egg-free
+time: Prep 10 min · Cook 15 min · Total 25 min
+serves: 2 (about 280 g each)
+diff: Easy
+good: Weekday breakfast, tiffin
+tags: Good source · Quick · No added sugar · Soy-free · Whey-free
+allergens: Gluten (wheat), milk, peanuts
+nut: *Per serving|390|18|44|15|5|10|8||4.5
+tier: Good source · 4.5 g per 100 kcal. A typical plain upma of the same weight gives about 6 g protein. Values checked against IFCT 2017 on 14 Oct 2026.
+ing: 80 g Bombay rava (sooji) · 80 g full-fat paneer, in 1 cm cubes · 60 g green peas · 15 g peanuts
+ing: 50 g onion, 40 g carrot, 40 g beans, all finely chopped
+ing: 10 g groundnut oil (2 tsp) — ghee is traditional · ½ tsp mustard seeds · 5 g urad dal · 5 g chana dal · 10 curry leaves · 2 green chillies · 1 tsp grated ginger
+ing: 400 ml water · 3 g salt · 1 tbsp lemon juice · 2 tbsp coriander
+step: Dry-roast rava in a kadhai on medium-low for 5–6 minutes, stirring, until fragrant and very lightly coloured. Set aside.
+step: Heat oil. Add mustard seeds; when they pop, add urad dal, chana dal and peanuts. Fry 1–2 minutes until golden.
+step: Add curry leaves, chillies, ginger and onion. Cook 3 minutes until soft.
+step: Add carrot, beans and peas; cook 2 minutes.
+step: Add water and salt; bring to a rolling boil.
+step: Lower the heat. Pour in the rava in a thin stream, stirring constantly to prevent lumps.
+step: Fold in the paneer. Cover and cook on low for 2–3 minutes until the rava is fluffy and the water absorbed.
+step: Finish with lemon juice and coriander.
+prot: Paneer supplies 7 g per serving, rava 4.5 g, peas 2 g, peanuts and dals 3 g.
+prot: Boost: increase paneer to 120 g (+3.5 g protein, +50 kcal, +4 g fat per serving), or serve with 100 g curd (+3.5 g protein, +60 kcal).
+var: Regional: Tamil Nadu rava kichadi — add tomato and ½ tsp sambar powder and finish with 5 g ghee.
+var: Substitution: broken wheat (dalia) or vermicelli in place of rava; adjust water to package directions.
+var: Storage: 1 day refrigerated; reheat with a sprinkle of water, covered.
+var: Food safety: do not leave cooked uppittu with paneer at room temperature for more than 2 hours.
+var: Meal prep: roast rava in bulk; it keeps 1 month in an airtight jar.
+
+=B15|breakfast|V|Good source
+title: Thalipeeth with Curd
+blurb: Maharashtra's crisp multigrain flatbread, patted out by hand from bhajani — a roasted flour of millets, grains and dals — and eaten with curd and a pat of white butter.
+region: Maharashtra
+status: Traditional
+label: Strictly vegetarian, egg-free
+time: Prep 15 min · Cook 20 min · Total 35 min (bhajani made ahead)
+serves: 2 (2 thalipeeth plus 100 g curd each)
+diff: Moderate (hand-patting)
+good: Weekend breakfast, tiffin
+tags: Good source · High fibre · No added sugar · Soy-free · Whey-free
+allergens: Gluten (wheat in bhajani), milk, sesame
+nut: *Per serving|350|13|46|12|3|9|8||3.5
+tier: Good source · 3.5 g per 100 kcal. Bhajani is calculated from the blend below; shop-bought bhajani varies. Values checked against IFCT 2017 on 14 Oct 2026.
+ing: 120 g bhajani flour. Homemade blend (for about 500 g, use 120 g per batch): 150 g jowar, 100 g bajra, 75 g rice, 50 g wheat, 75 g chana dal, 50 g urad dal, 2 tbsp coriander seeds, 1 tbsp cumin — each dry-roasted separately until fragrant, cooled and ground fine
+ing: 80 g onion, finely chopped · 15 g coriander · 1 green chilli · 5 g sesame seeds · ¼ tsp ajwain · ¼ tsp turmeric · ½ tsp red chilli powder · 3 g salt · about 80 ml water
+ing: 12 g groundnut oil (2½ tsp)
+ing: Serving: 200 g curd (100 g per person); white butter is traditional but optional (not counted)
+step: Mix bhajani with onion, coriander, chilli, sesame, spices and salt. Add water gradually to a soft, non-sticky dough. Rest 5 minutes.
+step: Divide into 4 balls.
+step: Place a wet cotton cloth or greased plastic sheet on the counter. Pat a ball with wet fingers into a 13–14 cm round, about 4 mm thick.
+step: Poke 4–5 holes in it with a finger.
+step: Transfer carefully to a cold, lightly greased tawa (or pat directly on the cold tawa, the traditional way). Pour ½ tsp oil into the holes and around the edge.
+step: Cover and cook on medium for 3–4 minutes until the base is crisp and brown.
+step: Flip and cook uncovered 2 minutes more. Serve hot with curd.
+prot: Bhajani supplies about 8 g per serving, curd 3.5 g. The dal-grain mix provides complementary amino acids.
+prot: Boost: add 40 g besan to the dough (+4 g protein, +75 kcal per serving), and serve with 150 g curd each (+2 g protein, +30 kcal).
+var: Regional: Konkan style — add 2 tbsp grated cucumber and finely chopped green garlic in season.
+var: Substitution: if bhajani is unavailable, mix 40 g jowar flour, 30 g besan, 30 g whole-wheat atta and 20 g rice flour, lightly dry-roasted.
+var: Storage: bhajani keeps 2 months airtight. Cooked thalipeeth are best fresh; 1 day refrigerated.
+var: Food safety: store bhajani dry; discard if it smells rancid.
+var: Meal prep: make bhajani in bulk.
+
+=B16|breakfast|V|Good source
+title: Dalia-Moong Khichdi
+blurb: A gentle one-pot breakfast from Uttar Pradesh homes: broken wheat and moong dal cooked soft with vegetables and finished with a cumin-ghee tadka.
+region: Uttar Pradesh
+status: Adaptation — dalia khichdi with a 1:1 ratio of dal to grain
+label: Strictly vegetarian, egg-free
+time: Prep 10 min · Cook 20 min (pressure cooker) · Total 30 min
+serves: 2 (about 350 g khichdi plus 100 g curd each)
+diff: Easy
+good: Breakfast, light dinner, recovery days
+tags: High protein (at the threshold, with curd) · High fibre · No added sugar · Soy-free · Whey-free · Meal-prep friendly
+allergens: Gluten (wheat), milk
+nut: *Per serving (with curd)|335|16|46|8|5|9|6||5.0
+tier: Good source · 5.0 g per 100 kcal. Without curd: 275 kcal, 13 g protein. Values checked against IFCT 2017 on 14 Oct 2026.
+ing: 60 g dalia (broken wheat, medium) · 60 g yellow moong dal
+ing: 150 g vegetables: 50 g green peas, 40 g carrot, 30 g beans, 30 g tomato
+ing: 8 g ghee (1½ tsp) · 1 tsp cumin seeds · pinch of hing · 1 tsp grated ginger · 1 green chilli · ¼ tsp turmeric · 4 g salt
+ing: 700 ml water · 2 tbsp coriander
+ing: Serving: 200 g curd (100 g per person)
+step: Rinse dalia and moong dal together; soak 15 minutes (optional; it speeds cooking).
+step: Heat ghee in a pressure cooker on medium. Add cumin, hing, ginger and chilli for 30 seconds.
+step: Add vegetables and turmeric; cook 2 minutes.
+step: Add drained dalia and dal, water and salt. Stir.
+step: Pressure-cook on medium for 3 whistles (about 12 minutes). Let pressure release naturally.
+step: Stir well. It should be soft and porridge-like; add hot water to loosen if needed.
+step: Garnish with coriander and serve with curd.
+prot: Moong dal gives 7 g per serving, dalia 3.5 g, curd 3.5 g, peas 2 g.
+prot: Boost: replace curd with 100 g hung curd per serving (+2.5 g protein, +35 kcal), or stir in 50 g crumbled paneer per serving at the end (+9 g protein, +130 kcal, +10 g fat).
+var: Regional: Gujarati-style — make it with a thin kadhi poured over (see D20 for kadhi).
+var: Substitution: foxtail or little millet in place of dalia for a gluten-free version (soak 30 minutes).
+var: Storage: 2 days refrigerated; it thickens, so reheat with water.
+var: Food safety: cool cooked khichdi within 1 hour and refrigerate; reheat until steaming throughout.
+var: Meal prep: good.
+
+=B17|breakfast|V|Good source
+title: Puttu with Kadala Curry
+blurb: Kerala's steamed rice-and-coconut cylinders, paired with black chickpeas simmered in roasted-coconut gravy — the state's best-loved breakfast combination.
+region: Kerala
+status: Traditional
+label: Strictly vegetarian, egg-free
+time: Soak 8 h · Prep 20 min · Cook 40 min
+serves: 2 (1 puttu plus about 200 g kadala curry each)
+diff: Moderate
+good: Weekend breakfast, brunch
+tags: Good source · High fibre · Dairy-free · Soy-free · Whey-free · Gluten-free* · No added sugar
+allergens: None of the major allergens (contains coconut)
+nut: *Per serving|495|15|65|18|12|18|5||3.0
+tier: Good source · 3.0 g per 100 kcal. Coconut and coconut oil supply most of the saturated fat; see the lighter version below. Values checked against IFCT 2017 on 14 Oct 2026.
+ing: Puttu: 100 g puttu podi (roasted rice flour) · 30 g fresh grated coconut · 2 g salt · about 70 ml water
+ing: Kadala curry: 100 g kala chana, dry · 80 g onion, sliced · 60 g tomato · 1 tsp ginger-garlic paste · 1 green chilli · 10 curry leaves
+ing: Roasted coconut paste: 20 g grated coconut · 1 tsp coriander powder · ½ tsp red chilli powder · ½ tsp garam masala, roasted together until brown and ground with 50 ml water
+ing: 10 g coconut oil (2 tsp) · ½ tsp mustard seeds · ¼ tsp turmeric · 3 g salt
+step: Soak kala chana 8 hours. Pressure-cook with 400 ml water and a pinch of salt for 6–7 whistles, until soft enough to crush between fingers.
+step: For the puttu, sprinkle water over the salted flour a little at a time, rubbing with fingertips, until it feels like damp sand and holds shape when squeezed but crumbles easily. Rest 10 minutes.
+step: Layer the puttu maker: 1 tbsp coconut, then flour, then coconut, ending with coconut. Steam 6–8 minutes, until steam flows steadily from the top.
+step: Heat coconut oil. Add mustard seeds and curry leaves; then onion, and cook 5 minutes until light brown.
+step: Add ginger-garlic paste, chilli, tomato and turmeric. Cook 3 minutes until soft.
+step: Add the chana with its cooking liquid and the roasted coconut paste. Simmer 10 minutes until the gravy thickens and coats the chana.
+step: Push the puttu out of the mould and serve with hot kadala curry.
+prot: Kala chana supplies 9.5 g per serving, puttu podi 3 g, coconut 1 g.
+prot: Boost: increase kala chana to 140 g dry (+4 g protein, +70 kcal per serving). A banana and a glass of milk or a cup of chai with milk is a common side.
+prot: Lighter version: use 15 g coconut in the puttu and 5 g coconut oil in the curry — saves about 50 kcal and 4.5 g saturated fat per serving.
+var: Regional: Malabar style — make the puttu with wheat or ragi puttu podi (ragi adds calcium; wheat adds gluten).
+var: Substitution: without a puttu maker, steam the mixture in a steel tumbler covered with cloth, or serve the curry with 2 appams.
+var: Storage: kadala curry keeps 3 days refrigerated; puttu is best fresh.
+var: Food safety: pressure-cook chana thoroughly; reheat curry until boiling.
+var: Meal prep: cook chana and curry in advance; steam puttu fresh.
+
+=B18|breakfast|E|High protein
+title: Anda Paratha
+blurb: Delhi's street-side egg paratha: a whole-wheat paratha with beaten egg cooked onto one face, crisp outside and soft within.
+region: Delhi
+status: Traditional
+label: Contains eggs
+time: Prep 15 min · Cook 15 min · Total 30 min
+serves: 2 (1 large paratha each)
+diff: Moderate
+good: Weekend breakfast, tiffin
+tags: High protein · No added sugar · Dairy-free · Soy-free · Whey-free
+allergens: Eggs, gluten (wheat)
+nut: *Per serving|350|19|34|15|4|6|2||5.5
+tier: High protein · 5.5 g per 100 kcal. Values checked against IFCT 2017 on 14 Oct 2026.
+ing: Dough: 100 g whole-wheat atta · about 65 ml water · pinch of salt
+ing: 4 large eggs (200 g shelled) · 40 g onion, finely chopped · 1 green chilli · 2 tbsp coriander · ¼ tsp red chilli powder · pinch of black pepper · 2 g salt
+ing: 10 g groundnut oil (2 tsp)
+step: Knead atta, salt and water into a soft dough. Rest 15 minutes. Divide into 2 balls.
+step: Beat the eggs with onion, chilli, coriander, spices and salt.
+step: Roll each ball to a 20 cm circle. Cook on a hot tawa on medium-high, 30 seconds per side, until it just firms up.
+step: Brush the top with ½ tsp oil. Pour half the egg mixture onto the tawa beside the paratha and spread to its size.
+step: Immediately lay the paratha, oiled side down, on the egg and press gently so they bond.
+step: Cook 2 minutes on medium until the egg sets. Flip so the egg side faces up; brush with ½ tsp oil and cook 1–2 minutes until the base is golden.
+step: Flip once more for 30 seconds to crisp the egg. Cut into quarters and serve with green chutney and onion rings.
+prot: Eggs supply 12.5 g per serving, wheat 5.5 g.
+prot: Boost: add 1 egg white per paratha to the egg mixture (+3.5 g protein, +17 kcal per serving), or serve with 100 g curd (+3.5 g protein, +60 kcal).
+var: Regional: Old Delhi pocket method — roll a layered paratha, cook briefly until it puffs, slit one edge, pour the egg inside and seal on the tawa. Harder, but fun once mastered.
+var: Substitution: half multigrain atta for a nuttier flavour.
+var: Storage: best fresh; can be packed for a tiffin within 4 hours.
+var: Food safety: cook until the egg layer is fully set and no liquid remains.
+var: Meal prep: make the dough the night before; refrigerate.
+
+=B19|breakfast|V|Good source
+title: Chakuli Pitha with Ghuguni
+blurb: Odisha's thin, lacy urad-rice crepe served with ghuguni, a spiced curry of dried yellow peas — a pairing enjoyed at home and at festival breakfasts.
+region: Odisha
+status: Traditional
+label: Strictly vegetarian, egg-free
+time: Soak 6 h · Ferment 8–10 h · Prep 20 min · Cook 40 min
+serves: 3 (2 chakuli plus about 150 g ghuguni each)
+diff: Moderate
+good: Weekend or festival breakfast
+tags: Good source · High fibre · Dairy-free · Soy-free · Whey-free · Gluten-free* · No added sugar · Meal-prep friendly
+allergens: None of the major allergens (mustard oil; check hing)
+nut: *Per serving|370|15|57|8|1|11|3||4.0
+tier: Good source · 4.0 g per 100 kcal. Values checked against IFCT 2017 on 14 Oct 2026.
+ing: Chakuli: 100 g raw rice · 50 g whole white urad dal · 3 g salt · 9 g groundnut oil (about 2 tsp) for cooking
+ing: Ghuguni: 120 g dried yellow or white peas · 80 g onion, chopped · 60 g tomato · 1 tsp ginger-garlic paste · 1 tsp cumin seeds · 1 bay leaf · ½ tsp turmeric · 1 tsp cumin-coriander powder · ½ tsp garam masala · 3 g salt · 10 g mustard oil (2 tsp)
+ing: Garnish: chopped onion, coriander, lemon
+step: Soak rice and urad dal together, and the dried peas separately, for 6 hours.
+step: Grind rice and urad with 200 ml water to a smooth, thin batter. Add salt and ferment 8–10 hours until bubbly.
+step: Pressure-cook the peas with 400 ml water for 4–5 whistles until soft but holding shape.
+step: Heat mustard oil until it just smokes, then lower the heat. Add cumin and bay leaf, then onion; cook 5 minutes until golden.
+step: Add ginger-garlic paste, tomato and powdered spices. Cook 3–4 minutes until the oil separates.
+step: Add peas with their liquid; simmer 8–10 minutes, mashing a few peas to thicken. Finish with garam masala.
+step: Heat a tawa on medium-high and grease lightly. Pour 1 ladle of batter from the edge inward to make a thin, lacy crepe. Drizzle ¼ tsp oil, cover and cook 2 minutes. Do not flip.
+step: Serve 2 chakuli with ghuguni, garnished.
+prot: Dried peas supply 8.5 g per serving, urad 4 g, rice 2.5 g.
+prot: Boost: increase peas to 160 g dry (+3 g protein, +45 kcal per serving), or serve with 100 g curd (+3.5 g protein, +60 kcal).
+var: Regional: Kolkata ghugni — top with chopped green chilli, tamarind water and a pinch of roasted cumin.
+var: Substitution: kabuli chana in place of dried peas.
+var: Storage: batter keeps 3 days refrigerated; ghuguni keeps 3 days refrigerated and freezes well.
+var: Food safety: reheat ghuguni until bubbling.
+var: Meal prep: excellent.
+
+=B20|breakfast|V|Good source
+title: Foxtail Millet and Moong Pongal
+blurb: Tamil Nadu's comforting ven pongal, made with foxtail millet instead of rice and an equal weight of moong dal, seasoned with black pepper, cumin and ghee.
+region: Tamil Nadu
+status: Adaptation — ven pongal with foxtail millet in place of rice
+label: Strictly vegetarian, egg-free
+time: Prep 5 min · Cook 25 min · Total 30 min
+serves: 2 (about 300 g each)
+diff: Easy
+good: Breakfast, light dinner
+tags: Good source · Quick · Soy-free · Whey-free · Gluten-free* · No added sugar · Meal-prep friendly
+allergens: Milk (ghee), tree nuts (cashew)
+nut: *Per serving|305|14|41|9|4|6|1||4.5
+tier: Good source · 4.5 g per 100 kcal. IFCT 2017 has no foxtail-millet entry; values from NIN's earlier Nutritive Value of Indian Foods. With 150 g curd: 395 kcal, 19 g protein. Values checked against IFCT 2017 on 14 Oct 2026.
+ing: 70 g foxtail millet · 70 g yellow moong dal
+ing: 600 ml water · 3 g salt
+ing: 10 g ghee (2 tsp) · 1 tsp black peppercorns, lightly crushed · 1 tsp cumin seeds · 1 tsp grated ginger · 10 curry leaves · pinch of hing · 10 g cashews
+ing: Serving: coconut chutney or 150 g curd per person
+step: Dry-roast moong dal on medium-low for 3–4 minutes until it smells nutty and turns a shade darker.
+step: Rinse the dal and millet together. Soak 15 minutes (optional; it gives a softer pongal).
+step: Pressure-cook with 600 ml water and salt for 4 whistles. Let pressure release naturally.
+step: Mash lightly with a ladle until creamy. Add up to 100 ml hot water if it is too thick — pongal should be soft and spoonable.
+step: Heat ghee in a small pan. Fry cashews until golden; add pepper, cumin, ginger, curry leaves and hing for 30 seconds.
+step: Pour the tempering over the pongal and stir. Serve hot.
+prot: Moong dal supplies 8.5 g per serving, foxtail millet 4 g, cashews 1 g.
+prot: Boost: serve with 150 g curd as above, or with sambar made with 30 g toor dal per serving (+6.5 g protein, +110 kcal).
+var: Regional: temple-style — add 5 g more ghee and a pinch of crushed pepper on top (adds 45 kcal and 3 g saturated fat).
+var: Substitution: little millet (samai) or rice in place of foxtail millet.
+var: Storage: 2 days refrigerated; reheat with hot water.
+var: Food safety: cool within 1 hour and refrigerate; reheat until steaming.
+var: Meal prep: good.
