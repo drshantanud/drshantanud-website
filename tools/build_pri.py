@@ -6,9 +6,9 @@ Writes recipes/protein-rich-india/ (listing + one page per recipe) and updates s
 import glob, html, json, os, re
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-OUT = os.path.join(ROOT, 'recipes', 'protein-rich-india')
+OUT = os.path.join(ROOT, 'recipes')
 BASE = 'https://drshantanudeshpande.com'
-SECTION = '/recipes/protein-rich-india/'
+SECTION = '/recipes/'
 LASTMOD = '2026-10-20'
 
 MEALS = [
@@ -37,6 +37,37 @@ DISC = ('Nutrition values are estimates calculated from the Indian Food Composit
 NUTCOLS = [('kcal', 'kcal', ''), ('Protein', 'Protein', ' g'), ('Carbs', 'Carbs', ' g'), ('Fat', 'Fat', ' g'),
            ('Sat fat', 'Sat fat', ' g'), ('Fibre', 'Fibre', ' g'), ('Total sugars', 'Total sugars', ' g'),
            ('Added sugar', 'Added sugar', ' g'), ('Protein per 100 kcal', 'Protein per 100 kcal', ' g')]
+
+
+REGIONS = [('west', 'Western India', ['maharashtra', 'gujarat', 'goa', 'rajasthan']),
+           ('north', 'Northern India', ['punjab', 'delhi', 'uttar pradesh', 'jammu', 'kashmir']),
+           ('south', 'Southern India', ['tamil nadu', 'kerala', 'karnataka', 'andhra', 'telangana']),
+           ('east', 'Eastern India', ['west bengal', 'odisha', 'bihar', 'jharkhand']),
+           ('central', 'Central India', ['madhya pradesh', 'chhattisgarh']),
+           ('ne', 'North-East and Himalayan', ['assam', 'sikkim', 'manipur', 'himalayan']),
+           ('modern', 'Modern / pan-Indian', ['modern', 'pan-indian'])]
+SOURCES = [('paneer', 'Paneer / chhena', ['paneer', 'chhena']), ('soy', 'Soy / tofu', ['tofu', 'soy ']),
+           ('egg', 'Eggs', [' egg', 'eggs']),
+           ('pulse', 'Dals and pulses', ['dal', 'moong', 'chana', 'rajma', 'matki', 'peas', 'urad', 'toor', 'masoor', 'besan', 'sattu', 'sprout', 'mangodi', 'chole', 'vatana', 'cherupayar', 'lentil']),
+           ('dairy', 'Curd / milk', ['curd', 'milk', 'yogurt', 'chaas'])]
+
+
+def region_of(r):
+    t = r['region'].lower()
+    best = None
+    for k, _, words in REGIONS:
+        for w in words:
+            i = t.find(w)
+            if i > -1 and (best is None or i < best[0]):
+                best = (i, k)
+    if not best:
+        raise ValueError(r['region'])
+    return best[1]
+
+
+def sources_of(r):
+    t = ' ' + ' '.join(r['ing']).lower() + ' '
+    return [k for k, _, words in SOURCES if any(w in t for w in words)]
 
 
 def esc(s):
@@ -145,11 +176,12 @@ def card(r):
     h = head_row(r)
     k, p = h['v'][0], h['v'][1]
     tierc = 'pri-hi' if r['tierl'].startswith('High') else 'pri-gs'
-    return ('<li class="pri-card" data-diet="%s" data-hi="%d" data-s="%s"><a class="pri-ca" href="%s%s/">'
+    return ('<li class="pri-card" data-i="%d" data-p="%s" data-k="%s" data-reg="%s" data-src="%s" data-diet="%s" data-hi="%d" data-s="%s"><a class="pri-ca" href="%s%s/">'
             '<span class="pri-id">%s</span><h3>%s</h3>'
             '<span class="pri-nn"><b>%s kcal</b> · <b>%s g protein</b> <small>%s</small></span>'
             '<span class="rf-chips"><span class="rf-chip %s">%s</span><span class="rf-chip">%s</span></span>'
             '<span class="pri-rg">%s</span></a></li>') % (
+        r['n'], esc(p), esc(k), region_of(r), ' '.join(sources_of(r)),
         r['diet'], 1 if r['tierl'].startswith('High') else 0, esc((r['title'] + ' ' + r['region'] + ' ' + r['tags']).lower()),
         SECTION, r['slug'], r['id'], esc(r['title']), esc(k), esc(p), unit(r['meal']), tierc, esc(r['tierl']),
         dietname(r['diet']), esc(r['region'].split(' (')[0]))
@@ -179,8 +211,7 @@ def recipe_page(r, prev, nxt):
     bc = {'@context': 'https://schema.org', '@type': 'BreadcrumbList', 'itemListElement': [
         {'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': BASE + '/'},
         {'@type': 'ListItem', 'position': 2, 'name': 'Protein Recipes', 'item': BASE + '/recipes/'},
-        {'@type': 'ListItem', 'position': 3, 'name': 'Protein-Rich India', 'item': BASE + SECTION},
-        {'@type': 'ListItem', 'position': 4, 'name': r['title'], 'item': url}]}
+        {'@type': 'ListItem', 'position': 3, 'name': r['title'], 'item': url}]}
     info = [('Region', r['region']), ('Status', r['status']), ('Diet label', r['label']), ('Time', r['time']),
             ('Serves', r['serves']), ('Difficulty', r['diff']), ('Good for', r['good']), ('Tags', r['tags']), ('Allergens', r['allergens'])]
     cols = [i for i in range(9) if any(x['v'][i] for x in r['rows'])]
@@ -199,7 +230,7 @@ def recipe_page(r, prev, nxt):
         nav += '<li><a href="%s%s/">%s</a> →</li>' % (SECTION, nxt['slug'], esc(nxt['title']))
     nav += '</ul>'
     main = ('<section class="diet-tool rf"><div class="w"><article class="rf-det" id="rf-print">'
-            '<p class="rf-back rf-np"><a href="%s#%s">← All %s</a> · <a href="%s">Protein-Rich India</a></p>'
+            '<p class="rf-back rf-np"><a href="%s#%s">← All %s</a> · <a href="%s">Recipe finder</a></p>'
             '<h1 class="h2">%s</h1><div class="rf-chips"><span class="rf-chip">%s</span><span class="rf-chip">%s</span><span class="rf-chip %s">%s</span><span class="rf-chip">%s</span></div>'
             '<p class="pri-bl">%s</p>'
             '<div class="rf-acts rf-np"><button type="button" class="btn o s" id="rf-printbtn">Print / Save as PDF</button></div>'
@@ -212,7 +243,7 @@ def recipe_page(r, prev, nxt):
             '<h2 class="rf-h3">Protein optimisation</h2><ul>%s</ul>'
             '<h2 class="rf-h3">Variations, serving and storage</h2><ul>%s</ul>'
             '<p class="rf-disc">%s From the collection <i>Protein-Rich India</i> by Dr. Shantanu Deshpande · drshantanudeshpande.com</p>'
-            '</article>%s<p class="rf-np"><a class="btn s" href="%s">Browse all 100 recipes</a></p></div></section>') % (
+            '</article>%s<p class="rf-np"><a class="btn s" href="%s">Browse and filter all 100 recipes</a></p></div></section>') % (
         SECTION, r['meal'], esc(next(x[2] for x in MEALS if x[0] == r['meal'])), SECTION,
         esc(r['title']), esc(mealn), dietname(r['diet']), tierc, esc(r['tierl']), esc(r['id']),
         esc(r['blurb']),
@@ -236,23 +267,29 @@ def listing(recipes):
         tabs += '<a class="pri-tab" href="#%s" data-t="%s">%s <small>%d</small></a>' % (key, key, many, len(rs))
         secs += ('<section class="pri-sec" id="%s" data-t="%s"><h2 class="rf-h2">%s <small>(%d)</small></h2><p class="pri-in">%s</p><ul class="pri-grid">%s</ul></section>') % (
             key, key, many, len(rs), esc(INTRO[key]), ''.join(card(r) for r in rs))
-    main = ('<section class="diet-tool rf"><div class="w"><h1 class="h2">Protein-Rich India: %d Recipes</h1>'
-            '<p class="diet-intro">Vegetarian and egg recipes from every region of India, written by interventional cardiologist Dr. Shantanu Deshpande. Every recipe gives exact quantities and estimated calories, protein, carbohydrate, fat and fibre. Pick a meal type below.</p>'
+    main = ('<section class="diet-tool rf"><div class="w"><h1 class="h2">Healthy Protein Recipe Finder: %d Recipes</h1>'
+            '<p class="diet-intro">Vegetarian and egg recipes from every region of India, written by interventional cardiologist Dr. Shantanu Deshpande. Every recipe gives exact quantities and estimated calories, protein, carbohydrate, fat and fibre. Pick a meal type, then narrow by protein source, region, protein or calories.</p>'
             '<nav class="pri-tabs" aria-label="Recipe categories">%s</nav>'
             '<div class="pri-tools rf-np"><label class="pri-s"><span>Search recipes</span><input type="search" id="pri-q" placeholder="e.g. paneer, moong, Kerala" autocomplete="off"></label>'
-            '<fieldset class="pri-f"><legend>Show</legend><label><input type="radio" name="pri-d" value="all" checked> All</label><label><input type="radio" name="pri-d" value="V"> Vegetarian only</label><label><input type="radio" name="pri-d" value="E"> With egg</label><label><input type="checkbox" id="pri-h"> High protein only</label></fieldset></div>'
+            '<fieldset class="pri-f"><legend>Diet</legend><label><input type="radio" name="pri-d" value="all" checked> All</label><label><input type="radio" name="pri-d" value="V"> Vegetarian only</label><label><input type="radio" name="pri-d" value="E"> With egg</label></fieldset></div>'
+            '<div class="pri-tools rf-np"><fieldset class="pri-f"><legend>Contains</legend>%s</fieldset></div>'
+            '<div class="pri-tools rf-np"><label class="pri-s pri-sm"><span>Region</span><select id="pri-r"><option value="">All regions</option>%s</select></label>'
+            '<label class="pri-s pri-sm"><span>Protein per serving or plate</span><select id="pri-mp"><option value="0">Any</option><option value="10">10 g or more</option><option value="15">15 g or more</option><option value="20">20 g or more</option><option value="25">25 g or more</option></select></label>'
+            '<label class="pri-s pri-sm"><span>Calories per serving or plate</span><select id="pri-mk"><option value="0">Any</option><option value="250">250 kcal or fewer</option><option value="350">350 kcal or fewer</option><option value="450">450 kcal or fewer</option><option value="550">550 kcal or fewer</option></select></label>'
+            '<label class="pri-s pri-sm"><span>Sort by</span><select id="pri-o"><option value="">Recipe order</option><option value="p">Protein, highest first</option><option value="k">Calories, lowest first</option></select></label>'
+            '<label class="pri-h"><input type="checkbox" id="pri-h"> High protein only</label></div>'
             '<p class="rf-hint" id="pri-n" aria-live="polite"></p>%s'
             '<p class="rf-hint">%s</p><p class="rf-disc">%s</p>'
-            '<p><a class="btn o s" href="/recipes/">← Healthy Protein Recipe Finder (search by ingredient)</a></p></div></section>') % (
-        total, tabs, secs, esc(TIER_HELP), esc(DISC))
-    ld = [{'@context': 'https://schema.org', '@type': 'CollectionPage', 'name': 'Protein-Rich India: 100 Recipes', 'url': BASE + SECTION,
+            '</div></section>') % (
+        total, tabs, ''.join('<label><input type="checkbox" name="pri-src" value="%s"> %s</label>' % (k, n) for k, n, _ in SOURCES),
+        ''.join('<option value="%s">%s</option>' % (k, n) for k, n, _ in REGIONS), secs, esc(TIER_HELP), esc(DISC))
+    ld = [{'@context': 'https://schema.org', '@type': 'CollectionPage', 'name': 'Healthy Protein Recipe Finder: 100 Recipes', 'url': BASE + SECTION,
            'description': 'One hundred vegetarian and egg recipes from every region of India with estimated nutrition, by Dr. Shantanu Deshpande.',
            'hasPart': [{'@type': 'Recipe', 'name': r['title'], 'url': BASE + SECTION + r['slug'] + '/'} for r in recipes]},
           {'@context': 'https://schema.org', '@type': 'BreadcrumbList', 'itemListElement': [
               {'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': BASE + '/'},
-              {'@type': 'ListItem', 'position': 2, 'name': 'Protein Recipes', 'item': BASE + '/recipes/'},
-              {'@type': 'ListItem', 'position': 3, 'name': 'Protein-Rich India', 'item': BASE + SECTION}]}]
-    return page('Protein-Rich India: 100 High-Protein Indian Recipes | Dr. Shantanu Deshpande',
+              {'@type': 'ListItem', 'position': 2, 'name': 'Protein Recipes', 'item': BASE + SECTION}]}]
+    return page('Healthy Protein Recipe Finder: 100 Indian Recipes | Dr. Shantanu Deshpande',
                 'Browse 100 vegetarian and egg high-protein Indian recipes by breakfast, lunch, snacks, dinner, drinks and desserts, with estimated nutrition for every recipe.',
                 SECTION, ld, main, extra_js='<script src="/assets/pri.js?v=1" defer></script>')
 
@@ -263,12 +300,14 @@ def main():
     recipes = parse()
     seen = set()
     for r in recipes:
+        r['n'] = len(seen)
         r['slug'] = slugify(r['title'])
         assert r['slug'] not in seen, r['slug']
         seen.add(r['slug'])
         r['rows'] = nutrows(r)
     assert len(recipes) == 100, len(recipes)
     os.makedirs(OUT, exist_ok=True)
+    assert not (seen & {'index', 'protein-rich-india'})
     open(os.path.join(OUT, 'index.html'), 'w', encoding='utf-8', newline='\n').write(listing(recipes))
     for key, _, _ in MEALS:
         rs = [r for r in recipes if r['meal'] == key]

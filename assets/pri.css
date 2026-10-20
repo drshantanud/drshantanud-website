@@ -31,3 +31,5 @@
 @media(max-width:64rem){.pri-grid{grid-template-columns:repeat(2,1fr)}}
 @media(max-width:44rem){.pri-grid{grid-template-columns:1fr}.pri-info{grid-template-columns:1fr}.pri-tabs{top:3.6rem;flex-wrap:nowrap;overflow-x:auto;-webkit-overflow-scrolling:touch}.pri-tab{flex:none}}
 @media print{.pri-tabs,.pri-tools,.pri-pn{display:none!important}.pri-info{grid-template-columns:1fr 1fr;padding:4px}}
+.pri-sm{flex:1 1 11rem}.pri-sm select{min-height:2.75rem;padding:.4rem .6rem;border:1px solid var(--line);border-radius:.25rem;background:#fff;font:400 .95rem var(--sans);width:100%}
+.pri-h{display:inline-flex;align-items:center;gap:.4rem;min-height:2.75rem;font-size:.92rem}
