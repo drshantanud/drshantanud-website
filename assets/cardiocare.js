@@ -1,16 +1,16 @@
 (function(){
 var D=window.CC_DATA;if(!D||/[?&]cardiocare=off\b/.test(location.search))return;
-var EMERG='112',TEL='tel:+918850974864',WA='https://wa.me/918850974864',BOOK='https://widget.eka.care?data=YmlkPTcxNzY0MTQ3NjE0NzUwOTg=';
+var TEL='tel:+918850974864',WA='https://wa.me/918850974864',BOOK='https://widget.eka.care?data=YmlkPTcxNzY0MTQ3NjE0NzUwOTg=';
 var T={
 en:{fab:'Heart FAQ',title:'Heart health FAQ',sub:'General information from Dr. Shantanu Deshpande’s clinic',
-welcome:'Hello! I’m the clinic’s FAQ assistant. I share general heart-health information from a fixed set of answers. I cannot diagnose, interpret your reports or advise on medicines. In an emergency, call '+EMERG+'.',
+welcome:'Hello! I’m the clinic’s FAQ assistant. I share general heart-health information from a fixed set of answers. I cannot diagnose, interpret your reports or advise on medicines. In an emergency, go to the nearest heart hospital or contact your local emergency hospital number.',
 ph:'Type your question…',send:'Send',topics:'Choose a topic',allTopics:'All topics',back:'Back to topics',related:'Related questions',closest:'Closest topics',
-book:'Book appointment',call:'Call clinic',wa:'WhatsApp',callNow:'Call '+EMERG+' now',means:'What it means',todo:'What you can do',help:'When to seek help',
+book:'Book appointment',call:'Call clinic',wa:'WhatsApp',means:'What it means',todo:'What you can do',help:'When to seek help',
 close:'Close',open:'Open heart health FAQ',foot:'General education only, not medical advice. Your questions are not stored or sent anywhere.',log:'Conversation',langs:'Language'},
 mr:{fab:'हृदय प्रश्नोत्तरे',title:'हृदयआरोग्य प्रश्नोत्तरे',sub:'डॉ. शंतनू देशपांडे यांच्या क्लिनिककडून सर्वसाधारण माहिती',
-welcome:'नमस्कार! मी क्लिनिकचा प्रश्नोत्तर सहाय्यक आहे. मी ठरविलेल्या उत्तरांतून हृदयआरोग्याची सर्वसाधारण माहिती देतो. मी निदान करू शकत नाही, तुमच्या अहवालांचा अर्थ लावू शकत नाही किंवा औषधांबाबत सल्ला देऊ शकत नाही. आणीबाणीत ११२ वर फोन करा.',
+welcome:'नमस्कार! मी क्लिनिकचा प्रश्नोत्तर सहाय्यक आहे. मी ठरविलेल्या उत्तरांतून हृदयआरोग्याची सर्वसाधारण माहिती देतो. मी निदान करू शकत नाही, तुमच्या अहवालांचा अर्थ लावू शकत नाही किंवा औषधांबाबत सल्ला देऊ शकत नाही. आणीबाणीत जवळच्या हृदयरोग रुग्णालयात जा किंवा तुमच्या स्थानिक आपत्कालीन रुग्णालयाच्या क्रमांकावर संपर्क साधा.',
 ph:'तुमचा प्रश्न लिहा…',send:'पाठवा',topics:'विषय निवडा',allTopics:'सर्व विषय',back:'विषयांकडे परत',related:'संबंधित प्रश्न',closest:'जवळचे विषय',
-book:'भेटीची वेळ ठरवा',call:'क्लिनिकला फोन करा',wa:'व्हॉट्सअॅप',callNow:'११२ ला आत्ता फोन करा',means:'याचा अर्थ',todo:'तुम्ही काय करू शकता',help:'मदत केव्हा घ्यावी',
+book:'भेटीची वेळ ठरवा',call:'क्लिनिकला फोन करा',wa:'व्हॉट्सअॅप',means:'याचा अर्थ',todo:'तुम्ही काय करू शकता',help:'मदत केव्हा घ्यावी',
 close:'बंद करा',open:'हृदयआरोग्य प्रश्नोत्तरे उघडा',foot:'ही केवळ सर्वसाधारण शैक्षणिक माहिती आहे, वैद्यकीय सल्ला नाही. तुमचे प्रश्न साठवले किंवा कुठेही पाठवले जात नाहीत.',log:'संवाद',langs:'भाषा'}
 };
 var lang='en';
@@ -85,7 +85,6 @@ function scroll(){log.scrollTop=log.scrollHeight}
 function bubble(cls){var b=el('div','cc-msg '+cls);log.appendChild(b);return b}
 function user(text){bubble('cc-u').textContent=text}
 function contacts(parent,l,emergency){var t=T[l],r=el('div','cc-row');
-if(emergency)r.appendChild(link('cc-btn cc-red','tel:'+EMERG,t.callNow));
 r.appendChild(link('cc-btn',BOOK,t.book,1));r.appendChild(link('cc-btn cc-o',TEL,t.call));r.appendChild(link('cc-btn cc-o',WA,t.wa,1));parent.appendChild(r)}
 function chips(parent,items,l,onpick){var w=el('div','cc-chips');items.forEach(function(it){var b=el('button','cc-chip',it.t);b.type='button';b.addEventListener('click',function(){onpick(it)});w.appendChild(b)});parent.appendChild(w);return w}
 function topics(parent,l,cat){var t=T[l];parent.textContent='';
