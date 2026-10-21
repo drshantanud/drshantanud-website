@@ -510,3 +510,12 @@ html.nav-open,html.nav-open body{overflow:hidden}
 #drawer nav a:hover,#drawer nav a:focus-visible{background:var(--teal);color:#fff;border-color:var(--teal)}
 #drawer nav a[aria-current="page"]{background:var(--teal);color:#fff;border-color:var(--teal);font-weight:700}
 @media (max-width:23rem){#drawer nav a{font-size:.78rem}}
+
+/* Quick tile menu under the header */
+.tiles{display:block!important;position:static!important;top:auto!important;left:auto!important;right:auto!important;box-shadow:none!important;background:var(--bg);border-bottom:1px solid var(--line);padding:.7rem 0}
+.tiles ul{list-style:none;margin:0;padding:0;display:grid!important;font-size:inherit;grid-template-columns:repeat(5,1fr);gap:.4rem}
+.tiles a{display:flex;align-items:center;justify-content:center;text-align:center;aspect-ratio:1/1;padding:.2rem;border:1px solid var(--line);background:var(--soft);color:var(--ink);text-decoration:none;font:600 .68rem/1.15 var(--sans);overflow-wrap:normal;hyphens:none;word-break:normal}
+.tiles a:hover,.tiles a:focus-visible{background:var(--teal);color:#fff;border-color:var(--teal)}
+.tiles a[aria-current="page"]{background:var(--teal);color:#fff;border-color:var(--teal)}
+@media (min-width:40rem){.tiles ul{grid-template-columns:repeat(10,1fr);gap:.55rem}.tiles a{font-size:.85rem;padding:.4rem}.tiles li:nth-child(4) a{}}
+@media print{.tiles{display:none!important}}
