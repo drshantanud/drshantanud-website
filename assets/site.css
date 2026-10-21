@@ -456,7 +456,7 @@ html.nav-open #scrim{opacity:1;visibility:visible;transition:opacity .25s}
 html.nav-open,html.nav-open body{overflow:hidden}
 .sh .menu{display:none}
 @media (max-width:88rem){.sh nav,.hb{display:none!important}.sh .menu{display:block!important;min-height:2.75rem;min-width:4.5rem}.sh .logo{font-size:1.1rem}}
-@media (min-width:70.01rem){#drawer,#scrim{display:none}}
+@media (min-width:88.01rem){#drawer,#scrim{display:none}}
 .sgh{font:500 1.5rem var(--serif);margin:2rem 0 1rem;color:var(--teal)}.sg:first-of-type .sgh{margin-top:.5rem}
 .eg.sv,.eg.bk{grid-template-columns:repeat(3,1fr)}.eg.bk{grid-template-columns:repeat(2,1fr)}
 .ec p a{color:var(--teal)}
@@ -502,3 +502,11 @@ html.nav-open,html.nav-open body{overflow:hidden}
 @media print{.dp-gate{display:none!important}}
 
 .faq{background:#fff;border:1px solid var(--line);margin:.6rem 0;padding:0}.faq summary{cursor:pointer;padding:1rem 1.1rem;font-weight:600;min-height:2.75rem}.faq p{margin:0;padding:0 1.1rem 1rem;color:var(--muted)}
+
+/* Drawer menu as square tiles */
+#drawer{width:min(92vw,25rem)}
+#drawer nav{display:grid!important;grid-template-columns:repeat(3,1fr);gap:.55rem}
+#drawer nav a{display:flex;align-items:center;justify-content:center;text-align:center;aspect-ratio:1/1;padding:.4rem;border:1px solid var(--line);border-bottom:1px solid var(--line);background:var(--soft);font:600 .86rem/1.25rem var(--sans);color:var(--ink);overflow-wrap:anywhere;hyphens:auto;border-radius:0}
+#drawer nav a:hover,#drawer nav a:focus-visible{background:var(--teal);color:#fff;border-color:var(--teal)}
+#drawer nav a[aria-current="page"]{background:var(--teal);color:#fff;border-color:var(--teal);font-weight:700}
+@media (max-width:23rem){#drawer nav a{font-size:.78rem}}
