@@ -455,7 +455,7 @@ html.nav-open #drawer{transform:none;visibility:visible;transition:transform .28
 html.nav-open #scrim{opacity:1;visibility:visible;transition:opacity .25s}
 html.nav-open,html.nav-open body{overflow:hidden}
 .sh .menu{display:none}
-@media (max-width:78rem){.sh nav,.hb{display:none!important}.sh .menu{display:block!important;min-height:2.75rem;min-width:4.5rem}.sh .logo{font-size:1.1rem}}
+@media (max-width:88rem){.sh nav,.hb{display:none!important}.sh .menu{display:block!important;min-height:2.75rem;min-width:4.5rem}.sh .logo{font-size:1.1rem}}
 @media (min-width:70.01rem){#drawer,#scrim{display:none}}
 .sgh{font:500 1.5rem var(--serif);margin:2rem 0 1rem;color:var(--teal)}.sg:first-of-type .sgh{margin-top:.5rem}
 .eg.sv,.eg.bk{grid-template-columns:repeat(3,1fr)}.eg.bk{grid-template-columns:repeat(2,1fr)}
@@ -494,7 +494,7 @@ html.nav-open,html.nav-open body{overflow:hidden}
 .rk-enh{margin-top:1rem}.rk-enh .diet-grid{margin-top:.6rem}#rk-enh-res{margin:.8rem 0}#rk-enh-res ul{margin:.4rem 0 .6rem 1.1rem;padding:0}#rk-enh-res li{margin:.3rem 0}
 .sh .logo{white-space:nowrap;flex:none}
 .sh nav ul{gap:.85rem}.sh .bar{gap:.8rem}
-@media (min-width:78.01rem) and (max-width:100rem){.sh nav ul{gap:.6rem;font-size:.78rem}.sh .bar{gap:.6rem}.sh .logo{font-size:1.1rem}.hb{padding:.5rem .8rem;font-size:.72rem}}
+@media (min-width:88.01rem) and (max-width:100rem){.sh nav ul{gap:.6rem;font-size:.78rem}.sh .bar{gap:.6rem}.sh .logo{font-size:1.1rem}.hb{padding:.5rem .8rem;font-size:.72rem}}
 .rk-enh{border:1px solid var(--line);margin:1.2rem 0 0;padding:1rem 1.1rem;display:block}.rk-enh legend{font-weight:700;font-size:.85rem;padding:0 .4rem}
 .rk-enh label{display:block;padding:0;cursor:auto}.rk-enh input,.rk-enh select{width:100%;height:auto}
 .dp-gate{margin:1.2rem 0;padding:1.2rem 1.2rem 1rem;border:2px solid var(--teal);border-radius:.5rem;background:#f3fafa}.dp-gate[hidden]{display:none}.dp-gate h3{margin:0 0 .4rem;font-size:1.2rem}

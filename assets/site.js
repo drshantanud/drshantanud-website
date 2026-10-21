@@ -7,7 +7,7 @@ $('scrim').addEventListener('click',function(){setOpen(false)});
 d.addEventListener('click',function(e){if(e.target.closest('a'))setOpen(false)});
 document.addEventListener('keydown',function(e){if(e.key==='Escape')setOpen(false)});
 window.addEventListener('pageshow',function(){setOpen(false)});
-window.addEventListener('resize',function(){if(window.innerWidth>1248)setOpen(false)});
+window.addEventListener('resize',function(){if(window.innerWidth>1408)setOpen(false)});
 var C={naupada:{t:'tel:+919619612887',m:'https://maps.app.goo.gl/V5tXpymTnpMW95KN8?g_st=ic'},godbole:{t:'tel:+912241116789',m:'https://www.google.com/maps/search/?api=1&query=Dr+Godbole+Heart+Care+Hospital+Thane'},justcare:{t:'tel:+918879758831',m:'https://www.google.com/maps/search/?api=1&query=Just+Care+Heart+and+Eye+Clinic+Shubham+Flora+Chembur+Mumbai'}};
 function bind(sel,call,dir){var s=$(sel);if(!s)return;function u(){var c=C[s.value];if(!c)return;$(call).href=c.t;$(dir).href=c.m;$(dir).target='_blank';$(dir).rel='noopener'}s.addEventListener('change',u);u()}
 bind('clinic-top','top-call','top-dir');bind('clinic','cc','cd');
