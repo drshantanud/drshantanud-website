@@ -4,7 +4,7 @@
 .gd{color:var(--muted);max-width:48rem;margin-bottom:1.1rem}
 .gg{list-style:none;margin:0;padding:0;display:grid;gap:.9rem;grid-template-columns:repeat(auto-fill,minmax(15rem,1fr))}
 .gi{display:block;position:relative;border:1px solid var(--line);border-radius:.4rem;overflow:hidden;background:var(--soft);text-decoration:none;color:var(--ink)}
-.gi img{width:100%;aspect-ratio:4/3;object-fit:cover;display:block;transition:transform .25s}
+.gi img{width:100%;height:auto;aspect-ratio:4/3;object-fit:cover;display:block;transition:transform .25s}
 .gi:hover img{transform:scale(1.03)}
 .gc{display:block;padding:.6rem .75rem;font:500 .85rem/1.35 var(--sans)}
 .lb{position:fixed;inset:0;z-index:2000;background:rgba(10,20,20,.94);display:flex;flex-direction:column;align-items:center;justify-content:center;padding:3.5rem 1rem 1rem}
