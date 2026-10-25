@@ -28,3 +28,4 @@ nav.bc{position:static;display:block!important}
 .deep a.df{display:block;text-decoration:none;color:inherit;background:var(--soft);border:1px solid var(--line);border-left:4px solid var(--teal);padding:1.4rem}
 .deep a.df:hover{border-color:var(--teal)}.deep .df h3{font-size:1.5rem;margin-bottom:.5rem}.deep .df p{color:var(--muted);margin:0 0 .6rem}.deep .df span{color:var(--teal);font-weight:600;font-size:.9rem}
 .ec p a.more{display:inline-block;margin-top:.4rem;font-weight:600;color:var(--teal)}
+.fg{margin:0 0 1.25rem}.fg img{width:100%;height:auto;border:1px solid var(--line)}.fg figcaption{font-size:.85rem;color:var(--muted);margin-top:.5rem}
