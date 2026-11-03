@@ -12,7 +12,7 @@ inp.addEventListener('change',function(){add(inp.files);inp.value=''});
 ['dragenter','dragover'].forEach(function(e){drop.addEventListener(e,function(){drop.classList.add('on')})});
 ['dragleave','drop'].forEach(function(e){drop.addEventListener(e,function(){drop.classList.remove('on')})});
 function b64(f){return new Promise(function(res,rej){var r=new FileReader();r.onload=function(){res(String(r.result).split(',')[1]||'')};r.onerror=rej;r.readAsDataURL(f)})}
-function post(o){return fetch(ENDPOINT,{method:'POST',headers:{'Content-Type':'text/plain;charset=utf-8'},body:JSON.stringify(o)}).then(function(r){return r.json()}).then(function(j){if(!j||!j.ok)throw new Error((j&&j.error)||'failed');return j})}
+function post(o){return fetch(ENDPOINT,{method:'POST',headers:{'Content-Type':'text/plain;charset=utf-8'},body:JSON.stringify(o)}).then(function(r){return r.text().then(function(t){try{return JSON.parse(t)}catch(x){throw new Error('Bad reply ('+r.status+'): '+t.replace(/<[^>]*>/g,' ').replace(/\s+/g,' ').substring(0,160))}})}).then(function(j){if(!j||!j.ok)throw new Error((j&&j.error)||'failed');return j})}
 form.addEventListener('submit',function(e){e.preventDefault();
  if(form.website.value)return;
  if(!form.name.value.trim()||!form.age.value||!form.phone.value.trim()||!form.question.value.trim()){say('Please fill in the fields marked *.','err');return}
@@ -25,6 +25,6 @@ form.addEventListener('submit',function(e){e.preventDefault();
   function next(){if(i>=tot)return;var f=files[i];say('Uploading file '+(i+1)+' of '+tot+'...');
    return b64(f).then(function(x){return post({action:'file',folderId:j.folderId,token:j.token,name:f.name,mime:f.type||'application/octet-stream',data:x})}).then(function(){i++;bar.firstChild.style.width=(5+90*i/tot)+'%';return next()})}
   return next()}).then(function(){bar.firstChild.style.width='100%';say('Thank you. Your records have been received. You will hear from the clinic soon.','ok');form.reset();files=[];render();btn.textContent='SUBMITTED'})
- .catch(function(){say('Upload could not be completed. Please try again, or send your reports on WhatsApp +91 88509 74864.','err');btn.disabled=false;bar.hidden=true});
+ .catch(function(er){try{console.error('second-opinion',er)}catch(x){}say('Upload could not be completed ['+String(er&&er.message||er).substring(0,200)+']. Please try again, or send your reports on WhatsApp +91 88509 74864.','err');btn.disabled=false;bar.hidden=true});
 });
 })();
