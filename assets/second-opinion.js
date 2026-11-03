@@ -1,6 +1,6 @@
 (function(){
 // Paste the Google Apps Script web-app URL (see second-opinion-setup.txt) between the quotes.
-var ENDPOINT='';
+var ENDPOINT='https://script.google.com/macros/s/AKfycbzL35BF0cUZz62uTteWcMU-stJE6IddT2Dc_lemBPXE9gyKcuGuTZ4OZp4CXT-JK_9C_g/exec';
 var MAXF=10,MAXB=25*1024*1024,OK=/\.(pdf|jpe?g|png|heic|webp|docx?|zip)$/i;
 var $=function(i){return document.getElementById(i)},form=$('so-form');if(!form)return;
 var files=[],inp=$('so-files'),list=$('so-list'),msg=$('so-msg'),btn=$('so-send'),bar=$('so-bar'),drop=$('so-drop');
