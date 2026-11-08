@@ -1,0 +1,26 @@
+/* Diwali greeting splash (home page only, auto-expires). */
+html.dw-on,html.dw-on body{overflow:hidden}
+html.dw-on .intro-heart,html.dw-on .intro-heart img,html.dw-on .hero .ph>img,html.dw-on .tiles li,html.dw-on .sh{animation-play-state:paused}
+.dw{position:fixed;inset:0;z-index:99999;display:flex;align-items:center;justify-content:center;text-align:center;color:#fff;
+ background:radial-gradient(120% 90% at 50% 105%,#5a1d0a 0%,#2a0f2e 38%,#0b0a22 75%,#05050f 100%);opacity:1;transition:opacity .9s ease}
+.dw.out{opacity:0;pointer-events:none}
+.dw canvas{position:absolute;inset:0;width:100%;height:100%;display:block}
+.dw-card{position:relative;z-index:2;padding:0 1.2rem;max-width:44rem}
+.dw-om{font-size:clamp(1.6rem,5vw,2.4rem);color:#ffd36b;margin:0 0 .4rem;opacity:0;animation:dw-up .9s ease-out .3s forwards}
+.dw-h{margin:0;font-family:Georgia,'Times New Roman',serif;font-weight:700;line-height:1.05;font-size:clamp(2.6rem,10vw,5.6rem);letter-spacing:.01em;
+ background:linear-gradient(100deg,#ffb347 0%,#fff2b0 30%,#ffd36b 50%,#ff8a3d 75%,#ffe08a 100%);background-size:220% 100%;-webkit-background-clip:text;background-clip:text;color:transparent;-webkit-text-fill-color:transparent;
+ opacity:0;animation:dw-up 1s ease-out .6s forwards,dw-shine 3.5s linear 1.4s infinite;filter:drop-shadow(0 4px 22px rgba(255,160,40,.45))}
+.dw-hi{margin:.5rem 0 0;font-size:clamp(1.5rem,5.5vw,2.6rem);color:#ffe9b8;font-family:'Noto Sans Devanagari','Mangal','Nirmala UI',sans-serif;opacity:0;animation:dw-up 1s ease-out 1s forwards}
+.dw-p{margin:1.1rem auto 0;max-width:30rem;font-size:clamp(1rem,3.4vw,1.2rem);line-height:1.5;color:#f4e6d0;opacity:0;animation:dw-up 1s ease-out 1.4s forwards}
+.dw-by{margin:.9rem 0 0;font-size:.95rem;letter-spacing:.08em;color:#ffd36b;opacity:0;animation:dw-up 1s ease-out 1.8s forwards}
+.dw-go{margin-top:1.6rem;padding:.8rem 1.6rem;border:1px solid rgba(255,211,107,.7);border-radius:2rem;background:rgba(255,255,255,.08);color:#ffe9b8;font:600 .95rem/1 inherit;font-family:inherit;letter-spacing:.06em;cursor:pointer;opacity:0;animation:dw-up .8s ease-out 2.2s forwards;backdrop-filter:blur(4px)}
+.dw-go:hover,.dw-go:focus-visible{background:rgba(255,211,107,.25);outline:none}
+.dw-diyas{position:absolute;left:0;right:0;bottom:3vh;z-index:1;display:flex;justify-content:center;gap:clamp(1.2rem,8vw,5rem);pointer-events:none}
+.dw-diya{position:relative;width:clamp(54px,12vw,86px);height:clamp(30px,6vw,44px)}
+.dw-diya i{position:absolute;left:0;right:0;bottom:0;height:62%;background:linear-gradient(#e8872a,#9a3d10);border-radius:6px 6px 50% 50%/6px 6px 100% 100%;box-shadow:0 0 28px rgba(255,160,40,.55)}
+.dw-diya b{position:absolute;left:50%;bottom:55%;width:34%;height:92%;margin-left:-17%;background:radial-gradient(ellipse at 50% 75%,#fff7c2 0,#ffc94d 38%,#ff7a18 70%,rgba(255,80,0,0) 100%);border-radius:50% 50% 50% 50%/62% 62% 38% 38%;transform-origin:50% 100%;animation:dw-flame .35s ease-in-out infinite alternate;filter:blur(.4px)}
+.dw-diya:nth-child(2) b{animation-delay:.12s}.dw-diya:nth-child(3) b{animation-delay:.2s}
+@keyframes dw-up{from{opacity:0;transform:translateY(22px) scale(.96)}to{opacity:1;transform:none}}
+@keyframes dw-shine{to{background-position:-220% 0}}
+@keyframes dw-flame{from{transform:scale(1,1) rotate(-3deg)}to{transform:scale(.88,1.12) rotate(3deg)}}
+@media (prefers-reduced-motion:reduce){.dw-h{animation:dw-up .4s ease-out forwards}.dw-diya b{animation:none}}
