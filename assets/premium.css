@@ -1,0 +1,92 @@
+/* Premium layer: depth, 3D surfaces and motion. Loaded after site.css on every page.
+   Palette comes from the clinic logo: deep teal, logo teal, crimson, pale blue. */
+:root{--teal:#0e6b78;--teal2:#185064;--deep:#0b2c37;--crim:#aa1e33;--pale:#e4f2f4;--soft:#eef6f7;--ink:#0f2c36;--line:#d3e3e6;
+ --r:.9rem;--sh1:0 1px 2px rgba(11,44,55,.08),0 6px 14px -6px rgba(11,44,55,.18);
+ --sh2:0 2px 4px rgba(11,44,55,.08),0 18px 36px -14px rgba(11,44,55,.35),0 40px 70px -40px rgba(11,44,55,.35)}
+body{background:linear-gradient(#f7fbfb,#fff 40rem)}
+
+/* header: glass bar */
+header.sh{background:rgba(255,255,255,.78);backdrop-filter:saturate(1.4) blur(14px);-webkit-backdrop-filter:saturate(1.4) blur(14px);border-bottom:1px solid rgba(211,227,230,.8);box-shadow:0 8px 24px -18px rgba(11,44,55,.5)}
+.logo{font-weight:500;letter-spacing:-.01em}
+
+/* buttons: raised, press on tap */
+.btn{border-radius:.7rem;border:0;background:linear-gradient(180deg,#128595,#0e6b78 55%,#0b5966);box-shadow:inset 0 1px 0 rgba(255,255,255,.28),0 3px 0 #08424c,0 10px 18px -8px rgba(11,44,55,.55);transition:transform .15s,box-shadow .15s,filter .15s;transform:translateY(0)}
+.btn:hover{background:linear-gradient(180deg,#149aac,#0e6b78 60%,#0b5966);filter:brightness(1.05);transform:translateY(-2px);box-shadow:inset 0 1px 0 rgba(255,255,255,.28),0 5px 0 #08424c,0 16px 24px -10px rgba(11,44,55,.55)}
+.btn:active{transform:translateY(3px);box-shadow:inset 0 1px 0 rgba(255,255,255,.2),0 0 0 #08424c,0 4px 8px -4px rgba(11,44,55,.5)}
+.btn.o{background:linear-gradient(180deg,#fff,#f1f7f8);color:var(--ink);box-shadow:inset 0 0 0 1px var(--line),0 3px 0 #c5d8dc,0 10px 16px -10px rgba(11,44,55,.35)}
+.btn.o:hover{background:linear-gradient(180deg,#fff,#e4f2f4);color:var(--teal2);box-shadow:inset 0 0 0 1px #b9d2d7,0 5px 0 #c5d8dc,0 16px 22px -12px rgba(11,44,55,.4)}
+.btn.o:active{box-shadow:inset 0 0 0 1px #b9d2d7,0 0 0 #c5d8dc}
+
+/* menu tiles: keycaps */
+.tiles{background:linear-gradient(#f3f9fa,#e9f3f5);border-bottom:1px solid var(--line);padding:.9rem 0 1.1rem}
+.tiles ul{gap:.55rem;perspective:900px}
+.tiles a{border:0;border-radius:.8rem;background:linear-gradient(160deg,#fff 0%,#f1f8f9 60%,#e2eff1 100%);color:var(--ink);box-shadow:inset 0 1px 0 #fff,inset 0 0 0 1px rgba(197,216,220,.9),0 4px 0 #bcd2d7,0 12px 16px -10px rgba(11,44,55,.45);transition:transform .16s,box-shadow .16s,background .16s,color .16s}
+.tiles a:hover,.tiles a:focus-visible{background:linear-gradient(160deg,#1a8fa0,#0e6b78 60%,#0b5560);color:#fff;transform:translateY(-3px);box-shadow:inset 0 1px 0 rgba(255,255,255,.3),0 7px 0 #08424c,0 18px 20px -10px rgba(11,44,55,.6)}
+.tiles a:active{transform:translateY(4px);box-shadow:inset 0 1px 0 rgba(255,255,255,.2),0 0 0 #08424c}
+.tiles a[aria-current="page"]{background:linear-gradient(160deg,#1a8fa0,#0e6b78 60%,#0b5560);color:#fff;box-shadow:inset 0 1px 0 rgba(255,255,255,.3),0 4px 0 #08424c,0 12px 16px -10px rgba(11,44,55,.6)}
+
+/* home hero: a lit stage */
+.hero:has(.hs){background:radial-gradient(60rem 38rem at 78% 38%,#236f85 0%,rgba(35,111,133,0) 60%),radial-gradient(40rem 30rem at 8% 110%,rgba(170,30,51,.38) 0%,rgba(170,30,51,0) 62%),linear-gradient(160deg,#0d3644 0%,#0b2c37 55%,#081f28 100%);color:#fff;padding:3.5rem 0 6rem}
+.hero:has(.hs) h1{color:#fff;text-shadow:0 2px 0 rgba(0,0,0,.18),0 18px 40px rgba(0,0,0,.35)}
+.hero:has(.hs) .kick{color:#8fd6e2!important}
+.hero:has(.hs) .sub{color:#cfe4e8}
+.hero:has(.hs) .credentials span{background:rgba(255,255,255,.08);border-color:rgba(255,255,255,.22);color:#e9f5f7;backdrop-filter:blur(6px)}
+.hero:has(.hs) .btn.o{background:rgba(255,255,255,.1);color:#fff;box-shadow:inset 0 0 0 1px rgba(255,255,255,.35),0 3px 0 rgba(0,0,0,.28),0 10px 16px -10px rgba(0,0,0,.6);backdrop-filter:blur(6px)}
+.hero:has(.hs) .btn.o:hover{background:rgba(255,255,255,.2);color:#fff}
+.hero:has(.hs) .btn:not(.o){background:linear-gradient(180deg,#c9344a,#aa1e33 55%,#8c1729);box-shadow:inset 0 1px 0 rgba(255,255,255,.3),0 3px 0 #5f0f1b,0 14px 22px -8px rgba(0,0,0,.6)}
+.hero:has(.hs) .hs{border:0;gap:.7rem;grid-template-columns:repeat(3,1fr);max-width:38rem;perspective:800px}
+.hero:has(.hs) .hs div{border:0;padding:1rem 1rem .9rem;border-radius:var(--r);background:linear-gradient(160deg,rgba(255,255,255,.16),rgba(255,255,255,.05));box-shadow:inset 0 1px 0 rgba(255,255,255,.3),inset 0 0 0 1px rgba(255,255,255,.12),0 18px 30px -18px rgba(0,0,0,.7);backdrop-filter:blur(8px)}
+.hero:has(.hs) .hs div:first-child{padding-left:1rem}
+.hero:has(.hs) .hs dt{color:#fff}.hero:has(.hs) .hs dd{color:#bcd9de}
+.hero:has(.hs) .ecgbg{opacity:.9;bottom:1rem}
+.hero:has(.hs) .ecgbg path{stroke:#e2506a;stroke-width:2;filter:drop-shadow(0 0 6px rgba(226,80,106,.8))}
+.hero:has(.hs)::after{content:"";position:absolute;left:0;right:0;bottom:-1px;height:2.4rem;background:linear-gradient(to top,#f7fbfb,rgba(247,251,251,0));pointer-events:none}
+
+/* 3D portrait */
+.hero:has(.hs) .ph{isolation:isolate}
+.hero:has(.hs) .ph::after{display:none}
+.hero:has(.hs) .ph>img{border-radius:1.4rem;transform:perspective(1100px) rotateY(var(--ry,-9deg)) rotateX(var(--rx,3deg));transform-origin:50% 50%;transition:transform .25s ease-out;
+ box-shadow:0 0 0 1px rgba(255,255,255,.25),-1px 1px 0 6px rgba(255,255,255,.06),-28px 34px 50px -18px rgba(0,0,0,.65),-60px 70px 90px -40px rgba(0,0,0,.6)}
+.hero:has(.hs) .ph::before{content:"";position:absolute;inset:6% -5% -6% 9%;border-radius:1.6rem;background:linear-gradient(150deg,#e2506a,#aa1e33 45%,#185064);opacity:.9;z-index:0;transform:perspective(1100px) rotateY(var(--ry,-9deg)) rotateX(var(--rx,3deg)) translateZ(-70px);transition:transform .25s ease-out;filter:blur(.3px)}
+.hero:has(.hs) .intro-heart{--eo:.1}.hero:has(.hs) .intro-heart img{filter:brightness(0) invert(1)}
+@media (hover:none),(max-width:48rem){.hero:has(.hs) .ph>img,.hero:has(.hs) .ph::before{animation:pm-sway 7s ease-in-out 3.2s infinite alternate}}
+@keyframes pm-sway{from{--ry:-8deg;--rx:3deg}to{--ry:7deg;--rx:-2deg}}
+@property --ry{syntax:'<angle>';inherits:true;initial-value:-9deg}
+@property --rx{syntax:'<angle>';inherits:true;initial-value:3deg}
+
+/* cards and media: lifted surfaces */
+.vc,.gi,.quick-book-inner,.so-form,.so-side{border-radius:var(--r);border:1px solid rgba(211,227,230,.9);box-shadow:var(--sh1);overflow:hidden;transition:transform .25s ease-out,box-shadow .25s}
+.so-form,.so-side,.quick-book-inner{overflow:visible}
+.vc:hover,.gi:hover{box-shadow:var(--sh2)}
+.vg,.gg{perspective:1200px}
+.tilt{transform:rotateX(var(--tx,0deg)) rotateY(var(--ty,0deg)) translateZ(0);transform-style:preserve-3d;will-change:transform}
+.play{background:linear-gradient(160deg,#c9344a,#8c1729);box-shadow:0 0 0 6px rgba(255,255,255,.22),0 14px 24px -6px rgba(0,0,0,.6);transition:transform .2s}
+.vc:hover .play{transform:scale(1.12)}
+.quick-book-inner{background:linear-gradient(160deg,#fff,#f1f8f9);padding:2rem;box-shadow:var(--sh2)}
+.soft{background:linear-gradient(180deg,#eef6f7,#e4f2f4)}
+h2{letter-spacing:-.015em}
+.kick{color:var(--crim)}
+
+/* footer and dock */
+footer{background:linear-gradient(160deg,#0d3644,#0b2c37 60%,#081f28);color:#bcd9de;border-top:0}
+footer a{color:#e9f5f7}footer .logo,footer h2,footer h3,footer strong,footer b{color:#fff}
+footer .btn.o{background:rgba(255,255,255,.1);color:#fff;box-shadow:inset 0 0 0 1px rgba(255,255,255,.3),0 3px 0 rgba(0,0,0,.3)}
+.dock{box-shadow:0 -10px 24px -14px rgba(11,44,55,.5)}
+
+@media (max-width:48rem){
+ .hero:has(.hs){padding:2rem 0 4.5rem}
+ .hero:has(.hs) .hs div{padding:.8rem .6rem}
+ .hero:has(.hs) .ph{margin:0 6% 0 4%}
+ .tiles a{border-radius:.65rem}
+ .quick-book-inner{padding:1.3rem}
+}
+@media (prefers-reduced-motion:reduce){.btn,.tiles a,.vc,.gi,.tilt,.hero .ph>img,.hero .ph::before{transition:none!important;animation:none!important}}
+
+/* booking band and footer name */
+.cta{background:radial-gradient(50rem 24rem at 50% 0%,#236f85 0%,rgba(35,111,133,0) 70%),linear-gradient(160deg,#0d3644,#0b2c37 60%,#081f28)!important;color:#fff}
+.cta h1,.cta h2,.cta .h2{color:#fff}.cta p,.cta label{color:#cfe4e8}
+.cta .btn:not(.o){background:linear-gradient(180deg,#c9344a,#aa1e33 55%,#8c1729);box-shadow:inset 0 1px 0 rgba(255,255,255,.3),0 3px 0 #5f0f1b,0 14px 22px -8px rgba(0,0,0,.6)}
+.cta .consultation-actions .btn.o{background:rgba(255,255,255,.1)!important;border:0!important;box-shadow:inset 0 0 0 1px rgba(255,255,255,.4),0 3px 0 rgba(0,0,0,.3)}
+footer .fn{color:#fff;font:500 1.3rem var(--serif)}
+footer hr,footer .w>p:last-child{border-color:rgba(255,255,255,.18)}
+.cta .btn:not(.o){color:#fff!important}
