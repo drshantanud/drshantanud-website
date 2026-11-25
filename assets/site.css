@@ -523,3 +523,9 @@ html.nav-open,html.nav-open body{overflow:hidden}
 /* 11 quick-menu tiles */
 .tiles ul{grid-template-columns:repeat(4,1fr)!important}
 @media (min-width:40rem){.tiles ul{grid-template-columns:repeat(11,1fr)!important}}
+
+/* Diet planner: INDB nutrition per meal and per day */
+.dp-n{display:block;margin-top:.35rem;font-size:.78rem;color:var(--muted);line-height:1.3}
+.dp-tot b{display:block;color:var(--teal2);font-size:1rem}.dp-tot span{display:block;font-size:.8rem;color:var(--muted);line-height:1.35}
+.dp-warn{display:block;margin-top:.3rem;color:#aa1e33;font-size:.9rem}
+@media print{.dp-n{font-size:7px!important;margin-top:1px}.dp-tot b{font-size:8px}.dp-tot span{font-size:7px}}
