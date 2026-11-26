@@ -24,7 +24,8 @@ function bfSide(n,food,i){var EG=['2 boiled eggs','2 egg bhurji','2 egg omelette
  if(/pesarattu|adai/.test(n))return 'curd';
  if(/sprouts (usal|sundal|chaat)/.test(n))return 'buttermilk';
  if(/dhokla/.test(n))return 'sprouts salad';
- if(/poha|upma|dalia/.test(n))return egg?e:'curd';
+ if(/poha/.test(n))return 'sprouts salad';
+ if(/upma|dalia/.test(n))return egg?e:'curd';
  if(/paratha|thepla/.test(n))return egg?e:(i%2?'curd':'paneer bhurji');
  if(/chilla|thalipeeth|handvo|muthia/.test(n))return i%3===1?'Greek yogurt':'curd';
  return 'curd'}
