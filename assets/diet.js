@@ -79,10 +79,13 @@ function render(ns){
  $('dp-carbs').textContent=(T?x.cb:'Carbohydrate target per meal')+': '+names.map((n,i)=>n+' ≈ '+p.cm[i]+' g').join(' · ');
  $('dp-final').innerHTML='<b>'+(T?st(0):'Daily Calories')+':</b> '+c.kcal+' kcal &nbsp;|&nbsp; <b>'+(T?st(1).split('/')[0]:'Protein')+':</b> '+c.pG+' g &nbsp;|&nbsp; <b>'+x.cb+':</b> '+c.cG+' g &nbsp;|&nbsp; <b>'+x.ft+':</b> '+c.fG+' g &nbsp;|&nbsp; <b>'+x.fb+':</b> ≥ '+c.fib+' g';
  var av=p.nut?p.nut.reduce((a,d)=>({k:a.k+d.day.k/7,p:a.p+d.day.p/7}),{k:0,p:0}):null;
- if(av)$('dp-final').innerHTML+='<br><b>'+(T?'≈':'Plan average')+':</b> '+R(av.k)+' kcal &nbsp;|&nbsp; '+X(R(av.p)+' g protein')+(Math.abs(av.k-c.kcal)>c.kcal*.1?'<span class="dp-warn">'+(av.k<c.kcal?'This meal pattern falls short of your energy target; add an extra snack or larger portions.':'This meal pattern is above your energy target even at the smallest portions; keep portions modest.')+'</span>':'')+(av.p<c.pG*.85?'<span class="dp-warn">Protein in these meals is below your target; add an extra protein serving (dal, sprouts, paneer, tofu, eggs, curd or whey).</span>':'');
- if(p.nut&&window.DIET_NUT.guide){var used=[];p.nut.forEach(function(d){d.meals.forEach(function(m){m.used.forEach(function(k){if(used.indexOf(k)<0)used.push(k)})})});
-  var GT={hi:'इस योजना में मात्रा का माप',mr:'या योजनेतील प्रमाणाचे माप',gu:'આ યોજનામાં માપ',ta:'இந்த திட்டத்தில் அளவுகள்',te:'ఈ ప్రణాళికలో పరిమాణాలు',kn:'ಈ ಯೋಜನೆಯ ಅಳತೆಗಳು',ml:'ഈ പ്ലാനിലെ അളവുകൾ',bn:'এই পরিকল্পনার পরিমাপ'}[f.lang]||'Portion sizes used in this plan';
-  $('dp-sizes').innerHTML='<h3>'+GT+'</h3><p class="dp-sz-n">'+(T?'':'Calories above are for these sizes. A bigger roti or bhakri, or more ghee, adds to them. 1 katori = 150 ml bowl.')+'</p><dl>'+window.DIET_NUT.guide(used).map(function(e){return '<div><dt>'+X(e[1])+'</dt><dd>'+e[2]+'</dd></div>'}).join('')+'</dl>'}
+ var WA=window.DIET_ADV?window.DIET_ADV.advice(f.lang):{pa:'Plan average',ws:'',wa:'',wp:''};
+ if(av)$('dp-final').innerHTML+='<br><b>'+WA.pa+':</b> '+R(av.k)+' kcal &nbsp;|&nbsp; '+X(R(av.p)+' g protein')+(Math.abs(av.k-c.kcal)>c.kcal*.1?'<span class="dp-warn">'+(av.k<c.kcal?WA.ws:WA.wa)+'</span>':'')+(av.p<c.pG*.85?'<span class="dp-warn">'+WA.wp+'</span>':'');
+ if(p.nut&&window.DIET_ADV){var used=[];p.nut.forEach(function(d){d.meals.forEach(function(m){m.used.forEach(function(k){if(used.indexOf(k)<0)used.push(k)})})});
+  var SZ=window.DIET_ADV.sizes(used,f.lang);
+  $('dp-sizes').innerHTML='<h3>'+SZ.title+'</h3><p class="dp-sz-n">'+SZ.note+'</p><dl>'+SZ.rows.map(function(e){return '<div><dt>'+X(e[1])+'</dt><dd>'+e[2]+'</dd></div>'}).join('')+'</dl>'}
+ if(window.DIET_ADV){var AD=window.DIET_ADV.advice(f.lang),li=function(a){return '<ul>'+a.map(function(t){return '<li>'+t+'</li>'}).join('')+'</ul>'};
+  $('dp-adv').innerHTML='<div><h3>'+AD.ht+'</h3>'+li(AD.h)+'</div><div><h3>'+AD.at+'</h3>'+li(AD.a)+'</div>'}
  $('dp-cust').textContent=x.cust+(c.adj?' (Macronutrient shares were adjusted slightly to keep fat within 20–40% of calories.)':'');
  $('dp-dn').textContent=f.dia==='no'?'':x.dn;$('dp-dn').style.display=f.dia==='no'?'none':'';
  $('dp-disc').textContent=(T?T.disc:EN.disc)+(p.nut?' Nutrition values: Indian Nutrient Databank (INDB, Anuvaad, release 2024.11) for cooked dishes; Indian Food Composition Tables 2017 (NIN-ICMR) for paneer, milk/curd, eggs, nuts, roasted chana, jowar, bajra and ragi flour, brown rice and fruit; typical reference values for tofu, Greek yogurt, whey and a few regional dishes. Figures are estimates for usual home portions.':'');
