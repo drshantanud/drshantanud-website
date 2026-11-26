@@ -562,3 +562,7 @@ html.nav-open,html.nav-open body{overflow:hidden}
  #dp-adv h3{font-size:10px!important;margin:0 0 3px!important}#dp-adv li{font-size:8.5px!important;margin:1px 0!important;line-height:1.35!important}
  #dp-adv,#dp-sizes{-webkit-print-color-adjust:exact;print-color-adjust:exact}
 }
+
+/* Diet planner: recipe links */
+.dp-rl{color:var(--teal2);text-decoration:underline;text-decoration-color:rgba(14,107,120,.35);text-underline-offset:2px}.dp-rl:hover{text-decoration-color:currentColor}
+@media print{.dp-rl{color:inherit!important;text-decoration:none!important}}
