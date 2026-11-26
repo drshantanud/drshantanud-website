@@ -85,7 +85,7 @@ function render(ns){
   $('dp-sizes').innerHTML='<h3>'+GT+'</h3><p class="dp-sz-n">'+(T?'':'Calories above are for these sizes. A bigger roti or bhakri, or more ghee, adds to them. 1 katori = 150 ml bowl.')+'</p><dl>'+window.DIET_NUT.guide(used).map(function(e){return '<div><dt>'+X(e[1])+'</dt><dd>'+e[2]+'</dd></div>'}).join('')+'</dl>'}
  $('dp-cust').textContent=x.cust+(c.adj?' (Macronutrient shares were adjusted slightly to keep fat within 20–40% of calories.)':'');
  $('dp-dn').textContent=f.dia==='no'?'':x.dn;$('dp-dn').style.display=f.dia==='no'?'none':'';
- $('dp-disc').textContent=(T?T.disc:EN.disc)+(p.nut?' Nutrition values: Indian Nutrient Databank (INDB, Anuvaad, release 2024.11) for cooked dishes; typical reference values for paneer, curd, tofu, fruit, nuts, millet rotis and a few regional dishes. Figures are estimates for usual home portions.':'');
+ $('dp-disc').textContent=(T?T.disc:EN.disc)+(p.nut?' Nutrition values: Indian Nutrient Databank (INDB, Anuvaad, release 2024.11) for cooked dishes; Indian Food Composition Tables 2017 (NIN-ICMR) for paneer, milk/curd, eggs, nuts, roasted chana, jowar, bajra and ragi flour, brown rice and fruit; typical reference values for tofu, Greek yogurt, whey and a few regional dishes. Figures are estimates for usual home portions.':'');
  $('dp-result').lang=T?f.lang:'en';$('dp-result').style.fontFamily=T?"'Noto Sans "+FONT[f.lang]+"',var(--sans)":'';
  $('dp-result').style.display='block';if(!ns)$('dp-result').scrollIntoView({behavior:'smooth',block:'start'})}
 window.DIET_PLAN=function(f){var c=calc(f);return {c:c,p:plan({food:f.food,region:f.region,dia:f.dia,kcal:c.kcal,carbG:c.cG,pG:c.pG,fG:c.fG})}};
