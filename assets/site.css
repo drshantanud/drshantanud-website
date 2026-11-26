@@ -536,3 +536,10 @@ html.nav-open,html.nav-open body{overflow:hidden}
 .dp-sizes dl{margin:0;display:grid;grid-template-columns:repeat(auto-fill,minmax(17rem,1fr));gap:.55rem 1.4rem}
 .dp-sizes dl div{padding:.45rem 0;border-bottom:1px solid var(--line)}.dp-sizes dt{font-weight:600;color:var(--ink)}.dp-sizes dd{margin:.15rem 0 0;font-size:.9rem;color:var(--muted)}
 @media print{.dp-sizes{break-inside:avoid;padding:6px;background:#fff!important}.dp-sizes dl{grid-template-columns:repeat(3,1fr);gap:2px 10px}.dp-sizes dt,.dp-sizes dd{font-size:8px}.dp-sizes h3{font-size:10px}}
+
+/* Diet planner: activity level guidance */
+.dp-act-help{margin:.35rem 0 0;font-size:.85rem;color:var(--muted);line-height:1.4}
+.dp-act-guide{margin-top:.4rem;font-size:.88rem}.dp-act-guide summary{cursor:pointer;color:var(--teal2);font-weight:600}
+.dp-act-guide dl{margin:.6rem 0 .4rem}.dp-act-guide dt{font-weight:600;color:var(--ink);margin-top:.5rem}.dp-act-guide dd{margin:.1rem 0 0;color:var(--muted);line-height:1.45}
+.dp-act-guide p{margin:.5rem 0 0;color:var(--muted)}
+@media print{.dp-act-guide{display:none}}
