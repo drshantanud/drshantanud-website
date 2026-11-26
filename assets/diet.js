@@ -18,6 +18,16 @@ const R={
 const VEG=['lauki','bhindi','palak','methi','gobi','beans','mixed vegetable'];
 const CNT={chilla:[2,2,3],thalipeeth:[1,2,2],thepla:[2,2,3],paratha:[1,1,2],pesarattu:[1,2,2],adai:[1,2,2],dosa:[1,1,2],idli:[2,3,4],dhokla:[2,3,4],muthia:[3,4,5],handvo:[1,2,2]};
 function bfName(n,tier,cnt){var k=Object.keys(CNT).filter(function(x){return n.indexOf(x)>-1})[0];return k?(cnt!=null?cnt:CNT[k][tier])+' '+n:n}
+// Breakfast side that is actually eaten with each dish (protein add-on). Eggs only with dishes egg-eaters commonly pair them with.
+function bfSide(n,food,i){var EG=['2 boiled eggs','2 egg bhurji','2 egg omelette'],egg=food!=='veg'&&i%2===0,e=EG[(i>>1)%3];
+ if(/idli|dosa/.test(n))return 'sambar';
+ if(/pesarattu|adai/.test(n))return 'curd';
+ if(/sprouts (usal|sundal|chaat)/.test(n))return 'buttermilk';
+ if(/dhokla/.test(n))return 'sprouts salad';
+ if(/poha|upma|dalia/.test(n))return egg?e:'curd';
+ if(/paratha|thepla/.test(n))return egg?e:(i%2?'curd':'paneer bhurji');
+ if(/chilla|thalipeeth|handvo|muthia/.test(n))return i%3===1?'Greek yogurt':'curd';
+ return 'curd'}
 function bfBase(n,tier){var k=Object.keys(CNT).filter(function(x){return n.indexOf(x)>-1})[0];return k?CNT[k][tier]:null}
 function build(p){
  const dia=p.dia==='yes',pre=p.dia==='pre',R0=R[p.region],tier=p.kcal<1600?0:p.kcal<2200?1:2,pg=[100,120,150][tier],pgp=pg-20;
@@ -35,7 +45,7 @@ function build(p){
   var v=VEG[(i*2)%7]+' '+R0.sf, v2=VEG[(i*3+1)%7]+' '+R0.sf;
   var A=(p.adj&&p.adj[i])||{},bn=(dia||pre&&i%2?R0.bfD:R0.bfN)[i],gL=A.gL!=null?A.gL:gL0,gD=A.gD!=null?A.gD:gD0,pgi=A.pg!=null?A.pg:pg,P=PR(pgi,pgi-20,i);
   base.push({gL:gL,gD:gD,bt:A.bt!=null?A.bt:bfBase(bn,tier),pg:pgi,dmin:dia?0:1,x:A.x||0});
-  var B=bfName(bn,tier,A.bt)+' + '+bp[i];
+  var B=bfName(bn,tier,A.bt)+' + '+bfSide(bn,p.food,i);
   var L=[gr(gL,i,0),R0.dal[i],v,'salad',P[0]].filter(Boolean).join(' + ');
   var D=['vegetable soup',P[1],v2,gr(gD,i+2,1)].filter(Boolean).join(' + ');
   var M=mm[i],E=es[i];if(A.x>=1)M+=' + '+(dia||pre?'roasted chana':'banana milkshake');if(A.x>=2)E+=' + '+(dia||pre?'roasted chana':'2 peanut chikki');
